@@ -1,0 +1,25 @@
+Category,Parameter,Description,DisplayValue,Unit,Reference,Note
+Volumes,V_brt,Brain tissue volume,1.45,L,ICRP Publication 89,Derived from ICRP Table 2.8 assuming a density of 1 kg/L
+Volumes,V_brb,Brain blood volume,0.064,L,ICRP Publication 89,Derived from ICRP Tables 2.12 and 2.14
+Volumes,V_bra,Total brain volume,1.51,L,--,V_bra = V_brt + V_brb
+Volumes,V_ecv,Endothelial cell volume,0.0076,L,Simcyp; Verscheijden et al. 2019,V_ecv = V_bra * 0.005
+Volumes,V_csf,Total CSF volume,0.16,L,Simcyp; Verscheijden et al. 2019,V_csf = V_bra * 0.105
+Volumes,V_ccsf,Cranial CSF volume,0.13,L,Simcyp; Verscheijden et al. 2019,V_ccsf = V_csf * 0.8
+Volumes,V_scsf,Spinal CSF volume,0.032,L,Simcyp; Verscheijden et al. 2019,V_scsf = V_csf * 0.2
+Volumes,V_brm,Brain mass volume,1.28,L,Simcyp; Verscheijden et al. 2019,V_brm = V_bra - V_ecv - V_brb - V_csf
+Volumes,V_ecf,Brain extracellular fluid volume,0.26,L,Saleh et al. 2021,V_ecf = V_brm * 0.2
+Volumes,V_icf,Brain intracellular fluid volume,1.03,L,Saleh et al. 2021,V_icf = V_brm * 0.8
+Flows,Q_cbf,Cerebral blood flow,46.8,L/h,ICRP Publication 89,Derived from ICRP Tables 2.39 and 2.40
+Flows,Q_prodflow,CSF production rate,0.021,L/h,Simcyp; Verscheijden et al. 2019,--
+Flows,Q_bulk,Bulk CSF flow rate,0.0053,L/h,Simcyp; Verscheijden et al. 2019,Q_bulk = Q_prodflow * 0.25; CV = 8%
+Flows,Q_ssink,Spinal CSF sink flow,0.0080,L/h,Simcyp; Verscheijden et al. 2019,Q_ssink = Q_prodflow * 0.38; CV = 30%
+Flows,Q_csink,Cranial CSF sink flow,0.013,L/h,Simcyp; Verscheijden et al. 2019,Q_csink = Q_prodflow - Q_ssink
+Flows,Q_sout,Spinal CSF outflow,0.0072,L/h,Simcyp; Verscheijden et al. 2019,Q_sout = Q_ssink * 0.9; CV = 100%
+Flows,Q_sinflow,Spinal CSF inflow,0.015,L/h,Simcyp; Verscheijden et al. 2019,Q_sinflow = Q_ssink + Q_sout
+Surface areas,SA_bbb,Surface area of the blood-brain barrier,15,m^2,Gaohua et al. 2016; Saleh et al. 2021,--
+Surface areas,SA_bcsfb,Surface area of the blood-CSF barrier,7.5,m^2,Bowman et al. 2023; Gaohua et al. 2016,SA_bcsfb = SA_bbb * 0.5
+Surface areas,SA_bcm,Surface area of the brain cell membrane,300,m^2,Bowman et al. 2023; Saleh et al. 2021,SA_bcm = SA_bbb * 20
+pH,pH_brp,pH of brain plasma,7.4,pH,Atherton 2003; Saleh et al. 2021,--
+pH,pH_csf,pH of cerebrospinal fluid,7.3,pH,Fridén et al. 2011; Saleh et al. 2021,--
+pH,pH_ecf,pH of brain extracellular fluid,7.3,pH,Fridén et al. 2011; Saleh et al. 2021,--
+pH,pH_icf,pH of brain intracellular fluid,7,pH,Fridén et al. 2011; Saleh et al. 2021,--

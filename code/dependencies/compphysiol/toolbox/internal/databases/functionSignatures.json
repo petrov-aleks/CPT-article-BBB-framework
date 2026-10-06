@@ -1,0 +1,40 @@
+{
+    "Physiology.Physiology": 
+    {
+        "inputs": 
+        [
+            {"name":"refid", "kind":"ordered", "type":"choices={PhysiologyDB.Instance.name}", "purpose":"Name of reference individual"}
+        ]
+    },    
+    "DrugData.DrugData": 
+    {
+        "inputs": 
+        [
+            {"name":"cpd", "kind":"required", "type":"choices={DrugDB.Instance.name}", "purpose":"Name of compound"},
+            {"name":"species", "kind":"namevalue", "purpose":"Species to filter by"},
+            {"name":"reference", "kind":"namevalue", "purpose":"Reference to filter by"},
+            {"name":"assumption", "kind":"namevalue", "purpose":"Assumption to filter by"},
+            {"name":"silent", "kind":"namevalue", "type":["logical","scalar"], "purpose":"Filter silently?"}
+        ]
+    },
+    "DB.getvalue": 
+    {
+        "inputs": 
+        [
+            {"name":"obj", "kind":"required", "type":"Physiology", "purpose":"Object to query"},        
+            {"name":"nm", "kind":"required", "type":["char","choices=definedParams(obj)"], "purpose":"Parameter to query"},
+            {"name":"tis", "kind":"ordered", "type":["char","choices=obj.db.(nm).Tissue"], "purpose":"Tissue to query"},
+            {"name":"Default", "kind":"namevalue", "purpose":"Default value if no match is found"}
+        ]
+    },
+    "DB.getvalue": 
+    {
+        "inputs": 
+        [
+            {"name":"obj", "kind":"required", "type":"DrugData", "purpose":"Object to query"},        
+            {"name":"nm", "kind":"required", "type":["char","choices=definedParams(obj)"], "purpose":"Parameter to query"},
+            {"name":"spc", "kind":"ordered", "type":["char","choices=obj.db.(nm).Species"], "purpose":"Species to query"},
+            {"name":"Default", "kind":"namevalue", "purpose":"Default value if no match is found"}
+        ]
+    }
+}

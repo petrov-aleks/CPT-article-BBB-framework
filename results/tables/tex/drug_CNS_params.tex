@@ -1,0 +1,58 @@
+\begin{tabularx}{\linewidth}{@{} p{70pt} p{150pt} *{6}{>{\centering\arraybackslash}p{68pt}} @{}}
+\toprule
+Parameter         & Description                                        & Ethanol                 & Diazepam                & Paracetamol             & Ibuprofen               & Indomethacin             & Mannitol               \\
+\cmidrule(lr){3-8}
+                  &                                                    & Value [Ref.]            & Value [Ref.]            & Value [Ref.]            & Value [Ref.]            & Value [Ref.]            & Value [Ref.]           \\
+\midrule
+\multicolumn{8}{@{}l}{\textbf{Physicochemical}} \\
+\addlinespace[0.5em]
+$\MW$ (g/mol)     & Molecular weight                                   & 46.07 \cite{drugbank}   & 284.74 \cite{drugbank}  & 151.16 \cite{drugbank}  & 206.28 \cite{drugbank}  & 357.8 \cite{drugbank}   & 182.17 \cite{drugbank} \\
+$\logP$           & Octanol–water partition coefficient of the neutral species & -0.31 \cite{drugbank}   & 2.82 \cite{drugbank}    & 0.46 \cite{drugbank}    & 3.97 \cite{drugbank}    & 4.27 \cite{drugbank}    & -3.1 \cite{drugbank}   \\
+Class             & Ionic class                                        & neutral\textsuperscript{a} & neutral\textsuperscript{a} & neutral\textsuperscript{a} & acid                    & acid                    & neutral\textsuperscript{a} \\
+$\pKa$            & Acid dissociation constant                         & --                      & --                      & --                      & 5.3 \cite{drugbank}     & 4.5 \cite{drugbank}     & --                     \\
+\addlinespace[0.5em]
+\multicolumn{8}{@{}l}{\textbf{Blood binding}} \\
+\addlinespace[0.5em]
+$\BP$             & Blood-to-plasma ratio                              & 0.88\textsuperscript{b} & 0.71 \cite{obach1999}   & 1.09\textsuperscript{c}     & 0.57 \cite{obach1999}\textsuperscript{d} & 0.57\textsuperscript{c}      & 0.57\textsuperscript{c} \\
+$\EP$             & Erythrocyte-to-plasma ratio                        & --                      & --                      & 1.2 \cite{prescott1980}     & --                                       & 0.024 \cite{bruguerolle1986} & 0.028 \cite{norlen1986} \\
+$\fupla$          & Fraction unbound in plasma                         & 1\textsuperscript{e}    & 0.013 \cite{obach1999}  & 0.86 \cite{summerfield2008} & 0.01 \cite{obach1999}                    & 0.01 \cite{obach2008}        & 1\textsuperscript{e}   \\
+\addlinespace[0.5em]
+\multicolumn{8}{@{}l}{\textbf{Brain binding}} \\
+\addlinespace[0.5em]
+$\fubrp$          & Fraction unbound in brain plasma\textsuperscript{f}& 1                       & 0.013                   & 0.86                    & 0.01                    & 0.01                    & 1                  \\
+$\fuecf$          & Fraction unbound in brain ECF\textsuperscript{e}   & 1                       & 1                       & 1                       & 1                       & 1                       & 1                     \\
+$\fuicf$          & Fraction unbound in brain ICF\textsuperscript{g}   & 1\textsuperscript{e}    & 0.05 \cite{avdeef2012}\textsuperscript{h} & 0.75 \cite{summerfield2008} & 0.29 \cite{summerfield2006}\textsuperscript{h} & 0.055 \cite{di2011} & 1\textsuperscript{e} \\
+$\fucsf$          & Fraction unbound in CSF                            & 1\textsuperscript{e}    & 0.72\textsuperscript{i} & 1\textsuperscript{e}    & 0.67\textsuperscript{i} & 0.67\textsuperscript{i} & 1\textsuperscript{e} \\
+\addlinespace[0.5em]
+\multicolumn{8}{@{}l}{\textbf{Brain ionization}\textsuperscript{j}} \\
+\addlinespace[0.5em]
+$\fnbrp$          & Fraction neutral in brain plasma                   & 1     & 1     & 1     & 0.0079 & 0.0013 & 1 \\
+$\fnecf$          & Fraction neutral in brain ECF                     & 1     & 1     & 1     & 0.0099 & 0.0016 & 1 \\
+$\fnicf$          & Fraction neutral in brain ICF                     & 1     & 1     & 1     & 0.0196 & 0.0032 & 1 \\
+$\fncsf$          & Fraction neutral in CSF                           & 1     & 1     & 1     & 0.0099 & 0.0016 & 1 \\
+\addlinespace[0.5em]
+\multicolumn{8}{@{}l}{\textbf{Brain permeability}} \\
+\addlinespace[0.5em]
+$\Pcer$ ($10^{-6}$ cm/s) & Intrinsic permeability\textsuperscript{k}               & 411   & 14400  & 19.22 & 1070  & 573   & 0.044 \\
+$\PSbbb$ (L/h)           & Permeability-surface area (BBB)\textsuperscript{l}      & 222   & 7770   & 10.38 & 578   & 309   & 0.024 \\
+$\PSbcsfb$ (L/h)         & Permeability-surface area (BCSFB)\textsuperscript{l}    & 111   & 3884   & 5.19  & 289   & 155   & 0.012 \\
+$\PSbcm$ (L/h)           & Permeability-surface area (BCM)\textsuperscript{l}      & 4440  & 155400 & 208   & 11550 & 6186  & 0.48  \\
+$\PSe$ (L/h)             & Permeability-surface area (Ependyma)\textsuperscript{m} & 300   & 300    & 300   & 300   & 300   & 300   \\
+\bottomrule
+\end{tabularx}
+\begin{flushleft}
+\footnotesize
+\textsuperscript{a} Assumed neutral within the modeled physiological pH range (7.0--7.4).\\
+\textsuperscript{b} Calculated as inverse plasma-to-blood ratio: $\BP = 1 / 1.14$. \cite{winek1987}\\
+\textsuperscript{c} Calculated from $\EP$ and hematocrit ($\hct$) as $\BP = 1 - \hct + \EP \cdot \hct$ with $\hct = 0.43$.\\
+\textsuperscript{d} Adjusted to minimum physiological value corresponding to $\hct = 0.43$.\\
+\textsuperscript{e} Protein binding assumed negligible.\\
+\textsuperscript{f} Assumed equal to $\fupla$.\\
+\textsuperscript{g} Assumed equal to experimentally determined $\fubrain$.\\
+\textsuperscript{h} Assumed equal to rat values.\\
+\textsuperscript{i} For compounds with extensive protein binding, calculated as $1 / (1 + Q_{\alb} \cdot (1/\fupla - 1))$, where albumin CSF-to-plasma ratio $Q_{\alb} = 0.005$. \cite{friden2009}\\
+\textsuperscript{j} For neutral compounds assumed equal to 1; otherwise calculated using the Henderson--Hasselbalch equation.\\
+\textsuperscript{k} Optimized using human CNS exposure data.\\
+\textsuperscript{l} Calculated as product of intrinsic permeability and corresponding surface area.\\
+\textsuperscript{m} Assumed value (300 L/h), i.e. not considered a barrier.\\
+\end{flushleft}

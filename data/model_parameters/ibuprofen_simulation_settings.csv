@@ -1,0 +1,8 @@
+Parameter,Value,Unit,Basis
+initial_PS_BBB,500,L/h,Original optimization workflow
+reported_lower_PS_BBB,1,L/h,Recorded but not applied by fminsearch
+reported_upper_PS_BBB,200000,L/h,Recorded but not applied by fminsearch
+PS_ependyma,300,L/h,Assumed nonlimiting
+perfusion_limited_PS_BBB,1e10,L/h,Reference scenario
+sampling_end,25,h,Original simulation workflow
+sampling_interval,0.1,h,Original simulation workflow

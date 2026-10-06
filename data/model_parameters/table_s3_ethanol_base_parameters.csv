@@ -1,0 +1,14 @@
+Parameter,Value,Unit,Basis
+MW,46.0684,g/mol,DrugBank
+logP,-0.31,unitless,DrugBank
+ionic_class,neutral,unitless,Assumed neutral at modeled pH
+plasma_to_blood_ratio,1.14,unitless,Winek et al. 1987
+fu_plasma,1,unitless,Protein binding assumed negligible
+fu_brain_plasma,1,unitless,Assumed equal to fraction unbound in plasma
+fu_brain_ecf,1,unitless,Protein binding assumed negligible
+fu_brain_icf,1,unitless,Protein binding assumed negligible
+fu_csf,1,unitless,Protein binding assumed negligible
+fn_brain_plasma,1,unitless,Neutral compound
+fn_brain_ecf,1,unitless,Neutral compound
+fn_brain_icf,1,unitless,Neutral compound
+fn_csf,1,unitless,Neutral compound

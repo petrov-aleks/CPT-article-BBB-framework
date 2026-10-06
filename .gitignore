@@ -1,0 +1,14 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# MATLAB editor backup and autosave files
+*.asv
+*.m~
+*~
+
+# MATLAB generated build artifacts
+slprj/
+codegen/
+*.mex*
+

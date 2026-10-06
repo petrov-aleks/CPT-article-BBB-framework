@@ -1,0 +1,74 @@
+\begin{tabularx}{\linewidth}{@{} 
+    p{150pt} 
+    >{\centering\arraybackslash}p{50pt} 
+    >{\centering\arraybackslash}p{50pt} 
+    >{\centering\arraybackslash}p{75pt} 
+    >{\centering\arraybackslash}p{75pt} 
+    >{\centering\arraybackslash}p{85pt} 
+    p{150pt} @{}}
+
+\toprule
+
+Equation
+& $R^2$ & $n$ & Descriptor(s) & $\logP$ range & MW range (g/mol) & Reference \\
+
+\midrule
+
+\multicolumn{7}{@{}l}{\textbf{In silico perfusion models}} \\
+\addlinespace[0.5em]
+
+$\mathrm{PS_0} = 10^{-1.24 + 0.887(\logP - 0.5\log \MW)}$
+& 0.95
+& 78
+& $\log(\text{P}/\sqrt{\MW})$
+& $(-4.4,\ 7.57)$
+& $(18,\ 5000)$
+& Smith et al.\ 2024 \cite{smith2024}
+\\
+
+\addlinespace[0.5em]
+
+$\mathrm{PS_0} = 10^{-2.06 + 0.448 \cdot \logP - 0.366(\MW/100)}$
+& 0.80
+& 22
+& $\logP,\ \MW$
+& $(-3.3,\ 4.82)$
+& $(75,\ 515)$
+& Luco et al.\ 2006 \cite{luco2006}
+\\
+
+\addlinespace[0.5em]
+
+\multicolumn{7}{@{}l}{\textbf{In silico PAMPA models}} \\
+\addlinespace[0.5em]
+
+$\mathrm{P_0} = 10^{-4.69 + 0.74(\logP - 0.5\log \MW)}$
+& 0.58
+& 107
+& $\log(\text{P}/\sqrt{\MW})$
+& $(-2.7,\ 6.1)$
+& $(136,\ 1203)$
+& Tsinman et al.\ 2011 \cite{tsinman2011}
+\\
+
+\addlinespace[0.5em]
+
+$\mathrm{P_0} = 10^{- 6.210 + 0.939 \cdot \logP}$
+& 0.78
+& 36
+& $\logP$
+& $(-0.8,\ 5.2)$
+& $(76,\ 543)$
+& Grumetto et al.\ 2016 \cite{grumetto2016}
+\\
+
+\bottomrule
+
+\end{tabularx}
+
+\begin{flushleft}
+\footnotesize
+$R^2$ denotes the coefficient of determination and $n$ denotes the number of compounds included in the corresponding training dataset. 
+
+All equations and underlying datasets were taken from the referenced publications, except for the Tsinman et al.\ model, where the dataset was taken from the referenced publication whereas the equation was derived for the purposes of the present work.
+\end{flushleft}

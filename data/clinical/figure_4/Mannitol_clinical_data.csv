@@ -1,0 +1,15 @@
+site,source,time,conc
+plasma,Anderson et al. 1988,0.25,4.04
+plasma,Anderson et al. 1988,0.33,3
+plasma,Anderson et al. 1988,0.5,2.43
+plasma,Anderson et al. 1988,0.75,1.93
+plasma,Anderson et al. 1988,1,1.44
+plasma,Anderson et al. 1988,2,1.1
+plasma,Anderson et al. 1988,3,0.83
+plasma,Anderson et al. 1988,4,0.54
+scsf,Anderson et al. 1988,0.25,0.01
+scsf,Anderson et al. 1988,0.5,0.02
+scsf,Anderson et al. 1988,1,0.03
+scsf,Anderson et al. 1988,2,0.06
+scsf,Anderson et al. 1988,3,0.1
+scsf,Anderson et al. 1988,4,0.1

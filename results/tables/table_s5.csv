@@ -1,0 +1,5 @@
+Category,Model,Equation,R2,N,Descriptor,Minimum_logP,Maximum_logP,Minimum_MW_g_per_mol,Maximum_MW_g_per_mol,Reference,ValueOrigin,Intercept,LogP_Coefficient,Log10_MW_Coefficient,MW_over_100_Coefficient
+In silico perfusion models,Smith et al. 2024,PS0 = 10^(-1.24 + 0.887*(logP - 0.5*log10(MW))),0.95,78,"logP - 0.5*log10(MW)",-4.4,7.57,18,5000,Smith et al. 2024,Published equation and statistics,-1.24,0.887,-0.4435,0
+In silico perfusion models,Luco et al. 2006,PS0 = 10^(-2.06 + 0.448*logP - 0.366*(MW/100)),0.8,22,"logP, MW",-3.3,4.82,75,515,Luco et al. 2006,Published equation and statistics,-2.06,0.448,0,-0.366
+In silico PAMPA models,Tsinman-based model,P0 = 10^(-4.69 + 0.74*(logP - 0.5*log10(MW))),0.580339402674107,107,"logP - 0.5*log10(MW)",-2.7,6.1,136,1203,Tsinman et al. 2011,Equation and statistics fitted in the present work,-4.6908,0.7404,-0.3702,0
+In silico PAMPA models,Grumetto et al. 2016,P0 = 10^(-6.210 + 0.939*logP),0.78,36,"logP",-0.8,5.2,76,543,Grumetto et al. 2016,Published equation and statistics,-6.21,0.939,0,0

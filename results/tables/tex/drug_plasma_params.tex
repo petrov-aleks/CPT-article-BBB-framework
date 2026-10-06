@@ -1,0 +1,71 @@
+\begin{tabularx}{\linewidth}{@{}
+p{70pt}
+p{100pt}
+*{6}{>{\centering\arraybackslash}p{70pt}}
+@{}}
+\toprule
+
+Parameter & Description 
+& Ethanol\textsuperscript{a}
+& Diazepam
+& Paracetamol
+& Ibuprofen
+& Indomethacin
+& Mannitol \\
+
+\cmidrule(lr){3-8}
+
+& 
+& Value (CV\%) \cite{buesker2023}
+& Value (CV\%) \cite{hung1996}\textsuperscript{c}
+& Value (CV\%) \cite{wang2014}
+& Value (CV\%) \cite{gasthuys2025}\textsuperscript{c}
+& Value (CV\%) \cite{saleh2021}\textsuperscript{c}
+& Value (CV\%) \cite{anderson1988}\textsuperscript{e} \\
+
+\midrule
+
+\multicolumn{8}{@{}l}{\textbf{Absorption}} \\
+\addlinespace[0.5em]
+
+$\ka$ (1/h)         & Absorption rate constant            & 1.45 (32) & 1.5 (50)   & 1 (80)\textsuperscript{d}  & 2 (110)   & 1 (50) & 0 (--) \\
+$F$                 & Bioavailability                     & 0.94 (--) & 1 (--)     & 0.86 (15)\textsuperscript{d} & 1 (--)    & 1 (--) & 1 (--) \\
+$T_{\lag}$ (h)      & Absorption lag time                 & 0 (--)    & 0 (--)     & 0.1 (30)\textsuperscript{d}  & 0.25 (50) & 0 (--) & 0 (--) \\
+
+\addlinespace[0.5em]
+\multicolumn{8}{@{}l}{\textbf{Distribution}} \\
+\addlinespace[0.5em]
+
+$V_{\cntr}$ (L)     & Central volume                     & 11.1 (58)  & 19.7 (20)  & 25.1 (64) & 9.5 (42) & 4.6 (30)  & 5.2 (42) \\
+$V_{\pone}$ (L)     & Peripheral volume 1                & 28.2 (17)  & 54.4 (95)  & 36.1 (--) & 0 (--)   & 34.6 (30) & 13 (91) \\
+$V_{\ptwo}$ (L)     & Peripheral volume 2                & 0 (--)     & 120.8 (95) & 21.6 (--) & 0 (--)   & 0 (--)    & 0 (--) \\
+$Q_{\cpone}$ (L/h)  & Inter-compartmental flow 1         & 96.8 (26)  & 43.9 (95)  & 96.8 (--) & 0 (--)   & 12.7 (30) & 36.1 (75) \\
+$Q_{\cptwo}$ (L/h)  & Inter-compartmental flow 2         & 0 (--)     & 15.3 (95)  & 1.4 (--)  & 0 (--)   & 0 (--)    & 0 (--) \\
+$\BWVcntr$          & Body weight effect on $V_{\cntr}$  & 0 (--)     & 0 (--)     & 1 (--)    & 1 (--)   & 0 (--)    & 0 (--) \\
+$\BWVpone$          & Body weight effect on $V_{\pone}$  & 1.49 (--)  & 0 (--)     & 1 (--)    & 0 (--)   & 0 (--)    & 0 (--) \\
+$\BWVptwo$          & Body weight effect on $V_{\ptwo}$  & 0 (--)     & 0 (--)     & 1 (--)    & 0 (--)   & 0 (--)    & 0 (--) \\
+$\BWQcpone$         & Body weight effect on $Q_{\cpone}$ & 0 (--)     & 0 (--)     & 1 (--)    & 0 (--)   & 0 (--)    & 0 (--) \\
+$\BWQcptwo$         & Body weight effect on $Q_{\cptwo}$ & 0 (--)     & 0 (--)     & 1 (--)    & 0 (--)   & 0 (--)    & 0 (--) \\
+$\BWref$ (kg)       & Reference body weight              & 73.7 (--)  & 0 (--)     & 70 (--)   & 70 (--)  & 0 (--)    & 0 (--) \\
+
+\addlinespace[0.5em]
+\multicolumn{8}{@{}l}{\textbf{Elimination}} \\
+\addlinespace[0.5em]
+
+$\CL$ (L/h)         & Clearance                          & 0 (--)                       & 0.026 (30)     & 17.6 (21) & 3 (42)    & 6.15 (30) & 7.3 (74) \\
+$\Vmax$ (g/h)       & Maximum elimination rate           & 6.31 (14)\textsuperscript{b} & 0 (--)         & 0 (--)    & 0 (--)    & 0 (--)    & 0 (--) \\
+$\KM$ (g/L)         & Michaelis constant                 & 0.085 (--)                   & 0 (--)         & 0 (--)    & 0 (--)    & 0 (--)    & 0 (--) \\
+$\FEVmax$           & Food effect on $\Vmax$             & 1.39 (11)                    & 0 (--)         & 0 (--)    & 0 (--)    & 0 (--)    & 0 (--) \\
+$\BWCL$             & Body weight effect on $\CL$        & 0 (--)                       & 0 (--)         & 0.75 (--) & 0.75 (--) & 0 (--)    & 0 (--) \\
+
+\bottomrule
+\end{tabularx}
+
+\begin{flushleft}
+\footnotesize
+\textsuperscript{a} Parameters for ethanol were estimated using whole-blood concentration data.\\
+\textsuperscript{b} The estimate was obtained for the fasted state. $V_{\text{max,fed}} = V_{\text{max,fasted}} \cdot \FEVmax$. Additional inter-occasion variability (IOV) with a CV of 6\% was applied to this parameter.\\
+\textsuperscript{c} Model was adopted from the publication, while parameter values were re-estimated.\\
+\textsuperscript{d} Absorption parameters for paracetamol were taken from \cite{morse2022}, and $k_a$ was re-estimated.\\
+\textsuperscript{e} Model structure and parameter values were adopted from the publication, with parameters reparameterized for the present analysis.
+\end{flushleft}

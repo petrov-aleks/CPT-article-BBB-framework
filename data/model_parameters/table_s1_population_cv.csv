@@ -1,0 +1,4 @@
+Parameter,Value,CV_percent,Unit,Basis
+Q_bulk,0.00525,8,L/h,Table S1
+Q_ssink,0.00798,30,L/h,Table S1
+Q_sout,0.007182,100,L/h,Table S1

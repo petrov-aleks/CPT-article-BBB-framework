@@ -1,0 +1,68 @@
+ \begin{tabularx}{\textwidth}{@{} 
+      p{80pt} 
+      p{80pt} 
+      >{\centering\arraybackslash}p{70pt} 
+      >{\centering\arraybackslash}p{70pt} 
+      >{\centering\arraybackslash}p{70pt} 
+      l 
+    @{}}
+    \toprule
+    Compound & Source & \thead{$\PS_0$ \\ ($10^{-4}$ mL/s/g)} & \thead{$\text{P}_0$ \\ ($10^{-6}$ cm/s)} & \thead{PS$_{\text{BBB}}$ \\ (L/h)} & Reference \\
+    \midrule
+
+    Ibuprofen
+        & $\insitu$ perfusion   & 306000 & --     & 159732 & Smith et al. 2024 \cite{smith2024} \\
+        & $\invitro$ Caco-2     & --     & 295000 & 159300 & Avdeef 2012 \cite{avdeef2012} \\
+        & $\invitro$ PAMPA      & --     & 2300   & 1242   & Tsinman et al. 2011 \cite{tsinman2011} \\
+        & $\insilico$ perfusion & 179857 & --     & 93885  & Smith et al. 2024 \cite{smith2024} \\
+        & $\insilico$ PAMPA     & --     & 2465   & 1331   & Tsinman et al. 2011 \cite{tsinman2011}$^{\text{a}}$ \\
+    \addlinespace[0.5em]
+
+    Indomethacin
+        & $\insitu$ perfusion   & 146000 & --     & 76212   & Smith et al. 2024 \cite{smith2024} \\
+        & $\invitro$ Caco-2     & --     & 154900 & 83646   & Avdeef 2012 \cite{avdeef2012} \\
+        & $\invitro$ PAMPA      & --     & 2100   & 1134    & Tsinman et al. 2011 \cite{tsinman2011} \\
+        & $\insilico$ perfusion & 259986 & --     & 135713  & Smith et al. 2024 \cite{smith2024} \\
+        & $\insilico$ PAMPA     & --     & 3352   & 1810    & Tsinman et al. 2011 \cite{tsinman2011}$^{\text{a}}$ \\
+    \addlinespace[0.5em]
+
+    Diazepam
+        & $\insitu$ perfusion   & 9000   & --     & 4698   & Smith et al. 2024 \cite{smith2024} \\
+        & $\invitro$ MDCK       & --     & 63     & 34     & Avdeef 2012 \cite{avdeef2012} \\
+        & $\invitro$ PAMPA      & --     & 148    & 80     & Tsinman et al. 2011 \cite{tsinman2011} \\
+        & $\insilico$ perfusion & 14886  & --     & 7770   & Smith et al. 2024 \cite{smith2024} \\
+        & $\insilico$ PAMPA     & --     & 308    & 166    & Tsinman et al. 2011 \cite{tsinman2011}$^{\text{a}}$ \\
+    \addlinespace[0.5em]
+
+    Ethanol
+        & $\insitu$ perfusion   & 425    & --     & 222             & Smith et al. 2024 \cite{smith2024} \\
+        & $\exvivo$ UC          & --     & 44$^{\text{b}}$ & 24 & Rubbens et al. 2017 \cite{rubbens2017} \\
+        & $\insilico$ perfusion & 56     & --     & 29              & Smith et al. 2024 \cite{smith2024} \\
+        & $\insilico$ PAMPA     & --     & 2.9    & 1.6             & Tsinman et al. 2011 \cite{tsinman2011}$^{\text{a}}$ \\
+    \addlinespace[0.5em]
+
+    Paracetamol
+        & $\insitu$ perfusion   & 38     & --     & 20     & Avdeef 2012 \cite{avdeef2012} \\
+        & $\invitro$ MDCK       & --     & 9.2    & 5      & Bowman et al. 2023 \cite{bowman2023} \\
+        & $\invitro$ PAMPA      & --     & 0.14   & 0.076  & Bowman et al. 2023 \cite{bowman2023} \\
+        & $\insilico$ perfusion & 159    & --     & 83     & Smith et al. 2024 \cite{smith2024} \\
+        & $\insilico$ PAMPA     & --     & 7      & 3.8    & Tsinman et al. 2011 \cite{tsinman2011}$^{\text{a}}$ \\
+    \addlinespace[0.5em]
+
+    Mannitol
+        & $\insitu$ perfusion   & 0.088  & --     & 0.046  & Smith et al. 2024 \cite{smith2024} \\
+        & $\invitro$ MDCK       & --     & 0.51   & 0.28   & Shah et al. 2007 \cite{shah2007} \\
+        & $\invitro$ PAMPA      & --     & 0.072  & 0.039  & Könczöl et al. 2013 \cite{könczöl2013} \\
+        & $\insilico$ perfusion & 0.1    & --     & 0.052  & Smith et al. 2024 \cite{smith2024} \\
+        & $\insilico$ PAMPA     & --     & 0.015  & 0.0081  & Tsinman et al. 2011 \cite{tsinman2011}$^{\text{a}}$ \\
+    
+    \bottomrule
+    \end{tabularx}
+
+    \vspace{3pt}
+    \parbox{\textwidth}{\footnotesize
+    \textsuperscript{a} - value predicted using the same QSAR model structure as Smith et al. \cite{smith2024}, refitted to the PAMPA-BBB dataset reported by Tsinman et al. \cite{tsinman2011}.
+    
+    \textsuperscript{b} - value derived as the mean of permeability values reported for intestinal and gastric tissues in the original publication. 
+    $\PS_0$ - intrinsic permeability-surface area product, normalized to rat brain weight; $\text{P}_0$ - intrinsic permeability; PS$_{\text{BBB}}$ - transformed permeability used in CNS PBPK modeling.
+    }

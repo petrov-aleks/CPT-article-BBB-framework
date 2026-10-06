@@ -1,0 +1,13 @@
+site,source,time,conc,sd_down,sd_up
+plasma,Brazier et al. 2017,0.0833,9.19,9.0981,30.977
+plasma,Brazier et al. 2017,0.1667,19.41,19.2159,37.469
+plasma,Brazier et al. 2017,0.25,182.49,180.6651,449.69
+plasma,Brazier et al. 2017,0.5,716.72,709.5528,836.638
+plasma,Brazier et al. 2017,1,1362.71,952.757,952.757
+plasma,Brazier et al. 2017,2,1442.5,667.287,667.287
+plasma,Brazier et al. 2017,4,774.21,470.139,470.139
+plasma,Brazier et al. 2017,6,486.17,333.593,333.593
+scsf,Brazier et al. 2017,0.0833,0,0,0
+scsf,Brazier et al. 2017,0.5,0.27,0.178,0.178
+scsf,Brazier et al. 2017,2,6.7,2.338,2.338
+scsf,Brazier et al. 2017,4,8.22,1.532,1.532

@@ -1,0 +1,14 @@
+Parameter,Value,Unit,Basis
+MW,284.74,g/mol,DrugBank
+logP,2.82,unitless,DrugBank
+ionic_class,neutral,unitless,Assumed neutral at modeled pH
+BP,0.71,unitless,Obach 1999
+fu_plasma,0.013,unitless,Obach 1999
+fu_brain_plasma,0.013,unitless,Assumed equal to fraction unbound in plasma
+fu_brain_ecf,1,unitless,Protein binding assumed negligible
+fu_brain_icf,0.05,unitless,Avdeef 2012
+albumin_csf_to_plasma_ratio,0.005,unitless,Friden et al. 2009
+fn_brain_plasma,1,unitless,Assumed neutral at modeled pH
+fn_brain_ecf,1,unitless,Assumed neutral at modeled pH
+fn_brain_icf,1,unitless,Assumed neutral at modeled pH
+fn_csf,1,unitless,Assumed neutral at modeled pH

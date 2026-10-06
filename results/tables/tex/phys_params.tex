@@ -1,0 +1,57 @@
+\begin{tabularx}{\textwidth}{@{}
+p{50pt}
+p{145pt}
+>{\centering\arraybackslash}p{60pt}
+p{55pt}
+p{150pt}
+@{}}
+\toprule
+Parameter & Description & Value & Reference & Note \\
+\midrule
+
+\multicolumn{5}{@{}l}{\textbf{Volumes (L)}} \\
+\addlinespace[0.5em]
+
+$V_{\brt}$  & Brain tissue volume              & 1.45   & \cite{icrp2002}                & derived from Table 2.8 assuming a density of 1~kg/L \cite{icrp2002} \\
+$V_{\brb}$  & Brain blood volume               & 0.064  & \cite{icrp2002}                & derived from Tables 2.12 and 2.14 \cite{icrp2002} \\
+$V_{\bra}$  & Total brain volume               & 1.51   & --                             & $V_{\bra} = V_{\brt} + V_{\brb}$ \\
+$V_{\ecv}$  & Endothelial cell volume          & 0.0076 & \cite{simcyp,verscheijden2019} & $V_{\ecv} = V_{\bra} \cdot 0.005 $ \\
+$V_{\csf}$  & Total CSF volume                 & 0.16   & \cite{simcyp,verscheijden2019} & $V_{\csf} = V_{\bra} \cdot 0.105 $ \\
+$V_{\ccsf}$ & Cranial CSF volume               & 0.13   & \cite{simcyp,verscheijden2019} & $V_{\ccsf} =  V_{\csf} \cdot 0.8 $ \\
+$V_{\scsf}$ & Spinal CSF volume                & 0.032  & \cite{simcyp,verscheijden2019} & $V_{\scsf} =  V_{\csf} \cdot 0.2 $ \\
+$V_{\brm}$  & Brain mass volume                & 1.28   & \cite{simcyp,verscheijden2019} & $V_{\brm} = V_{\bra} - V_{\ecv}  - V_{\brb} - V_{\csf}$ \\
+$V_{\ecf}$  & Brain extracellular fluid volume & 0.26   & \cite{saleh2021}               & $V_{\ecf} = V_{\brm} \cdot 0.2 $ \\
+$V_{\icf}$  & Brain intracellular fluid volume & 1.03   & \cite{saleh2021}               & $V_{\icf} = V_{\brm} \cdot 0.8 $ \\
+ 
+\addlinespace[0.5em]
+\multicolumn{5}{@{}l}{\textbf{Flows (L/h)}} \\
+\addlinespace[0.5em]
+
+$Q_{\cbf}$      & Cerebral blood flow   & 46.8   & \cite{icrp2002}                & derived from Tables 2.39 and 2.40 \cite{icrp2002}\\
+$Q_{\prodflow}$ & CSF production rate   & 0.021  & \cite{simcyp,verscheijden2019} & -- \\
+$Q_{\bulk}$     & Bulk CSF flow rate    & 0.0053 & \cite{simcyp,verscheijden2019} & $Q_{\bulk} = Q_{\prodflow} \cdot 0.25$ with CV = 8\% \\
+$Q_{\ssink}$    & Spinal CSF sink flow  & 0.0080 & \cite{simcyp,verscheijden2019} & $Q_{\ssink} = Q_{\prodflow} \cdot 0.38$ with CV = 30\% \\
+$Q_{\csink}$    & Cranial CSF sink flow & 0.013  & \cite{simcyp,verscheijden2019} & $Q_{\csink} = Q_{\prodflow} - Q_{\ssink}$ \\
+$Q_{\sout}$     & Spinal CSF outflow    & 0.0072 & \cite{simcyp,verscheijden2019} & $Q_{\sout} = Q_{\ssink} \cdot 0.9$ with CV = 100\% \\
+$Q_{\sinflow}$  & Spinal CSF inflow     & 0.015  & \cite{simcyp,verscheijden2019} & $Q_{\sinflow} = Q_{\ssink} + Q_{\sout} $ \\
+
+\addlinespace[0.5em]
+\multicolumn{5}{@{}l}{\textbf{Surface Areas (m$^2$)}} \\
+\addlinespace[0.5em]
+
+$\SAbbb$   & Surface area of the blood--brain barrier & 15  & \cite{gaohua2016,saleh2021} & -- \\
+$\SAbcsfb$ & Surface area of the blood--CSF barrier   & 7.5 & \cite{bowman2023,gaohua2016} & $\SAbcsfb = \SAbbb \cdot 0.5$ \\
+$\SAbcm$   & Surface area of the brain cell membrane  & 300 & \cite{bowman2023,saleh2021} & $\SAbcm = \SAbbb \cdot 20$ \\
+
+\addlinespace[0.5em]
+\multicolumn{5}{@{}l}{\textbf{pH}} \\
+\addlinespace[0.5em]
+
+$\pH_{\brp}$ & pH of brain plasma              & 7.4  & \cite{atherton2003,saleh2021} & -- \\
+$\pH_{\csf}$ & pH of cerebrospinal fluid       & 7.3  & \cite{friden2011,saleh2021} & -- \\
+$\pH_{\ecf}$ & pH of brain extracellular fluid & 7.3  & \cite{friden2011,saleh2021} & -- \\
+$\pH_{\icf}$ & pH of brain intracellular fluid & 7    & \cite{friden2011,saleh2021} & -- \\
+
+\bottomrule
+\end{tabularx}
+

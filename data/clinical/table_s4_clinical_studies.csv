@@ -1,0 +1,12 @@
+Drug,DosingRegimen,NSubjects,AgeYears,MalePercent,Indication,SampleCollection,Reference,ModelDoseValue,ModelDoseUnit,ModelAdministrationDurationMin
+Ethanol,0.5 g/kg PO fed (5 min),8,28-42,100,Healthy,"Blood, brain",Hetherington et al. 1999,0.53,g/kg,15
+Ethanol,0.56 g/kg PO fed (30 min),4,21-38,75,Healthy,"Serum, brain",Kubo et al. 2013,0.53,g/kg,15
+Ethanol,0.56 g/kg PO fed (18 min),10,28-67,50,Healthy,"Plasma, brain",Thierauf-Emberger et al. 2023,0.53,g/kg,15
+Diazepam,10 mg IM,42,19-72,60,"Epilepsy (11); cerebral arterial insufficiency (10); hemiparetic strokes (7); cephalalgia (4); other neurological disorders (10)","Plasma, CSF",Kanto et al. 1975,10,mg,0
+Paracetamol,1 g IV (7 min),43,31-73,56,Nerve-root compression pain,"Plasma, CSF",Bannwarth et al. 1992,1,g,10
+Paracetamol,1 g IV (15 min),12,72,75,Arterial diseases,"Plasma, CSF",Moreau et al. 1993,1,g,10
+Paracetamol,1 g IV (15 min),6,19-44,100,Healthy,"Plasma, CSF",Singla et al. 2012,1,g,10
+Paracetamol,1 g PO,7,19-44,100,Healthy,"Plasma, CSF",Singla et al. 2012,1,g,0
+Ibuprofen,20 mg PO,25,55-75,44,Healthy,"Plasma, CSF",Brazier et al. 2017,20,mg,0
+Indomethacin,50 mg IM,52,24-76,52,Nerve-root compression pain,"Plasma, CSF",Bannwarth et al. 1990,50,mg,0
+Mannitol,588 mg/kg IV (15 min),12,20-65,42,"Intracranial aneurysm (11); tumour (1)","Plasma, CSF",Anderson et al. 1988,588,mg/kg,15

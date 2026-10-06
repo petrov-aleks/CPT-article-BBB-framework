@@ -1,0 +1,15 @@
+Parameter,Value,Unit,Basis
+MW,151.16,g/mol,DrugBank
+logP,0.46,unitless,DrugBank
+ionic_class,neutral,unitless,Assumed neutral at modeled pH
+BP,1.09,unitless,Calculated from erythrocyte-to-plasma ratio and hematocrit
+EP,1.2,unitless,Prescott 1980
+fu_plasma,0.86,unitless,Summerfield 2008
+fu_brain_plasma,0.86,unitless,Assumed equal to fraction unbound in plasma
+fu_brain_ecf,1,unitless,Protein binding assumed negligible
+fu_brain_icf,0.75,unitless,Summerfield 2008
+fu_csf,1,unitless,Protein binding assumed negligible
+fn_brain_plasma,1,unitless,Assumed neutral at modeled pH
+fn_brain_ecf,1,unitless,Assumed neutral at modeled pH
+fn_brain_icf,1,unitless,Assumed neutral at modeled pH
+fn_csf,1,unitless,Assumed neutral at modeled pH

@@ -1,0 +1,165 @@
+Compound,Site,Source,Metric,Ratio,FoldError
+Diazepam,brain ECF,in silico PAMPA,AUC,0.99718376689372,1.00282418667429
+Diazepam,brain ECF,in silico perfusion,AUC,1.00000000851894,1.00000000851894
+Diazepam,brain ECF,in situ perfusion,AUC,0.999966110230827,1.00003389091773
+Diazepam,brain ECF,in vitro PAMPA,AUC,0.994083568512143,1.00595164398171
+Diazepam,brain ECF,in vitro cell-based,AUC,0.986022787970836,1.01417534381526
+Diazepam,brain ECF,optimized,AUC,1,1
+Diazepam,brain ECF,perfusion-limited,AUC,1.00004934835902,1.00004934835902
+Diazepam,brain ECF,in silico PAMPA,Cmax,0.984103315173772,1.01615347147105
+Diazepam,brain ECF,in silico perfusion,Cmax,0.999999998728208,1.00000000127179
+Diazepam,brain ECF,in situ perfusion,Cmax,0.999998677428315,1.00000132257343
+Diazepam,brain ECF,in vitro PAMPA,Cmax,0.941768703394036,1.06183184511877
+Diazepam,brain ECF,in vitro cell-based,Cmax,0.830646817490888,1.20388109476019
+Diazepam,brain ECF,optimized,Cmax,1,1
+Diazepam,brain ECF,perfusion-limited,Cmax,0.99997638128857,1.00002361926929
+Diazepam,scsf,in silico PAMPA,AUC,0.997358086583709,1.00264891161142
+Diazepam,scsf,in silico perfusion,AUC,1.00000000324834,1.00000000324834
+Diazepam,scsf,in situ perfusion,AUC,0.999985408670446,1.00001459154246
+Diazepam,scsf,in vitro PAMPA,AUC,0.994088281907467,1.00594687433715
+Diazepam,scsf,in vitro cell-based,AUC,0.985480776590878,1.01473313711846
+Diazepam,scsf,optimized,AUC,1,1
+Diazepam,scsf,perfusion-limited,AUC,1.0000140175212,1.0000140175212
+Diazepam,scsf,in silico PAMPA,Cmax,0.999543596587333,1.00045661181186
+Diazepam,scsf,in silico perfusion,Cmax,1.00000000115791,1.00000000115791
+Diazepam,scsf,in situ perfusion,Cmax,0.999995665281445,1.00000433473735
+Diazepam,scsf,in vitro PAMPA,Cmax,0.998550102708947,1.00145200254561
+Diazepam,scsf,in vitro cell-based,Cmax,0.992042357681225,1.00802147434246
+Diazepam,scsf,optimized,Cmax,1,1
+Diazepam,scsf,perfusion-limited,Cmax,1.00000739941689,1.00000739941689
+Ethanol,brain ECF,in silico PAMPA,AUC,0.991070122277108,1.00901033894794
+Ethanol,brain ECF,in silico perfusion,AUC,0.999559493415624,1.00044070071594
+Ethanol,brain ECF,in situ perfusion,AUC,1.00000000007718,1.00000000007718
+Ethanol,brain ECF,in vitro cell-based,AUC,0.999455054868386,1.00054524225873
+Ethanol,brain ECF,optimized,AUC,1,1
+Ethanol,brain ECF,perfusion-limited,AUC,1.00005941918867,1.00005941918867
+Ethanol,brain ECF,in silico PAMPA,Cmax,0.87427793557169,1.14380102632477
+Ethanol,brain ECF,in silico perfusion,Cmax,0.998141630446347,1.00186182952095
+Ethanol,brain ECF,in situ perfusion,Cmax,1.00000000025518,1.00000000025518
+Ethanol,brain ECF,in vitro cell-based,Cmax,0.997897414760413,1.00210701541911
+Ethanol,brain ECF,optimized,Cmax,1,1
+Ethanol,brain ECF,perfusion-limited,Cmax,1.00020292060489,1.00020292060489
+Ethanol,scsf,in silico PAMPA,AUC,0.978928822858634,1.02152472850869
+Ethanol,scsf,in silico perfusion,AUC,0.999138396725227,1.00086234627515
+Ethanol,scsf,in situ perfusion,AUC,1.00000000015247,1.00000000015247
+Ethanol,scsf,in vitro cell-based,AUC,0.998930521700431,1.00107062330796
+Ethanol,scsf,optimized,AUC,1,1
+Ethanol,scsf,perfusion-limited,AUC,1.00013581828979,1.00013581828979
+Ethanol,scsf,in silico PAMPA,Cmax,0.942122975830832,1.06143255780184
+Ethanol,scsf,in silico perfusion,Cmax,0.998985244342333,1.0010157864327
+Ethanol,scsf,in situ perfusion,Cmax,1.00000000016662,1.00000000016662
+Ethanol,scsf,in vitro cell-based,Cmax,0.998816063093656,1.00118534027444
+Ethanol,scsf,optimized,Cmax,1,1
+Ethanol,scsf,perfusion-limited,Cmax,1.00015197892878,1.00015197892878
+Ibuprofen,brain ECF,in silico PAMPA,AUC,1.00173482838885,1.00173482838885
+Ibuprofen,brain ECF,in silico perfusion,AUC,1.00287453480927,1.00287453480927
+Ibuprofen,brain ECF,in situ perfusion,AUC,1.0028801820717,1.0028801820717
+Ibuprofen,brain ECF,in vitro PAMPA,AUC,1.00164872633923,1.00164872633923
+Ibuprofen,brain ECF,in vitro cell-based,AUC,1.00288016241291,1.00288016241291
+Ibuprofen,brain ECF,optimized,AUC,1,1
+Ibuprofen,brain ECF,perfusion-limited,AUC,1.00288627825309,1.00288627825309
+Ibuprofen,brain ECF,in silico PAMPA,Cmax,1.03557905485941,1.03557905485941
+Ibuprofen,brain ECF,in silico perfusion,Cmax,1.04449104809435,1.04449104809435
+Ibuprofen,brain ECF,in situ perfusion,Cmax,1.04446909708948,1.04446909708948
+Ibuprofen,brain ECF,in vitro PAMPA,Cmax,1.03398859031889,1.03398859031889
+Ibuprofen,brain ECF,in vitro cell-based,Cmax,1.04446918414825,1.04446918414825
+Ibuprofen,brain ECF,optimized,Cmax,1,1
+Ibuprofen,brain ECF,perfusion-limited,Cmax,1.04443583966917,1.04443583966917
+Ibuprofen,scsf,in silico PAMPA,AUC,1.00285248188733,1.00285248188733
+Ibuprofen,scsf,in silico perfusion,AUC,1.00584562032192,1.00584562032192
+Ibuprofen,scsf,in situ perfusion,AUC,1.00586885954123,1.00586885954123
+Ibuprofen,scsf,in vitro PAMPA,AUC,1.00267667283754,1.00267667283754
+Ibuprofen,scsf,in vitro cell-based,AUC,1.00586876947039,1.00586876947039
+Ibuprofen,scsf,optimized,AUC,1,1
+Ibuprofen,scsf,perfusion-limited,AUC,1.00590218238874,1.00590218238874
+Ibuprofen,scsf,in silico PAMPA,Cmax,1.00863925739813,1.00863925739813
+Ibuprofen,scsf,in silico perfusion,Cmax,1.01292145010312,1.01292145010312
+Ibuprofen,scsf,in situ perfusion,Cmax,1.01294946214895,1.01294946214895
+Ibuprofen,scsf,in vitro PAMPA,Cmax,1.00827988120145,1.00827988120145
+Ibuprofen,scsf,in vitro cell-based,Cmax,1.01294935364116,1.01294935364116
+Ibuprofen,scsf,optimized,Cmax,1,1
+Ibuprofen,scsf,perfusion-limited,Cmax,1.01298957992451,1.01298957992451
+Indomethacin,brain ECF,in silico PAMPA,AUC,1.43830805750881,1.43830805750881
+Indomethacin,brain ECF,in silico perfusion,AUC,1.48204321232728,1.48204321232728
+Indomethacin,brain ECF,in situ perfusion,AUC,1.48177547628151,1.48177547628151
+Indomethacin,brain ECF,in vitro PAMPA,AUC,1.3942682384354,1.3942682384354
+Indomethacin,brain ECF,in vitro cell-based,AUC,1.48183597203107,1.48183597203107
+Indomethacin,brain ECF,optimized,AUC,1,1
+Indomethacin,brain ECF,perfusion-limited,AUC,1.48126531047691,1.48126531047691
+Indomethacin,brain ECF,in silico PAMPA,Cmax,2.56458988825863,2.56458988825863
+Indomethacin,brain ECF,in silico perfusion,Cmax,6.9738141482809,6.9738141482809
+Indomethacin,brain ECF,in situ perfusion,Cmax,6.9153885311242,6.9153885311242
+Indomethacin,brain ECF,in vitro PAMPA,Cmax,2.02911477612093,2.02911477612093
+Indomethacin,brain ECF,in vitro cell-based,Cmax,6.93473520605833,6.93473520605833
+Indomethacin,brain ECF,optimized,Cmax,1,1
+Indomethacin,brain ECF,perfusion-limited,Cmax,7.01682534745282,7.01682534745282
+Indomethacin,scsf,in silico PAMPA,AUC,1.33633340009831,1.33633340009831
+Indomethacin,scsf,in silico perfusion,AUC,1.36881220945411,1.36881220945411
+Indomethacin,scsf,in situ perfusion,AUC,1.36853474044143,1.36853474044143
+Indomethacin,scsf,in vitro PAMPA,AUC,1.30627982623335,1.30627982623335
+Indomethacin,scsf,in vitro cell-based,AUC,1.3685910474244,1.3685910474244
+Indomethacin,scsf,optimized,AUC,1,1
+Indomethacin,scsf,perfusion-limited,AUC,1.36916784770269,1.36916784770269
+Indomethacin,scsf,in silico PAMPA,Cmax,1.99223290653636,1.99223290653636
+Indomethacin,scsf,in silico perfusion,Cmax,2.35203946549585,2.35203946549585
+Indomethacin,scsf,in situ perfusion,Cmax,2.35140032828233,2.35140032828233
+Indomethacin,scsf,in vitro PAMPA,Cmax,1.77093977489109,1.77093977489109
+Indomethacin,scsf,in vitro cell-based,Cmax,2.35153259854324,2.35153259854324
+Indomethacin,scsf,optimized,Cmax,1,1
+Indomethacin,scsf,perfusion-limited,Cmax,2.35282490597177,2.35282490597177
+Mannitol,brain ECF,in silico PAMPA,AUC,0.459143280128751,2.17796936877652
+Mannitol,brain ECF,in silico perfusion,AUC,1.43866402291643,1.43866402291643
+Mannitol,brain ECF,in situ perfusion,AUC,1.37779033636764,1.37779033636764
+Mannitol,brain ECF,in vitro PAMPA,AUC,1.28909501240766,1.28909501240766
+Mannitol,brain ECF,in vitro cell-based,AUC,1.82784679016686,1.82784679016686
+Mannitol,brain ECF,optimized,AUC,1,1
+Mannitol,brain ECF,perfusion-limited,AUC,1.91821316292675,1.91821316292675
+Mannitol,brain ECF,in silico PAMPA,Cmax,0.535883850899487,1.86607601315376
+Mannitol,brain ECF,in silico perfusion,Cmax,1.84009111762417,1.84009111762417
+Mannitol,brain ECF,in situ perfusion,Cmax,1.66837069082066,1.66837069082066
+Mannitol,brain ECF,in vitro PAMPA,Cmax,1.46060904809287,1.46060904809287
+Mannitol,brain ECF,in vitro cell-based,Cmax,5.8681894130929,5.8681894130929
+Mannitol,brain ECF,optimized,Cmax,1,1
+Mannitol,brain ECF,perfusion-limited,Cmax,28.5094896521692,28.5094896521692
+Mannitol,scsf,in silico PAMPA,AUC,0.456036443019437,2.19280720939528
+Mannitol,scsf,in silico perfusion,AUC,1.45270034369054,1.45270034369054
+Mannitol,scsf,in situ perfusion,AUC,1.3890403256837,1.3890403256837
+Mannitol,scsf,in vitro PAMPA,AUC,1.29681572161763,1.29681572161763
+Mannitol,scsf,in vitro cell-based,AUC,1.86092463675937,1.86092463675937
+Mannitol,scsf,optimized,AUC,1,1
+Mannitol,scsf,perfusion-limited,AUC,1.95404360544136,1.95404360544136
+Mannitol,scsf,in silico PAMPA,Cmax,0.482164176681516,2.07398236609463
+Mannitol,scsf,in silico perfusion,Cmax,1.8533560819254,1.8533560819254
+Mannitol,scsf,in situ perfusion,Cmax,1.68705193225579,1.68705193225579
+Mannitol,scsf,in vitro PAMPA,Cmax,1.48261365445988,1.48261365445988
+Mannitol,scsf,in vitro cell-based,Cmax,5.19446930241177,5.19446930241177
+Mannitol,scsf,optimized,Cmax,1,1
+Mannitol,scsf,perfusion-limited,Cmax,8.54567600714644,8.54567600714644
+Paracetamol,brain ECF,in silico PAMPA,AUC,0.997217239790036,1.0027905255735
+Paracetamol,brain ECF,in silico perfusion,AUC,1.00140771042864,1.00140771042864
+Paracetamol,brain ECF,in situ perfusion,AUC,1.00081039143708,1.00081039143708
+Paracetamol,brain ECF,in vitro PAMPA,AUC,0.649476396441743,1.53970183593839
+Paracetamol,brain ECF,in vitro cell-based,AUC,0.998257343301923,1.00174569885187
+Paracetamol,brain ECF,optimized,AUC,1,1
+Paracetamol,brain ECF,perfusion-limited,AUC,1.00136003275669,1.00136003275669
+Paracetamol,brain ECF,in silico PAMPA,Cmax,0.727290793107862,1.37496584512887
+Paracetamol,brain ECF,in silico perfusion,Cmax,1.33481503542064,1.33481503542064
+Paracetamol,brain ECF,in situ perfusion,Cmax,1.12871525738959,1.12871525738959
+Paracetamol,brain ECF,in vitro PAMPA,Cmax,0.111941123962284,8.93326745885567
+Paracetamol,brain ECF,in vitro cell-based,Cmax,0.798229255054146,1.25277292666023
+Paracetamol,brain ECF,optimized,Cmax,1,1
+Paracetamol,brain ECF,perfusion-limited,Cmax,1.40747447044436,1.40747447044436
+Paracetamol,scsf,in silico PAMPA,AUC,0.997147881504922,1.00286027634213
+Paracetamol,scsf,in silico perfusion,AUC,1.00144463984018,1.00144463984018
+Paracetamol,scsf,in situ perfusion,AUC,1.00079237744564,1.00079237744564
+Paracetamol,scsf,in vitro PAMPA,AUC,0.618261652176899,1.61743817763725
+Paracetamol,scsf,in vitro cell-based,AUC,0.998228848191795,1.00177429435286
+Paracetamol,scsf,optimized,AUC,1,1
+Paracetamol,scsf,perfusion-limited,AUC,1.00166915359047,1.00166915359047
+Paracetamol,scsf,in silico PAMPA,Cmax,0.989018282408438,1.01110365479273
+Paracetamol,scsf,in silico perfusion,Cmax,1.00284866688549,1.00284866688549
+Paracetamol,scsf,in situ perfusion,Cmax,1.00183878417828,1.00183878417828
+Paracetamol,scsf,in vitro PAMPA,Cmax,0.275192024781696,3.633826237491
+Paracetamol,scsf,in vitro cell-based,Cmax,0.994168858305226,1.00586534334289
+Paracetamol,scsf,optimized,Cmax,1,1
+Paracetamol,scsf,perfusion-limited,Cmax,1.00319332548344,1.00319332548344

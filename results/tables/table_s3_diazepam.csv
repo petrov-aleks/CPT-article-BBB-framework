@@ -1,0 +1,21 @@
+Category,Parameter,ExactValue,DisplayValue,Unit
+Physicochemical,MW,284.74,284.74,g/mol
+Physicochemical,logP,2.82,2.82,unitless
+Physicochemical,Class,NaN,neutral,unitless
+Physicochemical,pKa,NaN,--,unitless
+Blood binding,BP,0.71,0.71,unitless
+Blood binding,EP,NaN,--,unitless
+Blood binding,fu_plasma,0.013,0.013,unitless
+Brain binding,fu_brain_plasma,0.013,0.013,unitless
+Brain binding,fu_brain_ECF,1,1,unitless
+Brain binding,fu_brain_ICF,0.05,0.05,unitless
+Brain binding,fu_CSF,0.72483969891274,0.72,unitless
+Brain ionization,fn_brain_plasma,1,1,unitless
+Brain ionization,fn_brain_ECF,1,1,unitless
+Brain ionization,fn_brain_ICF,1,1,unitless
+Brain ionization,fn_CSF,1,1,unitless
+Brain permeability,P0,14386.4761681486,14400,1e-6 cm/s
+Brain permeability,PS_BBB,7768.69713080026,7770,L/h
+Brain permeability,PS_BCSFB,3884.34856540013,3884,L/h
+Brain permeability,PS_BCM,155373.942616005,155400,L/h
+Brain permeability,PS_E,300,300,L/h

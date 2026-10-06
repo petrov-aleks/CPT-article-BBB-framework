@@ -1,0 +1,21 @@
+Category,Parameter,Description,ExactValue,DisplayValue,Unit
+Physicochemical,MW,Molecular weight,46.0684,46.07,g/mol
+Physicochemical,logP,Octanol-water partition coefficient of the neutral species,-0.31,-0.31,unitless
+Physicochemical,Class,Ionic class,NaN,neutral,unitless
+Physicochemical,pKa,Acid dissociation constant,NaN,--,unitless
+Blood binding,BP,Blood-to-plasma ratio,0.87719298245614,0.88,unitless
+Blood binding,EP,Erythrocyte-to-plasma ratio,NaN,--,unitless
+Blood binding,fu_plasma,Fraction unbound in plasma,1,1,unitless
+Brain binding,fu_brain_plasma,Fraction unbound in brain plasma,1,1,unitless
+Brain binding,fu_brain_ECF,Fraction unbound in brain ECF,1,1,unitless
+Brain binding,fu_brain_ICF,Fraction unbound in brain ICF,1,1,unitless
+Brain binding,fu_CSF,Fraction unbound in CSF,1,1,unitless
+Brain ionization,fn_brain_plasma,Fraction neutral in brain plasma,1,1,unitless
+Brain ionization,fn_brain_ECF,Fraction neutral in brain ECF,1,1,unitless
+Brain ionization,fn_brain_ICF,Fraction neutral in brain ICF,1,1,unitless
+Brain ionization,fn_CSF,Fraction neutral in CSF,1,1,unitless
+Brain permeability,P0,Intrinsic permeability,411.110628468743,411,1e-6 cm/s
+Brain permeability,PS_BBB,Permeability-surface area product (BBB),221.999739373121,222,L/h
+Brain permeability,PS_BCSFB,Permeability-surface area product (BCSFB),110.999869686561,111,L/h
+Brain permeability,PS_BCM,Permeability-surface area product (BCM),4439.99478746242,4440,L/h
+Brain permeability,PS_E,Permeability-surface area product (ependyma),300,300,L/h

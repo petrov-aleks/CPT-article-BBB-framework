@@ -1,0 +1,1693 @@
+site,time,conc,PS,source,model_class,reference
+brain ECF,0,0,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,0.1,10.0012459682333,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,0.2,20.4846948109539,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,0.3,17.7371829219682,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,0.4,14.343339248527,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,0.5,12.3001247302224,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,0.6,11.117337767539,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,0.7,10.3865901554102,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,0.8,9.88663665784603,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,0.9,9.50546223857252,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,1,9.18710657225811,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,1.1,8.9036479674582,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,1.2,8.64111272700975,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,1.3,8.3924584940578,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,1.4,8.15408787606685,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,1.5,7.92411697893197,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,1.6,7.70151554812882,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,1.7,7.48567992989928,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,1.8,7.27622094660542,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,1.9,7.07285849309831,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,2,6.87536912900019,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,2.1,6.68355997365073,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,2.2,6.49725568804051,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,2.3,6.31629192793908,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,2.4,6.14051204120018,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,2.5,5.96976535199851,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,2.6,5.80390625368164,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,2.7,5.64279369727409,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,2.8,5.48629087512885,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,2.9,5.33426500918161,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,3,5.18658719227052,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,3.1,5.0431322523968,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,3.2,4.90377863440287,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,3.3,4.76840829000642,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,3.4,4.63690657477346,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,3.5,4.50916214881165,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,3.6,4.38506688056734,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,3.7,4.26451575407015,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,3.8,4.14740677917035,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,3.9,4.0336409042087,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,4,3.92312193136917,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,4.1,3.81575643452293,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,4.2,3.71145367940537,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,4.3,3.61012554604668,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,4.4,3.51168645343808,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,4.5,3.41605328642065,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,4.6,3.32314532459585,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,4.7,3.23288417338472,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,4.8,3.14519369700424,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,4.9,3.05999995344641,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,5,2.97723113123889,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,5.1,2.89681748805767,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,5.2,2.81869129116198,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,5.3,2.74278675940327,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,5.4,2.66904000703857,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,5.5,2.59738898913769,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,5.6,2.52777344854983,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,5.7,2.46013486438034,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,5.8,2.39441640195147,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,5.9,2.33056286422373,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,6,2.26852064461049,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,6.1,2.2082376811064,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,6.2,2.14966341181965,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,6.3,2.09274873170999,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,6.4,2.03744595062813,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,6.5,1.98370875257176,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,6.6,1.93149215604464,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,6.7,1.88075247562176,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,6.8,1.83144728456716,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,6.9,1.78353537855391,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,7,1.73697674044625,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,7.1,1.69173250613924,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,7.2,1.64776493118307,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,7.3,1.60503735867116,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,7.4,1.56351418782898,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,7.5,1.52316084358478,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,7.6,1.48394374699101,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,7.7,1.44583028650312,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,7.8,1.40878879013944,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,7.9,1.37278849823775,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,8,1.33779953741336,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,8.1,1.30379289488424,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,8.2,1.27074039366214,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,8.3,1.23861466847014,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,8.4,1.2073891424057,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,8.5,1.17703800397534,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,8.6,1.14753618531245,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,8.7,1.11885934064143,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,8.8,1.09098382546979,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,8.9,1.0638866763787,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,9,1.03754559126242,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,9.1,1.01193891047244,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,9.2,0.98704559819691,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,9.3,0.962845224519238,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,9.4,0.939317947839961,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,9.5,0.916444497915508,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,9.6,0.894206159572697,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,9.7,0.872584756593201,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,9.8,0.851562636219263,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,9.9,0.831122653861103,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,10,0.811248158745256,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,10.1,0.791922979530937,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,10.2,0.773131410583565,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,10.3,0.754858198240866,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,10.4,0.737088528139056,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,10.5,0.719808012445021,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,10.6,0.703002677554611,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,10.7,0.686658951965897,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,10.8,0.670763655016878,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,10.9,0.65530398545954,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,11,0.640267510443096,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,11.1,0.625642154950949,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,11.2,0.611416191566283,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,11.3,0.597578230449978,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,11.4,0.584117209296422,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,11.5,0.57102238432239,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,11.6,0.558283320952067,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,11.7,0.545889884717765,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,11.8,0.533832232783335,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,11.9,0.52210080557247,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,12,0.510686318511739,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,12.1,0.499579754000399,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,12.2,0.488772353959039,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,12.3,0.478255612289361,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,12.4,0.46802126724949,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,12.5,0.458061294957063,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,12.6,0.448367902309238,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,12.7,0.438933520058947,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,12.8,0.429750796821397,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,12.9,0.42081259260354,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,13,0.412111972452982,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,13.1,0.403642200975146,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,13.2,0.395396736454477,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,13.3,0.387369224902307,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,13.4,0.379553495220583,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,13.5,0.371943553557973,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,13.6,0.364533578197501,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,13.7,0.357317914920649,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,13.8,0.35029107175552,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,13.9,0.343447714553203,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,14,0.33678266237542,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,0,0,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,0.1,13.1887552544989,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,0.2,27.2939763894057,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,0.3,23.6937879648518,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,0.4,19.1538463263458,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,0.5,16.4170226554241,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,0.6,14.8331303641348,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,0.7,13.8552937287896,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,0.8,13.1868970774661,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,0.9,12.6777313965822,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,1,12.2527524404426,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,1.1,11.8745168795071,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,1.2,11.5242865516568,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,1.3,11.1926186922815,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,1.4,10.874690450185,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,1.5,10.5679768622065,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,1.6,10.2710977182872,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,1.7,9.98324487107694,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,1.8,9.70389776179206,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,1.9,9.43268206706198,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,2,9.16929941730637,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,2.1,8.91349238895961,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,2.2,8.66502704731216,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,2.3,8.42368416768745,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,2.4,8.18925480727782,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,2.5,7.96153800514845,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,2.6,7.74033956662757,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,2.7,7.52547137826926,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,2.8,7.31675098449763,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,2.9,7.11400130450589,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,3,6.91705042029451,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,3.1,6.72573139545119,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,3.2,6.53988211726515,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,3.3,6.35934515002677,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,3.4,6.18396759760814,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,3.5,6.01360097101109,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,3.6,5.84810106005784,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,3.7,5.68732780968466,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,3.8,5.53114520022934,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,3.9,5.37942113096252,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,4,5.23202730719689,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,4.1,5.08883913071895,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,4.2,4.94973559333283,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,4.3,4.8145991734096,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,4.4,4.68331573541801,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,4.5,4.55577443241939,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,4.6,4.4318676112587,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,4.7,4.3114907206215,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,4.8,4.19454222164745,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,4.9,4.08092350121497,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,5,3.97053878760173,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,5.1,3.86329506861507,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,5.2,3.75910201215288,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,5.3,3.6578718888635,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,5.4,3.55951949721224,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,5.5,3.46396209067336,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,5.6,3.37111930700187,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,5.7,3.28091309951933,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,5.8,3.19326767037876,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,5.9,3.1081094057775,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,6,3.02536681302822,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,6.1,2.94497045938203,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,6.2,2.86685291272382,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,6.3,2.79094868387588,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,6.4,2.71719417063672,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,6.5,2.6455276034429,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,6.6,2.57588899250154,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,6.7,2.50822007653162,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,6.8,2.44246427290909,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,6.9,2.37856662928171,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,7,2.3164737766007,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,7.1,2.25613388356261,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,7.2,2.1974966120976,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,7.3,2.14051307454333,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,7.4,2.08513579175325,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,7.5,2.03131865251442,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,7.6,1.97901687409999,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,7.7,1.92818696396492,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,7.8,1.87878668261697,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,7.9,1.83077500728327,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,8,1.78411209717945,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,8.1,1.73875925926824,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,8.2,1.69467891517288,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,8.3,1.65183456905959,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,8.4,1.61019077651399,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,8.5,1.56971311391339,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,8.6,1.5303681493768,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,8.7,1.49212341404358,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,8.8,1.45494737432283,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,8.9,1.41880940494097,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,9,1.38367976258799,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,9.1,1.34952956077019,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,9.2,1.31633074497679,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,9.3,1.28405606875229,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,9.4,1.25267907025331,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,9.5,1.22217404962815,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,9.6,1.19251604729752,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,9.7,1.16368082246204,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,9.8,1.13564483243815,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,9.9,1.10838521226308,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,10,1.0818797555547,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,10.1,1.05610689532871,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,10.2,1.03104568569225,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,10.3,1.0066757835276,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,10.4,0.982977431589716,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,10.5,0.959931441478341,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,10.6,0.937519177231777,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,10.7,0.915722539153991,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,10.8,0.894523948794597,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,10.9,0.873906333710605,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,11,0.853853112773848,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,11.1,0.834348182083543,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,11.2,0.815375901317119,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,11.3,0.796921080364206,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,11.4,0.77896896593116,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,11.5,0.761505229523331,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,11.6,0.744515955022097,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,11.7,0.727987626549559,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,11.8,0.711907117163698,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,11.9,0.696261677693415,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,12,0.68103892572659,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,12.1,0.666226834900577,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,12.2,0.651813724964666,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,12.3,0.637788251724031,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,12.4,0.624139396871029,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,12.5,0.610856459320548,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,12.6,0.597929045767754,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,12.7,0.585347061454194,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,12.8,0.573100702174534,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,12.9,0.561180445647109,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,13,0.549577043043753,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,13.1,0.538281511677584,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,13.2,0.527285127162724,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,13.3,0.516579415476201,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,13.4,0.50615614650803,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,13.5,0.496007326534201,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,13.6,0.486125191398553,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,13.7,0.476502200330083,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,13.8,0.467131028938805,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,13.9,0.458004563316146,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ICF,14,0.449115893883659,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,0,0,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,0.1,0.1959205133035,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,0.2,0.947359163598625,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,0.3,1.80966996348583,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,0.4,2.46399461064384,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,0.5,2.96349326511002,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,0.6,3.36735493465665,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,0.7,3.70939869057415,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,0.8,4.00764907109677,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,0.9,4.27189292175647,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,1,4.50774545368825,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,1.1,4.71870600051928,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,1.2,4.90718466463201,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,1.3,5.07501444041669,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,1.4,5.2237073797575,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,1.5,5.35458353199081,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,1.6,5.46883662158597,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,1.7,5.56756823186293,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,1.8,5.65180627396683,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,1.9,5.72251557924907,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,2,5.78060451067921,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,2.1,5.82692953230142,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,2.2,5.86229869958806,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,2.3,5.88747455634633,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,2.4,5.90317667695193,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,2.5,5.91008398066833,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,2.6,5.90883687908883,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,2.7,5.90003929116297,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,2.8,5.88426054734085,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,2.9,5.86203719387259,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,3,5.83387470064767,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,3.1,5.80024908585362,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,3.2,5.76160845705944,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,3.3,5.71837448266918,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,3.4,5.67094378132442,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,3.5,5.61968924123195,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,3.6,5.56496127749273,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,3.7,5.50708902640263,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,3.8,5.44638147962839,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,3.9,5.38312856401221,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,4,5.31760216260363,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,4.1,5.25005708365327,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,4.2,5.18073198278499,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,4.3,5.10985023987269,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,4.4,5.03762079091453,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,4.5,4.96423891625763,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,4.6,4.88988699058565,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,4.7,4.81473519298983,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,4.8,4.73894218207646,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,4.9,4.66265573510515,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,5,4.58601335597312,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,5.1,4.50914285145868,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,5.2,4.43216287692975,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,5.3,4.35518345623094,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,5.4,4.27830647242749,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,5.5,4.20162613351343,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,5.6,4.1252294141609,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,5.7,4.0491964747538,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,5.8,3.97360105852762,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,5.9,3.89851086760745,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,6,3.82398791937571,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,6.1,3.75008888472629,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,6.2,3.67686540730702,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,6.3,3.60436440686891,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,6.4,3.53262836574253,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,6.5,3.46169560001433,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,6.6,3.39160051710599,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,6.7,3.32237385870126,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,6.8,3.25404293124945,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,6.9,3.18663182372622,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,7,3.12016161337958,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,7.1,3.05465055981985,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,7.2,2.99011429068281,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,7.3,2.92656597382505,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,7.4,2.86401648250457,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,7.5,2.80247455056431,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,7.6,2.74194691924837,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,7.7,2.68243847578419,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,7.8,2.62395238368297,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,7.9,2.56649020758149,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,8,2.51005202717016,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,8.1,2.45463654822397,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,8.2,2.40024120607638,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,8.3,2.34686226303539,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,8.4,2.29449489975281,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,8.5,2.24313330367291,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,8.6,2.1927707481203,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,8.7,2.14339966980294,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,8.8,2.09501174083929,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,8.9,2.04759793649397,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,9,2.00114859975473,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,9.1,1.95565349965173,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,9.2,1.91110188817877,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,9.3,1.86748255270514,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,9.4,1.82478386613563,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,9.5,1.78299383315349,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,9.6,1.74210013242991,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,9.7,1.70209015799786,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,9.8,1.66295105698522,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,9.9,1.6246697662438,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,10,1.58723304378402,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,10.1,1.55062750059791,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,10.2,1.51483962900657,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,10.3,1.47985583110556,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,10.4,1.4456624418735,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,10.5,1.41224575300749,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,10.6,1.37959203454245,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,10.7,1.34768755566047,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,10.8,1.3165186017017,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,10.9,1.28607149208389,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,11,1.25633259643691,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,11.1,1.22728834889522,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,11.2,1.19892526119236,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,11.3,1.17122993503785,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,11.4,1.14418907454742,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,11.5,1.11778949488941,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,11.6,1.0920181322632,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,11.7,1.06686205305636,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,11.8,1.04230846093572,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,11.9,1.01834470375971,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,12,0.994958280149739,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,12.1,0.972136845356607,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,12.2,0.949868215498184,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,12.3,0.92814037218858,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,12.4,0.906941467318672,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,12.5,0.886259824886073,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,12.6,0.866083944524064,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,12.7,0.846402504508062,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,12.8,0.827204362633699,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,12.9,0.808478558329395,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,13,0.790214314407791,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,13.1,0.772401037037584,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,13.2,0.755028316659377,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,13.3,0.738085928949938,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,13.4,0.721563833749957,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,13.5,0.7054521755725,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,13.6,0.689741283085048,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,13.7,0.674421667941821,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,13.8,0.65948402459366,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,13.9,0.644919228818566,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+sCSF,14,0.630718336634844,83,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024
+brain ECF,0,0,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,0.1,6.80588979338898,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,0.2,16.5552630004351,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,0.3,17.3217913812357,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,0.4,15.166301156246,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,0.5,13.1476171928759,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,0.6,11.7314433634123,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,0.7,10.7962356548953,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,0.8,10.163411631883,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,0.9,9.70462387452546,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,1,9.34278048806422,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,1.1,9.03505432015379,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,1.2,8.75858616725526,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,1.3,8.50142313315472,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,1.4,8.25736175881897,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,1.5,8.02316719974923,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,1.6,7.7971186190706,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,1.7,7.57826214350511,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,1.8,7.36603157329373,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,1.9,7.16005719917521,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,2,6.96006988017292,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,2.1,6.76585301624201,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,2.2,6.57721853984907,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,2.3,6.39399487913781,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,2.4,6.21602091661856,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,2.5,6.04314290269463,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,2.6,5.87521287880308,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,2.7,5.71208782020628,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,2.8,5.55362915049954,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,2.9,5.39970245132816,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,3,5.2501772569815,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,3.1,5.10492689764342,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,3.2,4.96382836919009,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,3.3,4.82676221886345,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,3.4,4.6936124385457,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,3.5,4.56426636220823,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,3.6,4.43861456834283,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,3.7,4.31655078634699,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,3.8,4.19797180551734,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,3.9,4.08277738687144,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,4,3.97087017761636,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,4.1,3.86215562809382,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,4.2,3.75654191109515,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,4.3,3.65393984349667,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,4.4,3.55426281017781,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,4.5,3.457426690066,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,4.6,3.36334978440423,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,4.7,3.27195274706781,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,4.8,3.18315851684882,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,4.9,3.09689225167482,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,5,3.01308126473401,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,5.1,2.93165496247108,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,5.2,2.85254478424595,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,5.3,2.77568414387214,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,5.4,2.70100837279172,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,5.5,2.62845466487357,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,5.6,2.55796202278207,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,5.7,2.48947120589224,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,5.8,2.4229246797336,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,5.9,2.35826656683847,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,6,2.29544259901811,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,6.1,2.23440007104594,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,6.2,2.17508779566652,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,6.3,2.11745605990413,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,6.4,2.06145658254081,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,6.5,2.00704247290617,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,6.6,1.95416819089832,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,6.7,1.90278950798971,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,6.8,1.85286346949213,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,6.9,1.80434835787705,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,7,1.75720365714912,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,7.1,1.71139001824467,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,7.2,1.66686922541929,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,7.3,1.62360416350323,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,7.4,1.58155878637432,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,7.5,1.54069808603379,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,7.6,1.50098806273803,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,7.7,1.4623956959557,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,7.8,1.42488891619963,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,7.9,1.388436577529,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,8,1.35300843101513,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,8.1,1.31857509891894,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,8.2,1.28510804956614,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,8.3,1.25257957296838,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,8.4,1.22096275718227,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,8.5,1.19023146512453,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,8.6,1.16036031249221,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,8.7,1.13132464601995,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,8.8,1.1031005223761,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,8.9,1.07566468774869,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,9,1.04899455783335,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,9.1,1.02306819871643,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,9.2,0.997864308067618,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,9.3,0.973362196939392,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,9.4,0.949541772146916,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,9.5,0.926383518847926,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,9.6,0.903868484252027,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,9.7,0.881978261236303,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,9.8,0.860694972667601,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,9.9,0.840001255971846,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,10,0.819880248501913,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,10.1,0.800315573071462,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,10.2,0.781291323999914,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,10.3,0.762792053316946,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,10.4,0.744802757794323,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,10.5,0.727308866131111,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,10.6,0.710296226478784,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,10.7,0.69375109415292,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,10.8,0.677660120160251,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,10.9,0.662010339714552,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,11,0.646789161230909,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,11.1,0.631984355222037,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,11.2,0.617584044307653,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,11.3,0.603576692931387,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,11.4,0.58995109729737,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,11.5,0.576696376054864,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,11.6,0.563801960991534,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,11.7,0.551257587925573,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,11.8,0.539053287818399,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,11.9,0.52717937856226,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,12,0.515626456624446,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,12.1,0.504385388695329,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,12.2,0.493447304325889,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,12.3,0.482803588259924,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,12.4,0.47244587276453,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,12.5,0.462366030914491,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,12.6,0.45255616953388,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,12.7,0.443008622199681,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,12.8,0.433715943030075,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,12.9,0.424670900273537,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,13,0.415866469916368,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,13.1,0.407295829904075,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,13.2,0.398952354402537,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,13.3,0.390829607712209,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,13.4,0.382921339300017,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,13.5,0.37522147830321,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,13.6,0.367724128030764,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,13.7,0.360423561473375,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,13.8,0.353314216061066,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,13.9,0.346390688882713,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,14,0.339647732364992,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,0,0,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,0.1,8.6079788444707,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,0.2,21.8268498413618,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,0.3,23.1659901110619,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,0.4,20.3257969078147,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,0.5,17.6094514349289,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,0.6,15.6948795699839,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,0.7,14.4300299162642,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,0.8,13.5756362142957,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,0.9,12.9579428427604,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,1,12.4721696383989,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,1.1,12.0599948884785,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,1.2,11.6902572433589,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,1.3,11.3466547138313,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,1.4,11.020726106294,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,1.5,10.7080609674904,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,1.6,10.4063154237303,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,1.7,10.1141926537242,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,1.8,9.8309250863625,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,1.9,9.55601334691174,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,2,9.28909526255713,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,2.1,9.02988027088023,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,2.2,8.77811663144016,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,2.3,8.53357498845678,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,2.4,8.29604012272404,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,2.5,8.06530673959662,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,2.6,7.84117731898326,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,2.7,7.62346094828143,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,2.8,7.41197266297818,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,2.9,7.20653305380374,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,3,7.00696798972578,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,3.1,6.81310840730663,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,3.2,6.6247901362337,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,3.3,6.44185374643312,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,3.4,6.26414440546854,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,3.5,6.09151174155506,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,3.6,5.92380971329044,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,3.7,5.76089648470211,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,3.8,5.60263430377656,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,3.9,5.44888938476362,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,4,5.29953179401557,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,4.1,5.15443533913596,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,4.2,5.01347746129305,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,4.3,4.87653913062927,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,4.4,4.74350474471631,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,4.5,4.61426202984942,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,4.6,4.48870194530884,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,4.7,4.36671859035646,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,4.8,4.24820911385806,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,4.9,4.13307362648707,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,5,4.021215115473,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,5.1,3.91253936184675,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,5.2,3.80695485990526,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,5.3,3.70437273918473,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,5.4,3.60470668861816,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,5.5,3.50787288285936,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,5.6,3.41378991070322,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,5.7,3.32237870556976,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,5.8,3.23356247802853,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,5.9,3.14726665019754,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,6,3.06341879204779,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,6.1,2.98194855958581,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,6.2,2.90278763480571,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,6.3,2.82586966737566,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,6.4,2.75113021788524,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,6.5,2.67850670284362,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,6.6,2.60793834132075,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,6.7,2.53936610290319,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,6.8,2.47273265733045,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,6.9,2.40798232553988,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,7,2.34506103211708,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,7.1,2.28391625911449,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,7.2,2.22449700118996,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,7.3,2.16675372190363,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,7.4,2.11063831163968,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,7.5,2.05610404633299,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,7.6,2.00310554760482,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,7.7,1.9515987440003,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,7.8,1.90154083339331,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,7.9,1.85289024628613,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,8,1.80560661039498,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,8.1,1.75965071618559,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,8.2,1.71498448333986,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,8.3,1.67157092821825,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,8.4,1.62937413230687,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,8.5,1.58835921127345,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,8.6,1.54849228549815,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,8.7,1.50974045105417,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,8.8,1.4720717515412,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,8.9,1.43545515083931,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,9,1.39986050639954,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,9.1,1.36525854372927,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,9.2,1.33162083129046,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,9.3,1.29891975620808,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,9.4,1.26712850075304,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,9.5,1.23622101909217,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,9.6,1.20617201554549,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,9.7,1.17695692271848,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,9.8,1.14855188057757,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,9.9,1.12093371585525,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,10,1.09407992252102,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,10.1,1.06796864247392,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,10.2,1.04257864691709,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,10.3,1.01788931794546,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,10.4,0.993880631237429,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,10.5,0.970533138951463,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,10.6,0.947827953076182,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,10.7,0.925746729029574,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,10.8,0.904271650346394,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,10.9,0.883385413350685,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,11,0.86307121246676,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,11.1,0.843312725399473,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,11.2,0.824094099800034,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,11.3,0.805399939541488,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,11.4,0.787215291287391,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,11.5,0.769525632058876,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,11.6,0.752316856813248,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,11.7,0.735575266287986,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,11.8,0.719287555139134,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,11.9,0.703440800980469,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,12,0.68802245323129,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,12.1,0.673020321969316,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,12.2,0.65842256810421,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,12.3,0.644217693143626,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,12.4,0.63039452895693,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,12.5,0.616942228812084,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,12.6,0.603850257955015,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,12.7,0.591108384271765,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,12.8,0.578706669997909,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,12.9,0.566635463162114,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,13,0.554885389054312,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,13.1,0.543447342513151,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,13.2,0.53231248026655,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,13.3,0.521472212809167,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,13.4,0.510918197771631,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,13.5,0.500642332584994,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,13.6,0.490636747141922,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,13.7,0.480893797804024,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,13.8,0.471406060404989,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,13.9,0.462166323870227,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ICF,14,0.453167584449703,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,0,0,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,0.1,0.126966595930812,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,0.2,0.692159878563751,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,0.3,1.47403314918394,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,0.4,2.16219386789081,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,0.5,2.71674618466026,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,0.6,3.16601681916271,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,0.7,3.5407781861192,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,0.8,3.86245996925347,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,0.9,4.14428764434848,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,1,4.39419096095664,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,1.1,4.61703427742372,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,1.2,4.81598864325258,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,1.3,4.99330299336017,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,1.4,5.15071839611367,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,1.5,5.28968538396574,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,1.6,5.41147685993439,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,1.7,5.5172468732115,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,1.8,5.60806170253419,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,1.9,5.68491686799991,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,2,5.74874700099825,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,2.1,5.80043207437561,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,2.2,5.84080174930759,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,2.3,5.87063872462568,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,2.4,5.89068152890774,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,2.5,5.90162698322057,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,2.6,5.90413244300638,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,2.7,5.89881788275593,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,2.8,5.88626785578599,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,2.9,5.86703334197734,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,3,5.8416334989715,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,3.1,5.81055732282021,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,3.2,5.77426523096735,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,3.3,5.73319056054353,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,3.4,5.68774098842519,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,3.5,5.63829988419977,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,3.6,5.5852275956972,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,3.7,5.52886267071158,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,3.8,5.46952302012314,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,3.9,5.40750701751594,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,4,5.34309454249773,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,4.1,5.27654797420103,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,4.2,5.20811313633982,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,4.3,5.1380201936861,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,4.4,5.06648450181497,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,4.5,4.99370741534103,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,4.6,4.919877053667,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,4.7,4.84516902811564,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,4.8,4.76974713244601,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,4.9,4.69376399819725,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,5,4.61736171628398,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,5.1,4.54067242620508,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,5.2,4.46381887701026,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,5.3,4.38691495683556,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,5.4,4.31006619582099,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,5.5,4.23337024322836,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,5.6,4.15691732012269,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,5.7,4.08079064842302,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,5.8,4.0050668570794,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,5.9,3.92981636773953,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,6,3.85510376000391,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,6.1,3.78098811697872,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,6.2,3.7075233527126,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,6.3,3.63475852227557,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,6.4,3.56273811656199,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,6.5,3.49150234021115,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,6.6,3.42108737414972,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,6.7,3.35152562614212,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,6.8,3.2828459661736,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,6.9,3.21507394951919,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,7,3.14823202777401,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,7.1,3.08233974843746,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,7.2,3.01741394370758,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,7.3,2.95346890998616,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,7.4,2.89051657456623,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,7.5,2.82856665636262,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,7.6,2.76762681599474,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,7.7,2.70770279786048,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,7.8,2.64879856389851,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,7.9,2.59091642115551,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,8,2.53405714051663,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,8.1,2.47822006924198,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,8.2,2.42340323746354,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,8.3,2.36960345834849,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,8.4,2.31681642220395,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,8.5,2.26503678692842,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,8.6,2.21425825958894,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,8.7,2.16447367570326,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,8.8,2.11567507368465,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,8.9,2.06785376422351,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,9,2.02100039684397,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,9.1,1.97510502012666,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,9.2,1.93015714000896,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,9.3,1.88614577404559,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,9.4,1.84305950194012,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,9.5,1.80088651484495,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,9.6,1.7596146575884,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,9.7,1.71923147181311,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,9.8,1.67972423484645,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,9.9,1.64107999721818,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,10,1.6032856156825,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,10.1,1.56632778552478,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,10.2,1.53019307018597,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,10.3,1.49486793009427,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,10.4,1.46033874726864,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,10.5,1.42659184940749,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,10.6,1.3936135323915,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,10.7,1.36139008190442,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,10.8,1.32990779137817,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,10.9,1.29915298017354,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,11,1.26911200972801,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,11.1,1.23977130012565,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,11.2,1.21111734214363,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,11.3,1.18313671071008,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,11.4,1.15581607744637,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,11.5,1.12914222042492,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,11.6,1.10310203410897,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,11.7,1.07768253859278,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,11.8,1.05287088807808,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,11.9,1.02865437721303,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,12,1.00502044803076,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,12.1,0.981956696812982,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,12.2,0.959450878017459,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,12.3,0.937490909294718,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,12.4,0.916064876424544,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,12.5,0.895161035698206,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,12.6,0.874767817395212,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,12.7,0.854873829006749,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,12.8,0.835467856601326,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,12.9,0.816538866791369,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,13,0.798076008619211,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,13.1,0.78006861411652,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,13.2,0.762506198931466,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,13.3,0.745378463591519,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,13.4,0.72867529262976,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,13.5,0.712386754860958,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,13.6,0.696503103536138,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,13.7,0.681014774888336,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,13.8,0.665912387976032,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,13.9,0.651186743730579,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+sCSF,14,0.636828823432537,20,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006
+brain ECF,0,0,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,0.1,2.69886498197352,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,0.2,7.41703434466676,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,0.3,9.88930277294871,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,0.4,10.881857599453,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,0.5,11.1613441115729,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,0.6,11.1040953628338,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,0.7,10.8936894325235,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,0.8,10.6187811121584,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,0.9,10.3214845551557,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,1,10.0212508013807,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,1.1,9.72661385503023,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,1.2,9.44094033108408,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,1.3,9.16522216974817,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,1.4,8.89941655352753,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,1.5,8.64307605486254,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,1.6,8.39563507619057,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,1.7,8.15653217976941,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,1.8,7.92525585674361,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,1.9,7.70135598318716,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,2,7.48444102267151,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,2.1,7.27417024078325,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,2.2,7.07024501765069,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,2.3,6.87240089541509,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,2.4,6.6804008734473,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,2.5,6.4940300030055,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,2.6,6.31309111899011,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,2.7,6.1374015125502,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,2.8,5.96679037508357,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,2.9,5.8010968196978,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,3,5.64016835082638,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,3.1,5.48385967974842,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,3.2,5.33203183353194,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,3.3,5.18455143452983,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,3.4,5.04129013866736,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,3.5,4.90212418386538,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,3.6,4.76693403311707,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,3.7,4.63560409251587,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,3.8,4.50802247226179,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,3.9,4.38408077993841,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,4,4.26367394529364,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,4.1,4.14670007272589,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,4.2,4.03306031062015,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,4.3,3.92265873462847,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,4.4,3.81540224029963,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,4.5,3.7112004446479,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,4.6,3.60996559545239,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,4.7,3.51161248660587,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,4.8,3.41605837813893,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,4.9,3.32322291988594,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,5,3.23302807895162,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,5.1,3.14539807041544,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,5.2,3.06025929076538,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,5.3,2.97754025371022,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,5.4,2.89717152821981,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,5.5,2.81908567870983,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,5.6,2.74321720718937,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,5.7,2.66950249720215,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,5.8,2.59787975957294,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,5.9,2.5282889798004,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,6,2.46067186696051,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,6.1,2.39497180412704,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,6.2,2.33113380034065,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,6.3,2.26910444393617,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,6.4,2.20883185714238,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,6.5,2.15026565209832,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,6.6,2.09335688812282,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,6.7,2.03805803021042,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,6.8,1.98432290870873,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,6.9,1.93210668018558,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,7,1.88136578925216,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,7.1,1.83205793179861,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,7.2,1.78414201897322,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,7.3,1.73757814236323,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,7.4,1.69232754013274,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,7.5,1.64835256413148,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,7.6,1.60561664798284,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,7.7,1.56408427588692,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,7.8,1.52372095262302,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,7.9,1.48449317424647,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,8,1.44636839958108,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,8.1,1.40931502259179,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,8.2,1.37330234559475,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,8.3,1.33830055300144,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,8.4,1.30428068622083,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,8.5,1.27121461897616,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,8.6,1.23907503337448,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,8.7,1.20783539671577,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,8.8,1.17746993894184,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,8.9,1.14795363058483,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,9,1.11926216172008,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,9.1,1.09137192119974,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,9.2,1.06425997662518,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,9.3,1.03790405467447,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,9.4,1.01228252235514,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,9.5,0.987374368566258,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,9.6,0.96315918618967,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,9.7,0.939617154838693,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,9.8,0.916729023639847,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,9.9,0.894476095295004,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,10,0.87284020999185,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,10.1,0.851803730015381,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,10.2,0.831349524475966,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,10.3,0.811460955129628,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,10.4,0.792121862007628,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,10.5,0.77331654973769,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,10.6,0.75502977396399,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,10.7,0.737246728672554,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,10.8,0.719953033507691,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,10.9,0.703134721384967,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,11,0.686778226666988,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,11.1,0.670870373791858,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,11.2,0.655398365958665,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,11.3,0.640349774000241,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,11.4,0.625712526140749,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,11.5,0.61147489761241,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,11.6,0.597625500636268,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,11.7,0.584153274570407,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,11.8,0.571047476831624,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,11.9,0.558297673613604,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,12,0.545893730694494,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,12.1,0.533825805347555,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,12.2,0.522084337719338,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,12.3,0.510660042435439,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,12.4,0.499543901114948,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,12.5,0.4887271545526,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,12.6,0.478201295049499,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,12.7,0.467958059418225,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,12.8,0.457989422001922,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,12.9,0.448287587413699,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,13,0.43884498440869,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,13.1,0.429654259306875,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,13.2,0.420708269389483,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,13.3,0.412000077308127,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,13.4,0.403522945002463,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,13.5,0.395270327660414,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,13.6,0.387235868649264,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,13.7,0.379413393896917,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,13.8,0.371796906330789,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,13.9,0.364380581381349,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,14,0.357158761197123,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,0,0,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,0.1,2.68801296483632,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,0.2,8.87199057759876,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,0.3,12.741261253154,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,0.4,14.3430637142777,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,0.5,14.8491161173101,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,0.6,14.835144143681,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,0.7,14.5824078854094,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,0.8,14.2270598294176,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,0.9,13.8340334280211,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,1,13.4335259650797,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,1.1,13.038959051691,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,1.2,12.6557804192742,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,1.3,12.2857469155133,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,1.4,11.9289854361465,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,1.5,11.5849668218377,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,1.6,11.2529522578097,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,1.7,10.9321869629726,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,1.8,10.6219753231329,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,1.9,10.3217023606615,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,2,10.0308324721154,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,2.1,9.7488998145608,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,2.2,9.47549675969468,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,2.3,9.21026304989167,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,2.4,8.95287654488936,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,2.5,8.70304571251108,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,2.6,8.46050367785012,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,2.7,8.22500357439612,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,2.8,7.99631496910351,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,2.9,7.77422109432511,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,3,7.55851670689356,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,3.1,7.34900643197353,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,3.2,7.14550351848371,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,3.3,6.94782883389337,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,3.4,6.75581008180698,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,3.5,6.56928117409234,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,3.6,6.38808173583389,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,3.7,6.21205671542352,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,3.8,6.04105605488375,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,3.9,5.87493440537827,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,4,5.71355088682971,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,4.1,5.55676888630521,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,4.2,5.40445587993476,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,4.3,5.25648327426237,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,4.4,5.11272626058719,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,4.5,4.97306368172136,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,4.6,4.83737790947024,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,4.7,4.70555473047458,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,4.8,4.5774832384838,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,4.9,4.45305573162219,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,5,4.33216761486134,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,5.1,4.21471730691776,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,5.2,4.10060615086558,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,5.3,3.98973832797478,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,5.4,3.88202077456547,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,5.5,3.77736310176248,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,5.6,3.67567751790072,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,5.7,3.57687875334815,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,5.8,3.48088398775865,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,5.9,3.38761277953817,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,6,3.29698699734097,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,6.1,3.20893075360382,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,6.2,3.12337034015971,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,6.3,3.04023416567434,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,6.4,2.95945269478931,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,6.5,2.88095838916549,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,6.6,2.80468565020719,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,6.7,2.73057076343073,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,6.8,2.65855184441728,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,6.9,2.5885687863605,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,7,2.52056320889599,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,7.1,2.454478408824,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,7.2,2.390259311829,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,7.3,2.32785242580993,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,7.4,2.26720579549331,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,7.5,2.20826895834769,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,7.6,2.15099290181067,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,7.7,2.09533002147423,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,7.8,2.04123408087782,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,7.9,1.98866017223198,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,8,1.9375646782085,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,8.1,1.88790523491012,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,8.2,1.83964069596289,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,8.3,1.79273109732415,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,8.4,1.74713762364266,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,8.5,1.70282257517461,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,8.6,1.65974933570829,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,8.7,1.61788234148039,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,8.8,1.57718705094944,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,8.9,1.53762991523914,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,9,1.49917834992781,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,9.1,1.46180070721398,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,9.2,1.42546624907242,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,9.3,1.39014512088598,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,9.4,1.35580832631751,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,9.5,1.3224277025966,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,9.6,1.28997589651535,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,9.7,1.25842634130544,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,9.8,1.22775323355953,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,9.9,1.19793151186874,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,10,1.16893683525686,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,10.1,1.14074556255424,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,10.2,1.11333473192784,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,10.3,1.08668204187525,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,10.4,1.06076583196309,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,10.5,1.03556506449253,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,10.6,1.01105930629706,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,10.7,0.987228711753892,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,10.8,0.964054005783373,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,10.9,0.941516467245786,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,11,0.91959791309257,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,11.1,0.898280683124255,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,11.2,0.877547624824847,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,11.3,0.857382078447216,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,11.4,0.837767863284469,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,11.5,0.818689263752514,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,11.6,0.800131015960568,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,11.7,0.782078294506113,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,11.8,0.764516700306544,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,11.9,0.747432248158072,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,12,0.730811354414444,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,12.1,0.714640826144183,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,12.2,0.698907849574123,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,12.3,0.683599978837972,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,12.4,0.668705125942867,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,12.5,0.654211550290515,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,12.6,0.640107848397479,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,12.7,0.626382944519392,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,12.8,0.613026081293886,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,12.9,0.600026810008673,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,13,0.587374982387767,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,13.1,0.575060741775581,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,13.2,0.563074514285616,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,13.3,0.551407001306569,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,13.4,0.54004917134969,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,13.5,0.528992251953194,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,13.6,0.518227722887991,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,13.7,0.507747308626438,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,13.8,0.497542970888336,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,13.9,0.487606902613956,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ICF,14,0.477931520209942,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,0,0,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,0.1,0.0503382356987161,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,0.2,0.289735378124231,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,0.3,0.689689313008857,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,0.4,1.14610062201578,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,0.5,1.60813852791643,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,0.6,2.05250624886697,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,0.7,2.46931298664695,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,0.8,2.85511335010921,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,0.9,3.20949271717943,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,1,3.53340351780162,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,1.1,3.82836354141775,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,1.2,4.09607670345361,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,1.3,4.33825936881159,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,1.4,4.55656555509802,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,1.5,4.75255881635192,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,1.6,4.92770546812545,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,1.7,5.08337700887563,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,1.8,5.22085603636763,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,1.9,5.34134307644329,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,2,5.44596322943685,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,2.1,5.53577223178865,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,2.2,5.61176184158036,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,2.3,5.67486458132206,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,2.4,5.72595792155907,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,2.5,5.76586798560458,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,2.6,5.79537286074675,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,2.7,5.81520558182364,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,2.8,5.82605683464897,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,2.9,5.82857743193038,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,3,5.82338059585228,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,3.1,5.81104407442533,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,3.2,5.79211209724609,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,3.3,5.76709721482245,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,3.4,5.73648201869594,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,3.5,5.70072076600107,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,3.6,5.66024090568261,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,3.7,5.61544451016761,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,3.8,5.56670963178058,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,3.9,5.51439159101505,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,4,5.45882419632487,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,4.1,5.40032089564501,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,4.2,5.33917587086853,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,4.3,5.27566507208964,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,4.4,5.21004719994517,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,4.5,5.14256463807978,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,4.6,5.07344433796137,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,4.7,5.00289865804601,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,4.8,4.93112615905242,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,4.9,4.85831236094429,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,5,4.78463045933999,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,5.1,4.71024200514813,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,5.2,4.63529754970524,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,5.3,4.55993725723383,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,5.4,4.48429148586857,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,5.5,4.40848133834293,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,5.6,4.33261918453766,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,5.7,4.25680915770178,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,5.8,4.18114762386175,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,5.9,4.10572362676652,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,6,4.03061931067469,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,6.1,3.95591032116614,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,6.2,3.88166618382941,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,6.3,3.80795066374441,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,6.4,3.73482210717927,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,6.5,3.66233376385437,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,6.6,3.59053409243277,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,6.7,3.51946704989821,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,6.8,3.44917236571645,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,6.9,3.37968580098341,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,7,3.31103939576828,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,7.1,3.24326169919967,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,7.2,3.17637799098519,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,7.3,3.11041048889938,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,7.4,3.04537854547834,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,7.5,2.98129883397995,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,7.6,2.91818552378288,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,7.7,2.85605044827151,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,7.8,2.79490326018329,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,7.9,2.73475158014044,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,8,2.67560113730533,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,8.1,2.61745590153869,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,8.2,2.56031820770169,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,8.3,2.50418887509702,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,8.4,2.44906731634936,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,8.5,2.39495164297565,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,8.6,2.34183876442046,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,8.7,2.28972448090168,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,8.8,2.23860357109075,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,8.9,2.18846987580359,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,9,2.13931637383589,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,9.1,2.09113525589809,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,9.2,2.0439179930185,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,9.3,1.99765540242574,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,9.4,1.95233770682565,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,9.5,1.9079545917817,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,9.6,1.86449525951476,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,9.7,1.82194847842667,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,9.8,1.78030263248221,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,9.9,1.73954576245828,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,10,1.6996656084843,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,10.1,1.66064964833771,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,10.2,1.62248513509497,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,10.3,1.58515912860084,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,10.4,1.54865852828109,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,10.5,1.51297010216053,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,10.6,1.47808051542692,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,10.7,1.44397635436285,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,10.8,1.41064415058636,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,10.9,1.37807040382322,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,11,1.3462416019948,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,11.1,1.3151442394146,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,11.2,1.28476483486151,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,11.3,1.25508994877418,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,11.4,1.22610619676389,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,11.5,1.19780026390584,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,11.6,1.17015891757483,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,11.7,1.14316901962219,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,11.8,1.11681753575188,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,11.9,1.09109154580521,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,12,1.06597825362711,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,12.1,1.04146499322187,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,12.2,1.01753923691581,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,12.3,0.99418860264225,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,12.4,0.971400858479225,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,12.5,0.94916392835698,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,12.6,0.927465897270064,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,12.7,0.906295014604383,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,12.8,0.885639697609812,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,12.9,0.865488535546326,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,13,0.845830290954304,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,13.1,0.826653902246817,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,13.2,0.807948486236396,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,13.3,0.789703338430997,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,13.4,0.771907934556048,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,13.5,0.754551931878511,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,13.6,0.737625168644535,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,13.7,0.721117664714229,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,13.8,0.705019621977731,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,13.9,0.689321422979952,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+sCSF,14,0.674013631765849,3.8,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011
+brain ECF,0,0,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,0.1,1.17021510092244,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,0.2,2.91231433630354,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,0.3,3.76977445885809,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,0.4,4.38877291513927,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,0.5,4.87372576739489,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,0.6,5.26922112501858,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,0.7,5.59933038618409,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,0.8,5.87780389770055,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,0.9,6.11312876083761,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,1,6.31105050560435,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,1.1,6.47583474008796,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,1.2,6.61090244473277,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,1.3,6.71915360593499,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,1.4,6.80313549610821,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,1.5,6.86513325699454,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,1.6,6.90722138675475,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,1.7,6.93129533560154,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,1.8,6.93909278064511,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,1.9,6.93220936516685,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,2,6.91211130744282,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,2.1,6.8801461025963,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,2.2,6.83755194954617,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,2.3,6.78546624198571,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,2.4,6.72493331164473,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,2.5,6.65691154419058,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,2.6,6.58227993404969,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,2.7,6.50184414319282,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,2.8,6.416342108952,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,2.9,6.32644922539594,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,3,6.23278313751711,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,3.1,6.13590817970044,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,3.2,6.03633950844915,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,3.3,5.9345468981958,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,3.4,5.830958249238,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,3.5,5.72596285309449,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,3.6,5.61991441681549,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,3.7,5.51313385103062,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,3.8,5.40591185953064,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,3.9,5.29851132046617,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,4,5.19116949454409,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,4.1,5.08410007280905,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,4.2,4.9774950681793,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,4.3,4.87152656117659,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,4.4,4.76634832367385,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,4.5,4.66209730837162,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,4.6,4.55889502718505,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,4.7,4.45684882749646,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,4.8,4.35605307312485,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,4.9,4.25659023378632,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,5,4.15853188881709,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,5.1,4.06193966138798,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,5.2,3.96686607318389,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,5.3,3.87335533436393,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,5.4,3.78144407373807,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,5.5,3.69116201247107,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,5.6,3.60253258716578,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,5.7,3.51557352116631,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,5.8,3.43029735443821,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,5.9,3.3467119288628,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,6,3.26482083580484,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,6.1,3.18462382847671,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,6.2,3.10611720179505,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,6.3,3.02929414184206,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,6.4,2.95414504698954,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,6.5,2.88065782126101,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,6.6,2.80881815001869,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,6.7,2.73860974481631,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,6.8,2.67001457211834,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,6.9,2.60301306290965,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,7,2.53758430476463,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,7.1,2.47370621762493,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,7.2,2.41135571450245,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,7.3,2.35050884711097,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,7.4,2.29114094364025,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,7.5,2.23322672761289,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,7.6,2.17674043020512,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,7.7,2.12165589199794,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,7.8,2.06794665539607,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,7.9,2.01558604818689,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,8,1.96454726064878,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,8.1,1.91480341301549,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,8.2,1.86632761816276,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,8.3,1.81909303753297,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,8.4,1.7730729315645,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,8.5,1.72824070441832,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,8.6,1.68456994602448,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,8.7,1.64203446598427,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,8.8,1.60060832682979,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,8.9,1.56026587232768,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,9,1.52098175195854,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,9.1,1.48273094446944,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,9.2,1.44548877514715,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,9.3,1.40923093280178,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,9.4,1.37393348391689,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,9.5,1.33957288493592,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,9.6,1.30612599207013,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,9.7,1.27357006907147,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,9.8,1.24188279412737,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,9.9,1.21104226454445,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,10,1.18102700149037,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,10.1,1.15181595110506,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,10.2,1.12338848635664,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,10.3,1.09572440725783,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,10.4,1.06880394087282,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,10.5,1.04260773895476,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,10.6,1.01711687634482,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,10.7,0.992312848120084,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,10.8,0.96817756641511,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,10.9,0.944693356085973,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,11,0.921842950505248,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,11.1,0.899609487088287,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,11.2,0.87797650178548,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,11.3,0.856927923661389,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,11.4,0.836448069266793,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,11.5,0.816521636884496,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,11.6,0.797133700015686,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,11.7,0.778269701261225,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,11.8,0.759915445946833,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,11.9,0.742057095446007,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,12,0.724681160525926,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,12.1,0.707774494766902,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,12.2,0.691324287701292,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,12.3,0.675318058050671,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,12.4,0.659743647001369,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,12.5,0.644589211383265,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,12.6,0.629843216931611,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,12.7,0.615494431572697,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,12.8,0.601531918706191,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,12.9,0.587945030616472,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,13,0.574723401882516,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,13.1,0.5618569428123,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,13.2,0.549335833149595,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,13.3,0.53715051558578,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,13.4,0.525291689547116,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,13.5,0.513750305107747,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,13.6,0.502517556719623,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,13.7,0.49158487738043,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,13.8,0.480943932768886,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,13.9,0.470586615257719,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ECF,14,0.460505038451245,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,0,0,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,0.1,0.595437289989232,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,0.2,2.40136942886769,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,0.3,4.03902275202078,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,0.4,5.15342681416777,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,0.5,5.96899830546823,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,0.6,6.60349250326884,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,0.7,7.11814565746126,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,0.8,7.54591275924508,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,0.9,7.9055101325973,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,1,8.20840272616678,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,1.1,8.46228707223502,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,1.2,8.67283320779667,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,1.3,8.84456117897675,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,1.4,8.98128698069757,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,1.5,9.08635391531823,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,1.6,9.16275667269964,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,1.7,9.21321146584966,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,1.8,9.24019875348023,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,1.9,9.24599177057967,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,2,9.23267747186908,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,2.1,9.20217321039243,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,2.2,9.15624083439417,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,2.3,9.0964990744017,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,2.4,9.02443468118486,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,2.5,8.94141258212869,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,2.6,8.84868519651932,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,2.7,8.74740102694148,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,2.8,8.63861260139384,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,2.9,8.52328380673737,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,3,8.40229667224392,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,3.1,8.27645764894522,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,3.2,8.14650345609693,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,3.3,8.01310645103193,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,3.4,7.8768795919992,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,3.5,7.73838105806143,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,3.6,7.59811852819623,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,3.7,7.45655312639401,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,3.8,7.31410308621185,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,3.9,7.17114712075261,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,4,7.0280275480684,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,4.1,6.88505318977819,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,4.2,6.742502048794,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,4.3,6.60062378090863,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,4.4,6.45964199391695,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,4.5,6.31975635689024,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,4.6,6.18114455237297,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,4.7,6.04396408415874,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,4.8,5.90835395032768,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,4.9,5.77443618687607,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,5,5.64231729009437,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,5.1,5.51208954063894,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,5.2,5.38383221511312,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,5.3,5.25761270610512,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,5.4,5.13348755765908,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,5.5,5.01150342085722,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,5.6,4.89169793778739,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,5.7,4.77410055225193,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,5.8,4.65873326186532,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,5.9,4.54561130706113,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,6,4.43474380670911,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,6.1,4.32613434390867,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,6.2,4.21978150577062,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,6.3,4.11567938017228,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,6.4,4.01381801239566,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,6.5,3.9141838224585,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,6.6,3.81675999741596,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,6.7,3.72152683999817,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,6.8,3.62846209439344,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,6.9,3.53754124496158,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,7,3.44873779009641,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,7.1,3.36202349300339,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,7.2,3.27736861111334,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,7.3,3.19474210413302,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,7.4,3.11411183095472,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,7.5,3.03544471974571,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,7.6,2.95870692876296,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,7.7,2.88386399217517,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,7.8,2.81088095264331,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,7.9,2.73972248132673,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,8,2.67035298873156,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,8.1,2.60273672186681,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,8.2,2.53683785461163,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,8.3,2.47262056847556,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,8.4,2.41004912554823,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,8.5,2.34908793334087,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,8.6,2.28970160581507,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,8.7,2.23185501282648,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,8.8,2.17551332864736,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,8.9,2.12064207343508,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,9,2.06720714925118,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,9.1,2.01517487475734,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,9.2,1.96451201096077,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,9.3,1.91518578653853,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,9.4,1.86716391911726,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,9.5,1.8204146338897,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,9.6,1.77490667868808,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,9.7,1.73060933614274,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,9.8,1.68749243458068,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,9.9,1.64552635575561,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,10,1.60468204265902,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,10.1,1.56493100212151,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,10.2,1.52624530847394,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,10.3,1.48859760485052,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,10.4,1.45196110418959,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,10.5,1.41630958681446,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,10.6,1.3816173991048,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,10.7,1.34785945035956,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,10.8,1.31501120918465,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,10.9,1.2830486981958,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,11,1.25194848890271,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,11.1,1.22168769620235,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,11.2,1.19224397135808,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,11.3,1.16359549509336,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,11.4,1.1357209703772,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,11.5,1.10859961502506,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,11.6,1.08221115316062,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,11.7,1.05653580725669,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,11.8,1.03155428979302,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,11.9,1.00724779445006,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,12,0.983597987318262,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,12.1,0.960586998222489,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,12.2,0.938197411600383,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,12.3,0.916412257506526,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,12.4,0.895215002681262,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,12.5,0.874589541446402,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,12.6,0.854520186693271,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,12.7,0.834991660916806,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,12.8,0.815989087220817,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,12.9,0.797497980468923,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,13,0.779504238455119,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,13.1,0.761994133086126,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,13.2,0.744954301900842,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,13.3,0.728371739361709,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,13.4,0.712233788476593,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,13.5,0.696528132593562,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,13.6,0.681242786959974,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,13.7,0.666366090841139,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,13.8,0.651886699604829,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,13.9,0.637793576644575,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+brain ICF,14,0.624075985985898,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,0,0,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,0.1,0.0223067375520749,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,0.2,0.119448074242234,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,0.3,0.271896888158073,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,0.4,0.45054742072839,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,0.5,0.646165980385753,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,0.6,0.85293885613926,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,0.7,1.0668330605916,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,0.8,1.28484009182623,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,0.9,1.50458732225575,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,1,1.72413292040466,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,1.1,1.94185292911827,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,1.2,2.15637504653659,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,1.3,2.36653646496949,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,1.4,2.57135445403695,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,1.5,2.77000400629586,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,1.6,2.96179966497543,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,1.7,3.14618004899409,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,1.8,3.3226942877066,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,1.9,3.49098992772386,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,2,3.6508020520581,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,2.1,3.80194344259223,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,2.2,3.94429566616375,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,2.3,4.07780099049295,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,2.4,4.20245505484244,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,2.5,4.31830022268564,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,2.6,4.42541956798844,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,2.7,4.52393143103281,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,2.8,4.61398449320116,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,2.9,4.69575334076339,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,3,4.76943446859931,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,3.1,4.83524268323875,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,3.2,4.89340784530841,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,3.3,4.94417198159878,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,3.4,4.98778670708726,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,3.5,5.024510902995,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,3.6,5.05460864651832,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,3.7,5.0783473836939,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,3.8,5.09599630197984,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,3.9,5.10782490916641,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,4,5.11410177908447,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,4.1,5.11509344901723,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,4.2,5.11106346236881,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,4.3,5.10227154377923,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,4.4,5.08897288202505,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,4.5,5.07141752918248,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,4.6,5.04984989270349,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,4.7,5.02450831051824,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,4.8,4.99562470140724,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,4.9,4.96342428573187,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,5,4.92812536987869,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,5.1,4.88993918010744,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,5.2,4.84906975160152,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,5.3,4.80571386002497,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,5.4,4.76006099064888,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,5.5,4.71229334118594,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,5.6,4.6625858535447,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,5.7,4.61110627398844,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,5.8,4.55801523424686,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,5.9,4.50346635395265,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,6,4.44760635959957,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,6.1,4.39057521776707,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,6.2,4.33250628037032,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,6.3,4.27352644009825,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,6.4,4.21375629430807,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,6.5,4.15331031605896,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,6.6,4.09229702874181,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,6.7,4.03081918689955,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,6.8,3.96897395843131,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,6.9,3.90685310857672,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,7,3.84454318465846,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,7.1,3.78212570079672,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,7.2,3.71967732187163,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,7.3,3.65727004593414,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,7.4,3.59497138517786,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,7.5,3.53284454380745,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,7.6,3.47094859325277,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,7.7,3.40933864421839,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,7.8,3.34806601522097,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,7.9,3.28717839721223,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,8,3.2267200148791,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,8.1,3.16673178281739,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,8.2,3.10725145822241,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,8.3,3.04831378886939,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,8.4,2.98995065679832,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,8.5,2.93219121707302,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,8.6,2.87506203392013,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,8.7,2.81858720901156,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,8.8,2.7627885080839,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,8.9,2.70768548216381,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,9,2.65329558374375,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,9.1,2.59963428143655,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,9.2,2.5467151659621,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,9.3,2.49455005464054,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,9.4,2.44314909125568,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,9.5,2.39252084248311,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,9.6,2.34267238960345,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,9.7,2.29360941564325,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,9.8,2.24533629030234,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,9.9,2.19785614973419,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,10,2.15117097623455,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,10.1,2.1052816687043,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,10.2,2.06018811402217,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,10.3,2.01588925370329,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,10.4,1.97238314982909,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,10.5,1.92966704283186,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,10.6,1.88773741100838,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,10.7,1.84659002548187,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,10.8,1.80622000361454,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,10.9,1.76662185704991,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,11,1.72778953944569,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,11.1,1.6897164930112,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,11.2,1.65239568935758,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,11.3,1.61581966965385,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,11.4,1.57998058319238,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,11.5,1.54487022530202,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,11.6,1.51048006861626,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,11.7,1.47680129662614,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,11.8,1.44382483509865,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,11.9,1.41154137991184,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,12,1.37994142345471,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,12.1,1.34901528209104,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,12.2,1.31875311898299,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,12.3,1.28914496593472,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,12.4,1.26018074620108,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,12.5,1.23185029404285,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,12.6,1.20414337230524,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,12.7,1.17704969109876,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,12.8,1.15055892442548,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,12.9,1.12466072395498,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,13,1.09934473464771,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,13.1,1.07460060848265,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,13.2,1.05041801470609,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,13.3,1.02678665371207,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,13.4,1.00369626651754,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,13.5,0.981136644150762,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,13.6,0.959097638577669,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,13.7,0.937569169593925,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,13.8,0.916541232702108,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,13.9,0.89600390766876,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016
+sCSF,14,0.875947363411092,0.92,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016

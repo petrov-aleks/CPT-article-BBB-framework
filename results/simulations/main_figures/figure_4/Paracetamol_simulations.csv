@@ -1,0 +1,3616 @@
+site,PS,source,time,conc
+plasma,NaN,,0,0
+plasma,NaN,,0.1,18.6641357040856
+plasma,NaN,,0.2,24.6652947370932
+plasma,NaN,,0.3,18.5103343639788
+plasma,NaN,,0.4,15.2776121415413
+plasma,NaN,,0.5,13.500974438295
+plasma,NaN,,0.6,12.4522674490474
+plasma,NaN,,0.7,11.7697899112148
+plasma,NaN,,0.8,11.2738039420988
+plasma,NaN,,0.9,10.874928200029
+plasma,NaN,,1,10.5286510721694
+plasma,NaN,,1.1,10.2127444281893
+plasma,NaN,,1.2,9.91604847331775
+plasma,NaN,,1.3,9.63290285145824
+plasma,NaN,,1.4,9.36038134513049
+plasma,NaN,,1.5,9.09691868780954
+plasma,NaN,,1.6,8.84162862243499
+plasma,NaN,,1.7,8.59396519355121
+plasma,NaN,,1.8,8.35355447646778
+plasma,NaN,,1.9,8.12011093150678
+plasma,NaN,,2,7.89339578715592
+plasma,NaN,,2.1,7.67319629417705
+plasma,NaN,,2.2,7.45931533784661
+plasma,NaN,,2.3,7.25156620911252
+plasma,NaN,,2.4,7.04976992592989
+plasma,NaN,,2.5,6.85375383152625
+plasma,NaN,,2.6,6.66335082903419
+plasma,NaN,,2.7,6.47839892668404
+plasma,NaN,,2.8,6.29874094772874
+plasma,NaN,,2.9,6.12422432103426
+plasma,NaN,,3,5.95470091108147
+plasma,NaN,,3.1,5.79002687231452
+plasma,NaN,,3.2,5.6300625167424
+plasma,NaN,,3.3,5.47467219044247
+plasma,NaN,,3.4,5.32372415444605
+plasma,NaN,,3.5,5.17709047047068
+plasma,NaN,,3.6,5.03464689099163
+plasma,NaN,,3.7,4.89627275228499
+plasma,NaN,,3.8,4.76185087102708
+plasma,NaN,,3.9,4.63126744390793
+plasma,NaN,,4,4.50441195005691
+plasma,NaN,,4.1,4.38117705625869
+plasma,NaN,,4.2,4.26145852497709
+plasma,NaN,,4.3,4.14515512502567
+plasma,NaN,,4.4,4.03216854480591
+plasma,NaN,,4.5,3.92240330811228
+plasma,NaN,,4.6,3.81576669234019
+plasma,NaN,,4.7,3.71216864902668
+plasma,NaN,,4.8,3.6115217266814
+plasma,NaN,,4.9,3.51374099587099
+plasma,NaN,,5,3.41874397646647
+plasma,NaN,,5.1,3.3264505669194
+plasma,NaN,,5.2,3.23678297566756
+plasma,NaN,,5.3,3.14966565451404
+plasma,NaN,,5.4,3.06502523392058
+plasma,NaN,,5.5,2.98279046009607
+plasma,NaN,,5.6,2.90289213396486
+plasma,NaN,,5.7,2.82526305195878
+plasma,NaN,,5.8,2.74983794831817
+plasma,NaN,,5.9,2.67655343924727
+plasma,NaN,,6,2.605347968635
+plasma,NaN,,6.1,2.53616175533008
+plasma,NaN,,6.2,2.46893674192185
+plasma,NaN,,6.3,2.40361654499942
+plasma,NaN,,6.4,2.3401464068595
+plasma,NaN,,6.5,2.27847314863358
+plasma,NaN,,6.6,2.2185451247217
+plasma,NaN,,6.7,2.16031217839213
+plasma,NaN,,6.8,2.10372559908696
+plasma,NaN,,6.9,2.04873808061155
+plasma,NaN,,7,1.99530368060356
+plasma,NaN,,7.1,1.9433777811803
+plasma,NaN,,7.2,1.892917050734
+plasma,NaN,,7.3,1.84387940686824
+plasma,NaN,,7.4,1.79622398027424
+plasma,NaN,,7.5,1.74991107966524
+plasma,NaN,,7.6,1.70490215800435
+plasma,NaN,,7.7,1.66115977940264
+plasma,NaN,,7.8,1.61864758705302
+plasma,NaN,,7.9,1.57733027209593
+plasma,NaN,,8,1.53717354343657
+plasma,NaN,,8.1,1.49814409825001
+plasma,NaN,,8.2,1.46020959357681
+plasma,NaN,,8.3,1.42333861863764
+plasma,NaN,,8.4,1.38750066792263
+plasma,NaN,,8.5,1.35266611511615
+plasma,NaN,,8.6,1.31880618762384
+plasma,NaN,,8.7,1.2858929420147
+plasma,NaN,,8.8,1.2538992401548
+plasma,NaN,,8.9,1.22279872592267
+plasma,NaN,,9,1.19256580270415
+plasma,NaN,,9.1,1.16317561133971
+plasma,NaN,,9.2,1.13460400887381
+plasma,NaN,,9.3,1.10682754808113
+plasma,NaN,,9.4,1.07982345727681
+plasma,NaN,,9.5,1.05356962089451
+plasma,NaN,,9.6,1.02804456031715
+plasma,NaN,,9.7,1.00322741581388
+plasma,NaN,,9.8,0.979097928569357
+plasma,NaN,,9.9,0.955636423406767
+plasma,NaN,,10,0.932823791728413
+plasma,NaN,,10.1,0.910641475343846
+plasma,NaN,,10.2,0.889071450674483
+plasma,NaN,,10.3,0.868096213283498
+plasma,NaN,,10.4,0.847698762707592
+plasma,NaN,,10.5,0.82786258815124
+plasma,NaN,,10.6,0.808571654325388
+plasma,NaN,,10.7,0.789810387730786
+plasma,NaN,,10.8,0.771563663170499
+plasma,NaN,,10.9,0.753816790986312
+plasma,NaN,,11,0.736555504535321
+plasma,NaN,,11.1,0.719765947901206
+plasma,NaN,,11.2,0.703434663876728
+plasma,NaN,,11.3,0.687548582861683
+plasma,NaN,,11.4,0.672095011499422
+plasma,NaN,,11.5,0.657061621605812
+plasma,NaN,,11.6,0.642436439939925
+plasma,NaN,,11.7,0.628207837908062
+plasma,NaN,,11.8,0.614364521577446
+plasma,NaN,,11.9,0.600895521827422
+plasma,NaN,,12,0.587790185376113
+plasma,NaN,,12.1,0.575038165482525
+plasma,NaN,,12.2,0.562629412841232
+plasma,NaN,,12.3,0.550554167519728
+plasma,NaN,,12.4,0.538802950379134
+plasma,NaN,,12.5,0.527366554690812
+plasma,NaN,,12.6,0.516236038762933
+plasma,NaN,,12.7,0.505402718111537
+plasma,NaN,,12.8,0.494858157796452
+plasma,NaN,,12.9,0.484594165586205
+plasma,NaN,,13,0.474602784916632
+plasma,NaN,,13.1,0.464876287640905
+plasma,NaN,,13.2,0.455407168098058
+plasma,NaN,,13.3,0.446188136376409
+plasma,NaN,,13.4,0.437212111887115
+plasma,NaN,,13.5,0.428472217825192
+plasma,NaN,,13.6,0.419961774894556
+plasma,NaN,,13.7,0.411674295668777
+plasma,NaN,,13.8,0.40360347932096
+plasma,NaN,,13.9,0.395743205906453
+plasma,NaN,,14,0.388087531278267
+plasma,NaN,,14.1,0.380630682248223
+plasma,NaN,,14.2,0.373367051079249
+plasma,NaN,,14.3,0.366291191399961
+plasma,NaN,,14.4,0.359397813132954
+plasma,NaN,,14.5,0.352681777992437
+plasma,NaN,,14.6,0.346138095454668
+plasma,NaN,,14.7,0.339761917977308
+plasma,NaN,,14.8,0.333548537316962
+plasma,NaN,,14.9,0.327493380416052
+plasma,NaN,,15,0.321592005189932
+plasma,NaN,,15.1,0.315840097319241
+plasma,NaN,,15.2,0.310233465959679
+plasma,NaN,,15.3,0.304768040636428
+plasma,NaN,,15.4,0.299439867638046
+plasma,NaN,,15.5,0.29424510642178
+plasma,NaN,,15.6,0.289180026884369
+plasma,NaN,,15.7,0.284241005506016
+plasma,NaN,,15.8,0.279424522924743
+plasma,NaN,,15.9,0.274727160454191
+plasma,NaN,,16,0.270145597392425
+plasma,NaN,,16.1,0.265676608330085
+plasma,NaN,,16.2,0.261317059950816
+plasma,NaN,,16.3,0.257063909022005
+plasma,NaN,,16.4,0.252914199095602
+plasma,NaN,,16.5,0.248865058667959
+plasma,NaN,,16.6,0.244913698181359
+plasma,NaN,,16.7,0.241057408067777
+plasma,NaN,,16.8,0.237293556251228
+plasma,NaN,,16.9,0.23361958586253
+plasma,NaN,,17,0.230033013399916
+plasma,NaN,,17.1,0.226531426034164
+plasma,NaN,,17.2,0.223112480282065
+plasma,NaN,,17.3,0.219773899297926
+plasma,NaN,,17.4,0.216513471610791
+plasma,NaN,,17.5,0.213329048684914
+plasma,NaN,,17.6,0.210218543559208
+plasma,NaN,,17.7,0.207179928665694
+plasma,NaN,,17.8,0.204211234500606
+plasma,NaN,,17.9,0.201310547615432
+plasma,NaN,,18,0.198476009293507
+plasma,NaN,,18.1,0.195705813754671
+plasma,NaN,,18.2,0.192998206773908
+plasma,NaN,,18.3,0.190351484137082
+plasma,NaN,,18.4,0.187763990172048
+plasma,NaN,,18.5,0.185234116465341
+plasma,NaN,,18.6,0.182760300299625
+plasma,NaN,,18.7,0.180341023627546
+plasma,NaN,,18.8,0.177974811411892
+plasma,NaN,,18.9,0.175660230890684
+plasma,NaN,,19,0.173395889709618
+plasma,NaN,,19.1,0.171180435449793
+plasma,NaN,,19.2,0.169012553861147
+plasma,NaN,,19.3,0.166890968269712
+plasma,NaN,,19.4,0.164814438125311
+plasma,NaN,,19.5,0.162781758209194
+plasma,NaN,,19.6,0.160791757485091
+plasma,NaN,,19.7,0.158843298152416
+plasma,NaN,,19.8,0.15693527472945
+plasma,NaN,,19.9,0.155066613017674
+plasma,NaN,,20,0.15323626936542
+plasma,NaN,,20.1,0.151443229572152
+plasma,NaN,,20.2,0.149686508310289
+plasma,NaN,,20.3,0.147965148000475
+plasma,NaN,,20.4,0.146278218346333
+plasma,NaN,,20.5,0.144624815099237
+plasma,NaN,,20.6,0.14300405991886
+plasma,NaN,,20.7,0.141415098885831
+plasma,NaN,,20.8,0.139857102633572
+plasma,NaN,,20.9,0.138329264805386
+plasma,NaN,,21,0.136830802115134
+plasma,NaN,,21.1,0.135360953185483
+plasma,NaN,,21.2,0.133918978160424
+plasma,NaN,,21.3,0.132504158084746
+plasma,NaN,,21.4,0.131115794107003
+plasma,NaN,,21.5,0.129753207247238
+plasma,NaN,,21.6,0.128415737369025
+plasma,NaN,,21.7,0.127102743178233
+plasma,NaN,,21.8,0.125813601090753
+plasma,NaN,,21.9,0.124547705380481
+plasma,NaN,,22,0.123304466973946
+plasma,NaN,,22.1,0.12208331349175
+plasma,NaN,,22.2,0.120883688628411
+plasma,NaN,,22.3,0.119705051444178
+plasma,NaN,,22.4,0.118546876468468
+plasma,NaN,,22.5,0.117408652559042
+plasma,NaN,,22.6,0.116289883164013
+plasma,NaN,,22.7,0.115190085416925
+plasma,NaN,,22.8,0.11410878993757
+plasma,NaN,,22.9,0.113045540573864
+plasma,NaN,,23,0.111999893640254
+plasma,NaN,,23.1,0.110971418094712
+plasma,NaN,,23.2,0.109959694598702
+plasma,NaN,,23.3,0.108964315642882
+plasma,NaN,,23.4,0.107984884998214
+plasma,NaN,,23.5,0.107021017342466
+plasma,NaN,,23.6,0.106072338236418
+plasma,NaN,,23.7,0.105138483320704
+plasma,NaN,,23.8,0.104219098592726
+plasma,NaN,,23.9,0.10331383969717
+plasma,NaN,,24,0.102422371601323
+brain ECF,20,in situ perfusion,0,0
+brain ECF,20,in situ perfusion,0.1,6.80588979338898
+brain ECF,20,in situ perfusion,0.2,16.5552630004351
+brain ECF,20,in situ perfusion,0.3,17.3217913812357
+brain ECF,20,in situ perfusion,0.4,15.166301156246
+brain ECF,20,in situ perfusion,0.5,13.1476171928759
+brain ECF,20,in situ perfusion,0.6,11.7314433634123
+brain ECF,20,in situ perfusion,0.7,10.7962356548953
+brain ECF,20,in situ perfusion,0.8,10.163411631883
+brain ECF,20,in situ perfusion,0.9,9.70462387452546
+brain ECF,20,in situ perfusion,1,9.34278048806422
+brain ECF,20,in situ perfusion,1.1,9.03505432015379
+brain ECF,20,in situ perfusion,1.2,8.75858616725526
+brain ECF,20,in situ perfusion,1.3,8.50142313315472
+brain ECF,20,in situ perfusion,1.4,8.25736175881897
+brain ECF,20,in situ perfusion,1.5,8.02316719974923
+brain ECF,20,in situ perfusion,1.6,7.7971186190706
+brain ECF,20,in situ perfusion,1.7,7.57826214350511
+brain ECF,20,in situ perfusion,1.8,7.36603157329373
+brain ECF,20,in situ perfusion,1.9,7.16005719917521
+brain ECF,20,in situ perfusion,2,6.96006988017292
+brain ECF,20,in situ perfusion,2.1,6.76585301624201
+brain ECF,20,in situ perfusion,2.2,6.57721853984907
+brain ECF,20,in situ perfusion,2.3,6.39399487913781
+brain ECF,20,in situ perfusion,2.4,6.21602091661856
+brain ECF,20,in situ perfusion,2.5,6.04314290269463
+brain ECF,20,in situ perfusion,2.6,5.87521287880308
+brain ECF,20,in situ perfusion,2.7,5.71208782020628
+brain ECF,20,in situ perfusion,2.8,5.55362915049954
+brain ECF,20,in situ perfusion,2.9,5.39970245132816
+brain ECF,20,in situ perfusion,3,5.2501772569815
+brain ECF,20,in situ perfusion,3.1,5.10492689764342
+brain ECF,20,in situ perfusion,3.2,4.96382836919009
+brain ECF,20,in situ perfusion,3.3,4.82676221886345
+brain ECF,20,in situ perfusion,3.4,4.6936124385457
+brain ECF,20,in situ perfusion,3.5,4.56426636220823
+brain ECF,20,in situ perfusion,3.6,4.43861456834283
+brain ECF,20,in situ perfusion,3.7,4.31655078634699
+brain ECF,20,in situ perfusion,3.8,4.19797180551734
+brain ECF,20,in situ perfusion,3.9,4.08277738687144
+brain ECF,20,in situ perfusion,4,3.97087017761636
+brain ECF,20,in situ perfusion,4.1,3.86215562809382
+brain ECF,20,in situ perfusion,4.2,3.75654191109515
+brain ECF,20,in situ perfusion,4.3,3.65393984349667
+brain ECF,20,in situ perfusion,4.4,3.55426281017781
+brain ECF,20,in situ perfusion,4.5,3.457426690066
+brain ECF,20,in situ perfusion,4.6,3.36334978440423
+brain ECF,20,in situ perfusion,4.7,3.27195274706781
+brain ECF,20,in situ perfusion,4.8,3.18315851684882
+brain ECF,20,in situ perfusion,4.9,3.09689225167482
+brain ECF,20,in situ perfusion,5,3.01308126473401
+brain ECF,20,in situ perfusion,5.1,2.93165496247108
+brain ECF,20,in situ perfusion,5.2,2.85254478424595
+brain ECF,20,in situ perfusion,5.3,2.77568414387214
+brain ECF,20,in situ perfusion,5.4,2.70100837279172
+brain ECF,20,in situ perfusion,5.5,2.62845466487357
+brain ECF,20,in situ perfusion,5.6,2.55796202278207
+brain ECF,20,in situ perfusion,5.7,2.48947120589224
+brain ECF,20,in situ perfusion,5.8,2.4229246797336
+brain ECF,20,in situ perfusion,5.9,2.35826656683847
+brain ECF,20,in situ perfusion,6,2.29544259901811
+brain ECF,20,in situ perfusion,6.1,2.23440007104594
+brain ECF,20,in situ perfusion,6.2,2.17508779566652
+brain ECF,20,in situ perfusion,6.3,2.11745605990413
+brain ECF,20,in situ perfusion,6.4,2.06145658254081
+brain ECF,20,in situ perfusion,6.5,2.00704247290617
+brain ECF,20,in situ perfusion,6.6,1.95416819089832
+brain ECF,20,in situ perfusion,6.7,1.90278950798971
+brain ECF,20,in situ perfusion,6.8,1.85286346949213
+brain ECF,20,in situ perfusion,6.9,1.80434835787705
+brain ECF,20,in situ perfusion,7,1.75720365714912
+brain ECF,20,in situ perfusion,7.1,1.71139001824467
+brain ECF,20,in situ perfusion,7.2,1.66686922541929
+brain ECF,20,in situ perfusion,7.3,1.62360416350323
+brain ECF,20,in situ perfusion,7.4,1.58155878637432
+brain ECF,20,in situ perfusion,7.5,1.54069808603379
+brain ECF,20,in situ perfusion,7.6,1.50098806273803
+brain ECF,20,in situ perfusion,7.7,1.4623956959557
+brain ECF,20,in situ perfusion,7.8,1.42488891619963
+brain ECF,20,in situ perfusion,7.9,1.388436577529
+brain ECF,20,in situ perfusion,8,1.35300843101513
+brain ECF,20,in situ perfusion,8.1,1.31857509891894
+brain ECF,20,in situ perfusion,8.2,1.28510804956614
+brain ECF,20,in situ perfusion,8.3,1.25257957296838
+brain ECF,20,in situ perfusion,8.4,1.22096275718227
+brain ECF,20,in situ perfusion,8.5,1.19023146512453
+brain ECF,20,in situ perfusion,8.6,1.16036031249221
+brain ECF,20,in situ perfusion,8.7,1.13132464601995
+brain ECF,20,in situ perfusion,8.8,1.1031005223761
+brain ECF,20,in situ perfusion,8.9,1.07566468774869
+brain ECF,20,in situ perfusion,9,1.04899455783335
+brain ECF,20,in situ perfusion,9.1,1.02306819871643
+brain ECF,20,in situ perfusion,9.2,0.997864308067618
+brain ECF,20,in situ perfusion,9.3,0.973362196939392
+brain ECF,20,in situ perfusion,9.4,0.949541772146916
+brain ECF,20,in situ perfusion,9.5,0.926383518847926
+brain ECF,20,in situ perfusion,9.6,0.903868484252027
+brain ECF,20,in situ perfusion,9.7,0.881978261236302
+brain ECF,20,in situ perfusion,9.8,0.860694972667601
+brain ECF,20,in situ perfusion,9.9,0.840001255971845
+brain ECF,20,in situ perfusion,10,0.819880248501913
+brain ECF,20,in situ perfusion,10.1,0.800315573071462
+brain ECF,20,in situ perfusion,10.2,0.781291323999914
+brain ECF,20,in situ perfusion,10.3,0.762792053316946
+brain ECF,20,in situ perfusion,10.4,0.744802757794323
+brain ECF,20,in situ perfusion,10.5,0.727308866131111
+brain ECF,20,in situ perfusion,10.6,0.710296226478783
+brain ECF,20,in situ perfusion,10.7,0.693751094152919
+brain ECF,20,in situ perfusion,10.8,0.677660120160251
+brain ECF,20,in situ perfusion,10.9,0.662010339714552
+brain ECF,20,in situ perfusion,11,0.646789161230909
+brain ECF,20,in situ perfusion,11.1,0.631984355222037
+brain ECF,20,in situ perfusion,11.2,0.617584044307653
+brain ECF,20,in situ perfusion,11.3,0.603576692931387
+brain ECF,20,in situ perfusion,11.4,0.58995109729737
+brain ECF,20,in situ perfusion,11.5,0.576696376054864
+brain ECF,20,in situ perfusion,11.6,0.563801960991534
+brain ECF,20,in situ perfusion,11.7,0.551257587925573
+brain ECF,20,in situ perfusion,11.8,0.539053287818399
+brain ECF,20,in situ perfusion,11.9,0.52717937856226
+brain ECF,20,in situ perfusion,12,0.515626456624446
+brain ECF,20,in situ perfusion,12.1,0.504385388695329
+brain ECF,20,in situ perfusion,12.2,0.493447304325889
+brain ECF,20,in situ perfusion,12.3,0.482803588259924
+brain ECF,20,in situ perfusion,12.4,0.47244587276453
+brain ECF,20,in situ perfusion,12.5,0.462366030914491
+brain ECF,20,in situ perfusion,12.6,0.45255616953388
+brain ECF,20,in situ perfusion,12.7,0.443008622199681
+brain ECF,20,in situ perfusion,12.8,0.433715943030075
+brain ECF,20,in situ perfusion,12.9,0.424670900273537
+brain ECF,20,in situ perfusion,13,0.415866469916368
+brain ECF,20,in situ perfusion,13.1,0.407295829904075
+brain ECF,20,in situ perfusion,13.2,0.398952354402537
+brain ECF,20,in situ perfusion,13.3,0.390829607712209
+brain ECF,20,in situ perfusion,13.4,0.382921339300017
+brain ECF,20,in situ perfusion,13.5,0.37522147830321
+brain ECF,20,in situ perfusion,13.6,0.367724128030764
+brain ECF,20,in situ perfusion,13.7,0.360423561473375
+brain ECF,20,in situ perfusion,13.8,0.353314216061066
+brain ECF,20,in situ perfusion,13.9,0.346390688910995
+brain ECF,20,in situ perfusion,14,0.339647732515616
+brain ECF,20,in situ perfusion,14.1,0.333080249944729
+brain ECF,20,in situ perfusion,14.2,0.326683290619731
+brain ECF,20,in situ perfusion,14.3,0.320452046305911
+brain ECF,20,in situ perfusion,14.4,0.314381846487766
+brain ECF,20,in situ perfusion,14.5,0.308468155033671
+brain ECF,20,in situ perfusion,14.6,0.302706565884965
+brain ECF,20,in situ perfusion,14.7,0.297092799414123
+brain ECF,20,in situ perfusion,14.8,0.291622699003051
+brain ECF,20,in situ perfusion,14.9,0.286292227047612
+brain ECF,20,in situ perfusion,15,0.281097461994118
+brain ECF,20,in situ perfusion,15.1,0.276034594741285
+brain ECF,20,in situ perfusion,15.2,0.271099925347386
+brain ECF,20,in situ perfusion,15.3,0.266289860221136
+brain ECF,20,in situ perfusion,15.4,0.26160090852094
+brain ECF,20,in situ perfusion,15.5,0.257029679754037
+brain ECF,20,in situ perfusion,15.6,0.252572880476158
+brain ECF,20,in situ perfusion,15.7,0.248227311660078
+brain ECF,20,in situ perfusion,15.8,0.243989866144827
+brain ECF,20,in situ perfusion,15.9,0.239857525503022
+brain ECF,20,in situ perfusion,16,0.23582735812173
+brain ECF,20,in situ perfusion,16.1,0.231896516096717
+brain ECF,20,in situ perfusion,16.2,0.228062233291238
+brain ECF,20,in situ perfusion,16.3,0.224321822697171
+brain ECF,20,in situ perfusion,16.4,0.220672674207129
+brain ECF,20,in situ perfusion,16.5,0.217112252645001
+brain ECF,20,in situ perfusion,16.6,0.21363809505155
+brain ECF,20,in situ perfusion,16.7,0.210247809329658
+brain ECF,20,in situ perfusion,16.8,0.206939071455145
+brain ECF,20,in situ perfusion,16.9,0.203709624230169
+brain ECF,20,in situ perfusion,17,0.200557274729445
+brain ECF,20,in situ perfusion,17.1,0.197479892968995
+brain ECF,20,in situ perfusion,17.2,0.194475409708648
+brain ECF,20,in situ perfusion,17.3,0.191541814930169
+brain ECF,20,in situ perfusion,17.4,0.188677156073327
+brain ECF,20,in situ perfusion,17.5,0.18587953625231
+brain ECF,20,in situ perfusion,17.6,0.183147112979344
+brain ECF,20,in situ perfusion,17.7,0.18047809610348
+brain ECF,20,in situ perfusion,17.8,0.17787074691626
+brain ECF,20,in situ perfusion,17.9,0.175323375975575
+brain ECF,20,in situ perfusion,18,0.172834342424511
+brain ECF,20,in situ perfusion,18.1,0.170402051838018
+brain ECF,20,in situ perfusion,18.2,0.16802495564797
+brain ECF,20,in situ perfusion,18.3,0.165701549086434
+brain ECF,20,in situ perfusion,18.4,0.16343037062681
+brain ECF,20,in situ perfusion,18.5,0.161210000082189
+brain ECF,20,in situ perfusion,18.6,0.159039058025526
+brain ECF,20,in situ perfusion,18.7,0.15691620404448
+brain ECF,20,in situ perfusion,18.8,0.15484013615604
+brain ECF,20,in situ perfusion,18.9,0.152809589190622
+brain ECF,20,in situ perfusion,19,0.150823334218473
+brain ECF,20,in situ perfusion,19.1,0.148880177062116
+brain ECF,20,in situ perfusion,19.2,0.146978957719562
+brain ECF,20,in situ perfusion,19.3,0.145118548907574
+brain ECF,20,in situ perfusion,19.4,0.143297855675279
+brain ECF,20,in situ perfusion,19.5,0.141515813848585
+brain ECF,20,in situ perfusion,19.6,0.13977138982705
+brain ECF,20,in situ perfusion,19.7,0.13806357900046
+brain ECF,20,in situ perfusion,19.8,0.136391405621804
+brain ECF,20,in situ perfusion,19.9,0.134753921284754
+brain ECF,20,in situ perfusion,20,0.133150204808737
+brain ECF,20,in situ perfusion,20.1,0.131579360801742
+brain ECF,20,in situ perfusion,20.2,0.130040519557705
+brain ECF,20,in situ perfusion,20.3,0.128532835704794
+brain ECF,20,in situ perfusion,20.4,0.127055488048758
+brain ECF,20,in situ perfusion,20.5,0.125607678449672
+brain ECF,20,in situ perfusion,20.6,0.124188631495695
+brain ECF,20,in situ perfusion,20.7,0.122797593589967
+brain ECF,20,in situ perfusion,20.8,0.121433832426921
+brain ECF,20,in situ perfusion,20.9,0.120096636502987
+brain ECF,20,in situ perfusion,21,0.11878531418066
+brain ECF,20,in situ perfusion,21.1,0.117499193630422
+brain ECF,20,in situ perfusion,21.2,0.116237621639361
+brain ECF,20,in situ perfusion,21.3,0.114999963753923
+brain ECF,20,in situ perfusion,21.4,0.113785603076814
+brain ECF,20,in situ perfusion,21.5,0.112593940317116
+brain ECF,20,in situ perfusion,21.6,0.111424392919408
+brain ECF,20,in situ perfusion,21.7,0.110276394732533
+brain ECF,20,in situ perfusion,21.8,0.109149395592221
+brain ECF,20,in situ perfusion,21.9,0.108042860639123
+brain ECF,20,in situ perfusion,22,0.106956270230585
+brain ECF,20,in situ perfusion,22.1,0.105889119067224
+brain ECF,20,in situ perfusion,22.2,0.104840916301696
+brain ECF,20,in situ perfusion,22.3,0.103811184539274
+brain ECF,20,in situ perfusion,22.4,0.102799459943839
+brain ECF,20,in situ perfusion,22.5,0.101805291627484
+brain ECF,20,in situ perfusion,22.6,0.100828241173004
+brain ECF,20,in situ perfusion,22.7,0.0998678826783951
+brain ECF,20,in situ perfusion,22.8,0.0989238018207448
+brain ECF,20,in situ perfusion,22.9,0.0979955961091034
+brain ECF,20,in situ perfusion,23,0.0970828741072208
+brain ECF,20,in situ perfusion,23.1,0.0961852552957824
+brain ECF,20,in situ perfusion,23.2,0.0953023698773838
+brain ECF,20,in situ perfusion,23.3,0.0944338581183551
+brain ECF,20,in situ perfusion,23.4,0.0935793705447846
+brain ECF,20,in situ perfusion,23.5,0.0927385671393985
+brain ECF,20,in situ perfusion,23.6,0.0919111174407462
+brain ECF,20,in situ perfusion,23.7,0.0910967001662525
+brain ECF,20,in situ perfusion,23.8,0.0902950027915147
+brain ECF,20,in situ perfusion,23.9,0.0895057216235715
+brain ECF,20,in situ perfusion,24,0.08872856118352
+brain ECF,5,in vitro cell-based,0,0
+brain ECF,5,in vitro cell-based,0.1,3.20631864987617
+brain ECF,5,in vitro cell-based,0.2,8.81477186806388
+brain ECF,5,in vitro cell-based,0.3,11.4863672670337
+brain ECF,5,in vitro cell-based,0.4,12.2499988725452
+brain ECF,5,in vitro cell-based,0.5,12.1932302237432
+brain ECF,5,in vitro cell-based,0.6,11.8184985411189
+brain ECF,5,in vitro cell-based,0.7,11.3491723335036
+brain ECF,5,in vitro cell-based,0.8,10.8780102950461
+brain ECF,5,in vitro cell-based,0.9,10.4384412254341
+brain ECF,5,in vitro cell-based,1,10.0382672546801
+brain ECF,5,in vitro cell-based,1.1,9.67522618721165
+brain ECF,5,in vitro cell-based,1.2,9.3439051889308
+brain ECF,5,in vitro cell-based,1.3,9.03860917991869
+brain ECF,5,in vitro cell-based,1.4,8.75439339903414
+brain ECF,5,in vitro cell-based,1.5,8.48730432486237
+brain ECF,5,in vitro cell-based,1.6,8.23431070854264
+brain ECF,5,in vitro cell-based,1.7,7.99313845891793
+brain ECF,5,in vitro cell-based,1.8,7.76209783460812
+brain ECF,5,in vitro cell-based,1.9,7.53993460298166
+brain ECF,5,in vitro cell-based,2,7.32571238436851
+brain ECF,5,in vitro cell-based,2.1,7.11872383984344
+brain ECF,5,in vitro cell-based,2.2,6.91842549814133
+brain ECF,5,in vitro cell-based,2.3,6.72439070034494
+brain ECF,5,in vitro cell-based,2.4,6.53627609073055
+brain ECF,5,in vitro cell-based,2.5,6.35379785687877
+brain ECF,5,in vitro cell-based,2.6,6.17671498663092
+brain ECF,5,in vitro cell-based,2.7,6.00481756641768
+brain ECF,5,in vitro cell-based,2.8,5.83791850961848
+brain ECF,5,in vitro cell-based,2.9,5.67584775937002
+brain ECF,5,in vitro cell-based,3,5.5184482754042
+brain ECF,5,in vitro cell-based,3.1,5.36557316910977
+brain ECF,5,in vitro cell-based,3.2,5.21708368204194
+brain ECF,5,in vitro cell-based,3.3,5.0728477333155
+brain ECF,5,in vitro cell-based,3.4,4.9327389309348
+brain ECF,5,in vitro cell-based,3.5,4.79663582359477
+brain ECF,5,in vitro cell-based,3.6,4.66442135017476
+brain ECF,5,in vitro cell-based,3.7,4.53598244345524
+brain ECF,5,in vitro cell-based,3.8,4.41120970918131
+brain ECF,5,in vitro cell-based,3.9,4.28999719511109
+brain ECF,5,in vitro cell-based,4,4.1722422051209
+brain ECF,5,in vitro cell-based,4.1,4.05784514041373
+brain ECF,5,in vitro cell-based,4.2,3.94670936163173
+brain ECF,5,in vitro cell-based,4.3,3.83874107194927
+brain ECF,5,in vitro cell-based,4.4,3.73384921620844
+brain ECF,5,in vitro cell-based,4.5,3.63194538787068
+brain ECF,5,in vitro cell-based,4.6,3.53294374294444
+brain ECF,5,in vitro cell-based,4.7,3.43676091890237
+brain ECF,5,in vitro cell-based,4.8,3.34331595834403
+brain ECF,5,in vitro cell-based,4.9,3.25253023678335
+brain ECF,5,in vitro cell-based,5,3.16432739356295
+brain ECF,5,in vitro cell-based,5.1,3.07863326540387
+brain ECF,5,in vitro cell-based,5.2,2.99537582198516
+brain ECF,5,in vitro cell-based,5.3,2.91448510401395
+brain ECF,5,in vitro cell-based,5.4,2.83589316337191
+brain ECF,5,in vitro cell-based,5.5,2.7595340051129
+brain ECF,5,in vitro cell-based,5.6,2.68534353114917
+brain ECF,5,in vitro cell-based,5.7,2.6132594856172
+brain ECF,5,in vitro cell-based,5.8,2.54322140192216
+brain ECF,5,in vitro cell-based,5.9,2.47517055130459
+brain ECF,5,in vitro cell-based,6,2.40904989291383
+brain ECF,5,in vitro cell-based,6.1,2.34480402535665
+brain ECF,5,in vitro cell-based,6.2,2.28237913963202
+brain ECF,5,in vitro cell-based,6.3,2.22172297343202
+brain ECF,5,in vitro cell-based,6.4,2.16278476664713
+brain ECF,5,in vitro cell-based,6.5,2.10551521829322
+brain ECF,5,in vitro cell-based,6.6,2.04986644466761
+brain ECF,5,in vitro cell-based,6.7,1.99579193855942
+brain ECF,5,in vitro cell-based,6.8,1.94324652976168
+brain ECF,5,in vitro cell-based,6.9,1.89218634668771
+brain ECF,5,in vitro cell-based,7,1.84256877908546
+brain ECF,5,in vitro cell-based,7.1,1.79435244182422
+brain ECF,5,in vitro cell-based,7.2,1.74749713968547
+brain ECF,5,in vitro cell-based,7.3,1.70196383311474
+brain ECF,5,in vitro cell-based,7.4,1.65771460517866
+brain ECF,5,in vitro cell-based,7.5,1.61471262919006
+brain ECF,5,in vitro cell-based,7.6,1.57292213742072
+brain ECF,5,in vitro cell-based,7.7,1.5323083906779
+brain ECF,5,in vitro cell-based,7.8,1.49283764879671
+brain ECF,5,in vitro cell-based,7.9,1.45447714181216
+brain ECF,5,in vitro cell-based,8,1.41719504218143
+brain ECF,5,in vitro cell-based,8.1,1.38096043769693
+brain ECF,5,in vitro cell-based,8.2,1.34574330515758
+brain ECF,5,in vitro cell-based,8.3,1.31151448481443
+brain ECF,5,in vitro cell-based,8.4,1.27824565558558
+brain ECF,5,in vitro cell-based,8.5,1.24590931073332
+brain ECF,5,in vitro cell-based,8.6,1.21447873473557
+brain ECF,5,in vitro cell-based,8.7,1.18392798046072
+brain ECF,5,in vitro cell-based,8.8,1.15423184704039
+brain ECF,5,in vitro cell-based,8.9,1.12536585845781
+brain ECF,5,in vitro cell-based,9,1.09730624254082
+brain ECF,5,in vitro cell-based,9.1,1.07002991092767
+brain ECF,5,in vitro cell-based,9.2,1.04351443931487
+brain ECF,5,in vitro cell-based,9.3,1.01773804836386
+brain ECF,5,in vitro cell-based,9.4,0.992679585199454
+brain ECF,5,in vitro cell-based,9.5,0.968318505141991
+brain ECF,5,in vitro cell-based,9.6,0.944634854599948
+brain ECF,5,in vitro cell-based,9.7,0.92160925386647
+brain ECF,5,in vitro cell-based,9.8,0.89922288066572
+brain ECF,5,in vitro cell-based,9.9,0.877457453939419
+brain ECF,5,in vitro cell-based,10,0.856295218504788
+brain ECF,5,in vitro cell-based,10.1,0.83571892984522
+brain ECF,5,in vitro cell-based,10.2,0.815711839461513
+brain ECF,5,in vitro cell-based,10.3,0.796257680369268
+brain ECF,5,in vitro cell-based,10.4,0.777340653506063
+brain ECF,5,in vitro cell-based,10.5,0.758945414243631
+brain ECF,5,in vitro cell-based,10.6,0.741057059294136
+brain ECF,5,in vitro cell-based,10.7,0.723661113790762
+brain ECF,5,in vitro cell-based,10.8,0.706743519251911
+brain ECF,5,in vitro cell-based,10.9,0.690290621495415
+brain ECF,5,in vitro cell-based,11,0.674289159082342
+brain ECF,5,in vitro cell-based,11.1,0.65872625164135
+brain ECF,5,in vitro cell-based,11.2,0.64358938938245
+brain ECF,5,in vitro cell-based,11.3,0.628866422276223
+brain ECF,5,in vitro cell-based,11.4,0.614545549470221
+brain ECF,5,in vitro cell-based,11.5,0.600615309522661
+brain ECF,5,in vitro cell-based,11.6,0.58706457059785
+brain ECF,5,in vitro cell-based,11.7,0.573882520879917
+brain ECF,5,in vitro cell-based,11.8,0.561058659268529
+brain ECF,5,in vitro cell-based,11.9,0.548582786707891
+brain ECF,5,in vitro cell-based,12,0.536444997415844
+brain ECF,5,in vitro cell-based,12.1,0.52463567009282
+brain ECF,5,in vitro cell-based,12.2,0.513145460195959
+brain ECF,5,in vitro cell-based,12.3,0.501965291858235
+brain ECF,5,in vitro cell-based,12.4,0.491086349823173
+brain ECF,5,in vitro cell-based,12.5,0.480500072397866
+brain ECF,5,in vitro cell-based,12.6,0.470198144011753
+brain ECF,5,in vitro cell-based,12.7,0.460172487857531
+brain ECF,5,in vitro cell-based,12.8,0.450415259373538
+brain ECF,5,in vitro cell-based,12.9,0.440918839482683
+brain ECF,5,in vitro cell-based,13,0.431675827865717
+brain ECF,5,in vitro cell-based,13.1,0.422679036902922
+brain ECF,5,in vitro cell-based,13.2,0.413921485613886
+brain ECF,5,in vitro cell-based,13.3,0.405396393257718
+brain ECF,5,in vitro cell-based,13.4,0.397097174120055
+brain ECF,5,in vitro cell-based,13.5,0.389017431711928
+brain ECF,5,in vitro cell-based,13.6,0.381150952990712
+brain ECF,5,in vitro cell-based,13.7,0.373491703643494
+brain ECF,5,in vitro cell-based,13.8,0.366033822542667
+brain ECF,5,in vitro cell-based,13.9,0.358771616785804
+brain ECF,5,in vitro cell-based,14,0.351699557124667
+brain ECF,5,in vitro cell-based,14.1,0.344812272915993
+brain ECF,5,in vitro cell-based,14.2,0.338104547701037
+brain ECF,5,in vitro cell-based,14.3,0.331571314958231
+brain ECF,5,in vitro cell-based,14.4,0.325207653243649
+brain ECF,5,in vitro cell-based,14.5,0.319008782692864
+brain ECF,5,in vitro cell-based,14.6,0.312970060451793
+brain ECF,5,in vitro cell-based,14.7,0.307086976885394
+brain ECF,5,in vitro cell-based,14.8,0.30135515194007
+brain ECF,5,in vitro cell-based,14.9,0.295770330947275
+brain ECF,5,in vitro cell-based,15,0.290328381517516
+brain ECF,5,in vitro cell-based,15.1,0.285025289719312
+brain ECF,5,in vitro cell-based,15.2,0.279857156654895
+brain ECF,5,in vitro cell-based,15.3,0.274820195469579
+brain ECF,5,in vitro cell-based,15.4,0.269910727565921
+brain ECF,5,in vitro cell-based,15.5,0.265125180093612
+brain ECF,5,in vitro cell-based,15.6,0.260460082439864
+brain ECF,5,in vitro cell-based,15.7,0.255912063501188
+brain ECF,5,in vitro cell-based,15.8,0.251477848960787
+brain ECF,5,in vitro cell-based,15.9,0.247154258005735
+brain ECF,5,in vitro cell-based,16,0.242938201307169
+brain ECF,5,in vitro cell-based,16.1,0.238826677737274
+brain ECF,5,in vitro cell-based,16.2,0.234816772345781
+brain ECF,5,in vitro cell-based,16.3,0.230905653548679
+brain ECF,5,in vitro cell-based,16.4,0.227090570819935
+brain ECF,5,in vitro cell-based,16.5,0.223368852586698
+brain ECF,5,in vitro cell-based,16.6,0.219737903381623
+brain ECF,5,in vitro cell-based,16.7,0.21619520241897
+brain ECF,5,in vitro cell-based,16.8,0.212738300645875
+brain ECF,5,in vitro cell-based,16.9,0.209364819444891
+brain ECF,5,in vitro cell-based,17,0.206072447922591
+brain ECF,5,in vitro cell-based,17.1,0.202858941533934
+brain ECF,5,in vitro cell-based,17.2,0.199722119734656
+brain ECF,5,in vitro cell-based,17.3,0.196659864416649
+brain ECF,5,in vitro cell-based,17.4,0.193670118004145
+brain ECF,5,in vitro cell-based,17.5,0.190750881623907
+brain ECF,5,in vitro cell-based,17.6,0.187900213716996
+brain ECF,5,in vitro cell-based,17.7,0.185116227894812
+brain ECF,5,in vitro cell-based,17.8,0.182397091986267
+brain ECF,5,in vitro cell-based,17.9,0.179741025743229
+brain ECF,5,in vitro cell-based,18,0.177146300130623
+brain ECF,5,in vitro cell-based,18.1,0.174611235047258
+brain ECF,5,in vitro cell-based,18.2,0.172134198731286
+brain ECF,5,in vitro cell-based,18.3,0.169713605580906
+brain ECF,5,in vitro cell-based,18.4,0.16734791557832
+brain ECF,5,in vitro cell-based,18.5,0.165035632272372
+brain ECF,5,in vitro cell-based,18.6,0.162775302181804
+brain ECF,5,in vitro cell-based,18.7,0.160565512941079
+brain ECF,5,in vitro cell-based,18.8,0.158404892699593
+brain ECF,5,in vitro cell-based,18.9,0.156292108401648
+brain ECF,5,in vitro cell-based,19,0.15422586520011
+brain ECF,5,in vitro cell-based,19.1,0.152204904868783
+brain ECF,5,in vitro cell-based,19.2,0.150228005217515
+brain ECF,5,in vitro cell-based,19.3,0.148293978532342
+brain ECF,5,in vitro cell-based,19.4,0.146401671191721
+brain ECF,5,in vitro cell-based,19.5,0.144549962006079
+brain ECF,5,in vitro cell-based,19.6,0.142737762021629
+brain ECF,5,in vitro cell-based,19.7,0.140964012837009
+brain ECF,5,in vitro cell-based,19.8,0.139227686480723
+brain ECF,5,in vitro cell-based,19.9,0.137527783798069
+brain ECF,5,in vitro cell-based,20,0.135863334335931
+brain ECF,5,in vitro cell-based,20.1,0.134233394828526
+brain ECF,5,in vitro cell-based,20.2,0.132637049069369
+brain ECF,5,in vitro cell-based,20.3,0.13107340653339
+brain ECF,5,in vitro cell-based,20.4,0.1295416021494
+brain ECF,5,in vitro cell-based,20.5,0.128040795178287
+brain ECF,5,in vitro cell-based,20.6,0.126570168811383
+brain ECF,5,in vitro cell-based,20.7,0.125128929263289
+brain ECF,5,in vitro cell-based,20.8,0.123716305167916
+brain ECF,5,in vitro cell-based,20.9,0.122331547108156
+brain ECF,5,in vitro cell-based,21,0.120973926592133
+brain ECF,5,in vitro cell-based,21.1,0.119642736020331
+brain ECF,5,in vitro cell-based,21.2,0.11833728740997
+brain ECF,5,in vitro cell-based,21.3,0.117056912557711
+brain ECF,5,in vitro cell-based,21.4,0.115800961768768
+brain ECF,5,in vitro cell-based,21.5,0.11456880389435
+brain ECF,5,in vitro cell-based,21.6,0.113359825450898
+brain ECF,5,in vitro cell-based,21.7,0.112173430224073
+brain ECF,5,in vitro cell-based,21.8,0.111009038870177
+brain ECF,5,in vitro cell-based,21.9,0.109866088165171
+brain ECF,5,in vitro cell-based,22,0.108744030935706
+brain ECF,5,in vitro cell-based,22.1,0.10764233512054
+brain ECF,5,in vitro cell-based,22.2,0.106560483898645
+brain ECF,5,in vitro cell-based,22.3,0.105497974630127
+brain ECF,5,in vitro cell-based,22.4,0.10445431895486
+brain ECF,5,in vitro cell-based,22.5,0.103429042183911
+brain ECF,5,in vitro cell-based,22.6,0.102421682753863
+brain ECF,5,in vitro cell-based,22.7,0.101431792306588
+brain ECF,5,in vitro cell-based,22.8,0.100458934686878
+brain ECF,5,in vitro cell-based,22.9,0.0995026861980284
+brain ECF,5,in vitro cell-based,23,0.0985626348222539
+brain ECF,5,in vitro cell-based,23.1,0.0976383800253903
+brain ECF,5,in vitro cell-based,23.2,0.0967295325909436
+brain ECF,5,in vitro cell-based,23.3,0.0958357139010824
+brain ECF,5,in vitro cell-based,23.4,0.0949565561574054
+brain ECF,5,in vitro cell-based,23.5,0.0940917015302917
+brain ECF,5,in vitro cell-based,23.6,0.0932408022535845
+brain ECF,5,in vitro cell-based,23.7,0.0924035202512187
+brain ECF,5,in vitro cell-based,23.8,0.0915795266657536
+brain ECF,5,in vitro cell-based,23.9,0.090768501952227
+brain ECF,5,in vitro cell-based,24,0.0899701352295417
+brain ECF,0.076,in vitro PAMPA,0,0
+brain ECF,0.076,in vitro PAMPA,0.1,0.215478942256399
+brain ECF,0.076,in vitro PAMPA,0.2,0.655933922403365
+brain ECF,0.076,in vitro PAMPA,0.3,0.892447594388876
+brain ECF,0.076,in vitro PAMPA,0.4,0.980475804571968
+brain ECF,0.076,in vitro PAMPA,0.5,1.01530374182397
+brain ECF,0.076,in vitro PAMPA,0.6,1.03538834894485
+brain ECF,0.076,in vitro PAMPA,0.7,1.05465495436755
+brain ECF,0.076,in vitro PAMPA,0.8,1.07700379495679
+brain ECF,0.076,in vitro PAMPA,0.9,1.10261805415817
+brain ECF,0.076,in vitro PAMPA,1,1.13057249488292
+brain ECF,0.076,in vitro PAMPA,1.1,1.15982248946559
+brain ECF,0.076,in vitro PAMPA,1.2,1.18951596740644
+brain ECF,0.076,in vitro PAMPA,1.3,1.21904352277061
+brain ECF,0.076,in vitro PAMPA,1.4,1.24800200523616
+brain ECF,0.076,in vitro PAMPA,1.5,1.27614059663606
+brain ECF,0.076,in vitro PAMPA,1.6,1.30331307507587
+brain ECF,0.076,in vitro PAMPA,1.7,1.32944185783113
+brain ECF,0.076,in vitro PAMPA,1.8,1.35449298601509
+brain ECF,0.076,in vitro PAMPA,1.9,1.37845952106988
+brain ECF,0.076,in vitro PAMPA,2,1.40135085980414
+brain ECF,0.076,in vitro PAMPA,2.1,1.4231860095072
+brain ECF,0.076,in vitro PAMPA,2.2,1.44398942117284
+brain ECF,0.076,in vitro PAMPA,2.3,1.46378844727168
+brain ECF,0.076,in vitro PAMPA,2.4,1.48261180275131
+brain ECF,0.076,in vitro PAMPA,2.5,1.50048864990034
+brain ECF,0.076,in vitro PAMPA,2.6,1.51744805838181
+brain ECF,0.076,in vitro PAMPA,2.7,1.53351869086073
+brain ECF,0.076,in vitro PAMPA,2.8,1.54872862966063
+brain ECF,0.076,in vitro PAMPA,2.9,1.56310528197617
+brain ECF,0.076,in vitro PAMPA,3,1.57667533256212
+brain ECF,0.076,in vitro PAMPA,3.1,1.58946472625264
+brain ECF,0.076,in vitro PAMPA,3.2,1.60149866739468
+brain ECF,0.076,in vitro PAMPA,3.3,1.61280162831822
+brain ECF,0.076,in vitro PAMPA,3.4,1.62339736205659
+brain ECF,0.076,in vitro PAMPA,3.5,1.63330891894281
+brain ECF,0.076,in vitro PAMPA,3.6,1.64255866467486
+brain ECF,0.076,in vitro PAMPA,3.7,1.65116829907153
+brain ECF,0.076,in vitro PAMPA,3.8,1.65915887471866
+brain ECF,0.076,in vitro PAMPA,3.9,1.66655081532295
+brain ECF,0.076,in vitro PAMPA,4,1.67336393385089
+brain ECF,0.076,in vitro PAMPA,4.1,1.67961745038601
+brain ECF,0.076,in vitro PAMPA,4.2,1.68533000953191
+brain ECF,0.076,in vitro PAMPA,4.3,1.69051969728241
+brain ECF,0.076,in vitro PAMPA,4.4,1.69520405739014
+brain ECF,0.076,in vitro PAMPA,4.5,1.69940010729634
+brain ECF,0.076,in vitro PAMPA,4.6,1.70312435362735
+brain ECF,0.076,in vitro PAMPA,4.7,1.70639280723493
+brain ECF,0.076,in vitro PAMPA,4.8,1.70922099777671
+brain ECF,0.076,in vitro PAMPA,4.9,1.71162398786328
+brain ECF,0.076,in vitro PAMPA,5,1.71361638681318
+brain ECF,0.076,in vitro PAMPA,5.1,1.71521236398905
+brain ECF,0.076,in vitro PAMPA,5.2,1.7164256617408
+brain ECF,0.076,in vitro PAMPA,5.3,1.71726960796435
+brain ECF,0.076,in vitro PAMPA,5.4,1.71775712831255
+brain ECF,0.076,in vitro PAMPA,5.5,1.7179007580177
+brain ECF,0.076,in vitro PAMPA,5.6,1.71771265337602
+brain ECF,0.076,in vitro PAMPA,5.7,1.71720460292035
+brain ECF,0.076,in vitro PAMPA,5.8,1.71638803823028
+brain ECF,0.076,in vitro PAMPA,5.9,1.71527404443233
+brain ECF,0.076,in vitro PAMPA,6,1.71387337039465
+brain ECF,0.076,in vitro PAMPA,6.1,1.71219643862543
+brain ECF,0.076,in vitro PAMPA,6.2,1.71025335488039
+brain ECF,0.076,in vitro PAMPA,6.3,1.70805391748487
+brain ECF,0.076,in vitro PAMPA,6.4,1.7056076263786
+brain ECF,0.076,in vitro PAMPA,6.5,1.70292369190214
+brain ECF,0.076,in vitro PAMPA,6.6,1.70001104334866
+brain ECF,0.076,in vitro PAMPA,6.7,1.69687833720222
+brain ECF,0.076,in vitro PAMPA,6.8,1.69353396517742
+brain ECF,0.076,in vitro PAMPA,6.9,1.68998606202287
+brain ECF,0.076,in vitro PAMPA,7,1.68624251309105
+brain ECF,0.076,in vitro PAMPA,7.1,1.68231096168299
+brain ECF,0.076,in vitro PAMPA,7.2,1.67819881617673
+brain ECF,0.076,in vitro PAMPA,7.3,1.67391325694776
+brain ECF,0.076,in vitro PAMPA,7.4,1.66946124312482
+brain ECF,0.076,in vitro PAMPA,7.5,1.66484951906088
+brain ECF,0.076,in vitro PAMPA,7.6,1.66008462067865
+brain ECF,0.076,in vitro PAMPA,7.7,1.65517288162204
+brain ECF,0.076,in vitro PAMPA,7.8,1.65012043922266
+brain ECF,0.076,in vitro PAMPA,7.9,1.64493324028685
+brain ECF,0.076,in vitro PAMPA,8,1.63961704671511
+brain ECF,0.076,in vitro PAMPA,8.1,1.63417744098947
+brain ECF,0.076,in vitro PAMPA,8.2,1.62861983142865
+brain ECF,0.076,in vitro PAMPA,8.3,1.62294945734489
+brain ECF,0.076,in vitro PAMPA,8.4,1.61717139403596
+brain ECF,0.076,in vitro PAMPA,8.5,1.61129055761949
+brain ECF,0.076,in vitro PAMPA,8.6,1.60531170977802
+brain ECF,0.076,in vitro PAMPA,8.7,1.59923946227593
+brain ECF,0.076,in vitro PAMPA,8.8,1.59307828140764
+brain ECF,0.076,in vitro PAMPA,8.9,1.58683249230456
+brain ECF,0.076,in vitro PAMPA,9,1.58050628310151
+brain ECF,0.076,in vitro PAMPA,9.1,1.57410370904058
+brain ECF,0.076,in vitro PAMPA,9.2,1.56762869634114
+brain ECF,0.076,in vitro PAMPA,9.3,1.56108504604118
+brain ECF,0.076,in vitro PAMPA,9.4,1.55447643770978
+brain ECF,0.076,in vitro PAMPA,9.5,1.54780643305349
+brain ECF,0.076,in vitro PAMPA,9.6,1.54107847942738
+brain ECF,0.076,in vitro PAMPA,9.7,1.53429591318508
+brain ECF,0.076,in vitro PAMPA,9.8,1.52746196299966
+brain ECF,0.076,in vitro PAMPA,9.9,1.52057975304613
+brain ECF,0.076,in vitro PAMPA,10,1.5136523061662
+brain ECF,0.076,in vitro PAMPA,10.1,1.50668254679585
+brain ECF,0.076,in vitro PAMPA,10.2,1.49967330392612
+brain ECF,0.076,in vitro PAMPA,10.3,1.49262731393375
+brain ECF,0.076,in vitro PAMPA,10.4,1.48554722338739
+brain ECF,0.076,in vitro PAMPA,10.5,1.47843559165432
+brain ECF,0.076,in vitro PAMPA,10.6,1.47129489352937
+brain ECF,0.076,in vitro PAMPA,10.7,1.46412752173682
+brain ECF,0.076,in vitro PAMPA,10.8,1.45693578945289
+brain ECF,0.076,in vitro PAMPA,10.9,1.44972193258736
+brain ECF,0.076,in vitro PAMPA,11,1.4424881121216
+brain ECF,0.076,in vitro PAMPA,11.1,1.43523641638355
+brain ECF,0.076,in vitro PAMPA,11.2,1.42796886318692
+brain ECF,0.076,in vitro PAMPA,11.3,1.4206874019327
+brain ECF,0.076,in vitro PAMPA,11.4,1.41339391566609
+brain ECF,0.076,in vitro PAMPA,11.5,1.40609022311683
+brain ECF,0.076,in vitro PAMPA,11.6,1.39877808054945
+brain ECF,0.076,in vitro PAMPA,11.7,1.3914591836633
+brain ECF,0.076,in vitro PAMPA,11.8,1.38413516945934
+brain ECF,0.076,in vitro PAMPA,11.9,1.37680761796066
+brain ECF,0.076,in vitro PAMPA,12,1.36947805390896
+brain ECF,0.076,in vitro PAMPA,12.1,1.36214794848181
+brain ECF,0.076,in vitro PAMPA,12.2,1.35481872088242
+brain ECF,0.076,in vitro PAMPA,12.3,1.34749173988019
+brain ECF,0.076,in vitro PAMPA,12.4,1.34016832537079
+brain ECF,0.076,in vitro PAMPA,12.5,1.33284974986617
+brain ECF,0.076,in vitro PAMPA,12.6,1.32553723987449
+brain ECF,0.076,in vitro PAMPA,12.7,1.31823197731056
+brain ECF,0.076,in vitro PAMPA,12.8,1.31093510092112
+brain ECF,0.076,in vitro PAMPA,12.9,1.30364770747885
+brain ECF,0.076,in vitro PAMPA,13,1.29637085312934
+brain ECF,0.076,in vitro PAMPA,13.1,1.2891055546395
+brain ECF,0.076,in vitro PAMPA,13.2,1.28185279052039
+brain ECF,0.076,in vitro PAMPA,13.3,1.27461350226998
+brain ECF,0.076,in vitro PAMPA,13.4,1.2673885954787
+brain ECF,0.076,in vitro PAMPA,13.5,1.26017894089057
+brain ECF,0.076,in vitro PAMPA,13.6,1.25298537553652
+brain ECF,0.076,in vitro PAMPA,13.7,1.24580870372037
+brain ECF,0.076,in vitro PAMPA,13.8,1.23864969800523
+brain ECF,0.076,in vitro PAMPA,13.9,1.23150910027369
+brain ECF,0.076,in vitro PAMPA,14,1.2243876225814
+brain ECF,0.076,in vitro PAMPA,14.1,1.21728594809539
+brain ECF,0.076,in vitro PAMPA,14.2,1.21020473205927
+brain ECF,0.076,in vitro PAMPA,14.3,1.2031446025303
+brain ECF,0.076,in vitro PAMPA,14.4,1.19610616133175
+brain ECF,0.076,in vitro PAMPA,14.5,1.18908998481083
+brain ECF,0.076,in vitro PAMPA,14.6,1.18209662461432
+brain ECF,0.076,in vitro PAMPA,14.7,1.17512660853698
+brain ECF,0.076,in vitro PAMPA,14.8,1.16818044116611
+brain ECF,0.076,in vitro PAMPA,14.9,1.16125860465727
+brain ECF,0.076,in vitro PAMPA,15,1.1543615594647
+brain ECF,0.076,in vitro PAMPA,15.1,1.14748974492765
+brain ECF,0.076,in vitro PAMPA,15.2,1.14064358006399
+brain ECF,0.076,in vitro PAMPA,15.3,1.13382346407324
+brain ECF,0.076,in vitro PAMPA,15.4,1.12702977706236
+brain ECF,0.076,in vitro PAMPA,15.5,1.12026288060425
+brain ECF,0.076,in vitro PAMPA,15.6,1.11352311829902
+brain ECF,0.076,in vitro PAMPA,15.7,1.10681081643544
+brain ECF,0.076,in vitro PAMPA,15.8,1.10012628442042
+brain ECF,0.076,in vitro PAMPA,15.9,1.09346981542706
+brain ECF,0.076,in vitro PAMPA,16,1.08684168683763
+brain ECF,0.076,in vitro PAMPA,16.1,1.08024216076467
+brain ECF,0.076,in vitro PAMPA,16.2,1.07367148460031
+brain ECF,0.076,in vitro PAMPA,16.3,1.06712989137461
+brain ECF,0.076,in vitro PAMPA,16.4,1.06061760036574
+brain ECF,0.076,in vitro PAMPA,16.5,1.05413481738712
+brain ECF,0.076,in vitro PAMPA,16.6,1.04768173536992
+brain ECF,0.076,in vitro PAMPA,16.7,1.04125853465888
+brain ECF,0.076,in vitro PAMPA,16.8,1.03486538351658
+brain ECF,0.076,in vitro PAMPA,16.9,1.02850243846213
+brain ECF,0.076,in vitro PAMPA,17,1.02216984467205
+brain ECF,0.076,in vitro PAMPA,17.1,1.01586773638417
+brain ECF,0.076,in vitro PAMPA,17.2,1.00959623718596
+brain ECF,0.076,in vitro PAMPA,17.3,1.00335546047191
+brain ECF,0.076,in vitro PAMPA,17.4,0.997145509659787
+brain ECF,0.076,in vitro PAMPA,17.5,0.990966478659168
+brain ECF,0.076,in vitro PAMPA,17.6,0.984818452050435
+brain ECF,0.076,in vitro PAMPA,17.7,0.978701505536925
+brain ECF,0.076,in vitro PAMPA,17.8,0.972615706110211
+brain ECF,0.076,in vitro PAMPA,17.9,0.966561112469568
+brain ECF,0.076,in vitro PAMPA,18,0.960537775193117
+brain ECF,0.076,in vitro PAMPA,18.1,0.954545737111835
+brain ECF,0.076,in vitro PAMPA,18.2,0.948585033495536
+brain ECF,0.076,in vitro PAMPA,18.3,0.942655692378912
+brain ECF,0.076,in vitro PAMPA,18.4,0.936757734762459
+brain ECF,0.076,in vitro PAMPA,18.5,0.930891174892628
+brain ECF,0.076,in vitro PAMPA,18.6,0.925056020477752
+brain ECF,0.076,in vitro PAMPA,18.7,0.919252272917013
+brain ECF,0.076,in vitro PAMPA,18.8,0.913479927547295
+brain ECF,0.076,in vitro PAMPA,18.9,0.907738973830306
+brain ECF,0.076,in vitro PAMPA,19,0.902029395580825
+brain ECF,0.076,in vitro PAMPA,19.1,0.896351171165343
+brain ECF,0.076,in vitro PAMPA,19.2,0.890704273687941
+brain ECF,0.076,in vitro PAMPA,19.3,0.885088671205481
+brain ECF,0.076,in vitro PAMPA,19.4,0.879504326878311
+brain ECF,0.076,in vitro PAMPA,19.5,0.873951199192858
+brain ECF,0.076,in vitro PAMPA,19.6,0.868429242087537
+brain ECF,0.076,in vitro PAMPA,19.7,0.862938405175665
+brain ECF,0.076,in vitro PAMPA,19.8,0.857478633850679
+brain ECF,0.076,in vitro PAMPA,19.9,0.85204986950881
+brain ECF,0.076,in vitro PAMPA,20,0.846652049634126
+brain ECF,0.076,in vitro PAMPA,20.1,0.841285108018263
+brain ECF,0.076,in vitro PAMPA,20.2,0.835948974830386
+brain ECF,0.076,in vitro PAMPA,20.3,0.830643576851417
+brain ECF,0.076,in vitro PAMPA,20.4,0.825368837490454
+brain ECF,0.076,in vitro PAMPA,20.5,0.820124677057615
+brain ECF,0.076,in vitro PAMPA,20.6,0.814911012736388
+brain ECF,0.076,in vitro PAMPA,20.7,0.809727758862812
+brain ECF,0.076,in vitro PAMPA,20.8,0.804574826909921
+brain ECF,0.076,in vitro PAMPA,20.9,0.799452125701949
+brain ECF,0.076,in vitro PAMPA,21,0.794359561473558
+brain ECF,0.076,in vitro PAMPA,21.1,0.789297037990419
+brain ECF,0.076,in vitro PAMPA,21.2,0.784264456679587
+brain ECF,0.076,in vitro PAMPA,21.3,0.779261716680192
+brain ECF,0.076,in vitro PAMPA,21.4,0.774288715016097
+brain ECF,0.076,in vitro PAMPA,21.5,0.769345346602384
+brain ECF,0.076,in vitro PAMPA,21.6,0.764431504439149
+brain ECF,0.076,in vitro PAMPA,21.7,0.759547079588508
+brain ECF,0.076,in vitro PAMPA,21.8,0.754691961387271
+brain ECF,0.076,in vitro PAMPA,21.9,0.749866037422754
+brain ECF,0.076,in vitro PAMPA,22,0.74506919367402
+brain ECF,0.076,in vitro PAMPA,22.1,0.740301314595329
+brain ECF,0.076,in vitro PAMPA,22.2,0.735562283128299
+brain ECF,0.076,in vitro PAMPA,22.3,0.730851980884714
+brain ECF,0.076,in vitro PAMPA,22.4,0.726170288087487
+brain ECF,0.076,in vitro PAMPA,22.5,0.721517083770374
+brain ECF,0.076,in vitro PAMPA,22.6,0.716892245751733
+brain ECF,0.076,in vitro PAMPA,22.7,0.71229565073317
+brain ECF,0.076,in vitro PAMPA,22.8,0.707727174387207
+brain ECF,0.076,in vitro PAMPA,22.9,0.703186691353247
+brain ECF,0.076,in vitro PAMPA,23,0.698674075388555
+brain ECF,0.076,in vitro PAMPA,23.1,0.694189199322228
+brain ECF,0.076,in vitro PAMPA,23.2,0.689731935207316
+brain ECF,0.076,in vitro PAMPA,23.3,0.685302154307962
+brain ECF,0.076,in vitro PAMPA,23.4,0.680899727167674
+brain ECF,0.076,in vitro PAMPA,23.5,0.676524523704732
+brain ECF,0.076,in vitro PAMPA,23.6,0.672176413158785
+brain ECF,0.076,in vitro PAMPA,23.7,0.667855264264627
+brain ECF,0.076,in vitro PAMPA,23.8,0.663560945208758
+brain ECF,0.076,in vitro PAMPA,23.9,0.65929332367773
+brain ECF,0.076,in vitro PAMPA,24,0.655052266969466
+brain ECF,83,in silico perfusion,0,0
+brain ECF,83,in silico perfusion,0.1,10.0012459682333
+brain ECF,83,in silico perfusion,0.2,20.4846948109539
+brain ECF,83,in silico perfusion,0.3,17.7371829219682
+brain ECF,83,in silico perfusion,0.4,14.343339248527
+brain ECF,83,in silico perfusion,0.5,12.3001247302224
+brain ECF,83,in silico perfusion,0.6,11.117337767539
+brain ECF,83,in silico perfusion,0.7,10.3865901554102
+brain ECF,83,in silico perfusion,0.8,9.88663665784604
+brain ECF,83,in silico perfusion,0.9,9.50546223857252
+brain ECF,83,in silico perfusion,1,9.18710657225811
+brain ECF,83,in silico perfusion,1.1,8.90364796745821
+brain ECF,83,in silico perfusion,1.2,8.64111272700976
+brain ECF,83,in silico perfusion,1.3,8.39245849405781
+brain ECF,83,in silico perfusion,1.4,8.15408787606686
+brain ECF,83,in silico perfusion,1.5,7.92411697893197
+brain ECF,83,in silico perfusion,1.6,7.70151554812882
+brain ECF,83,in silico perfusion,1.7,7.48567992989928
+brain ECF,83,in silico perfusion,1.8,7.27622094660542
+brain ECF,83,in silico perfusion,1.9,7.07285849309831
+brain ECF,83,in silico perfusion,2,6.8753691290002
+brain ECF,83,in silico perfusion,2.1,6.68355997365074
+brain ECF,83,in silico perfusion,2.2,6.49725568804051
+brain ECF,83,in silico perfusion,2.3,6.31629192793909
+brain ECF,83,in silico perfusion,2.4,6.14051204120018
+brain ECF,83,in silico perfusion,2.5,5.96976535199851
+brain ECF,83,in silico perfusion,2.6,5.80390625368164
+brain ECF,83,in silico perfusion,2.7,5.64279369727409
+brain ECF,83,in silico perfusion,2.8,5.48629087512885
+brain ECF,83,in silico perfusion,2.9,5.33426500918161
+brain ECF,83,in silico perfusion,3,5.18658719227052
+brain ECF,83,in silico perfusion,3.1,5.0431322523968
+brain ECF,83,in silico perfusion,3.2,4.90377863440287
+brain ECF,83,in silico perfusion,3.3,4.76840829000642
+brain ECF,83,in silico perfusion,3.4,4.63690657477346
+brain ECF,83,in silico perfusion,3.5,4.50916214881164
+brain ECF,83,in silico perfusion,3.6,4.38506688056733
+brain ECF,83,in silico perfusion,3.7,4.26451575407015
+brain ECF,83,in silico perfusion,3.8,4.14740677917035
+brain ECF,83,in silico perfusion,3.9,4.0336409042087
+brain ECF,83,in silico perfusion,4,3.92312193136917
+brain ECF,83,in silico perfusion,4.1,3.81575643452293
+brain ECF,83,in silico perfusion,4.2,3.71145367940537
+brain ECF,83,in silico perfusion,4.3,3.61012554604668
+brain ECF,83,in silico perfusion,4.4,3.51168645343807
+brain ECF,83,in silico perfusion,4.5,3.41605328642065
+brain ECF,83,in silico perfusion,4.6,3.32314532459584
+brain ECF,83,in silico perfusion,4.7,3.23288417338472
+brain ECF,83,in silico perfusion,4.8,3.14519369700424
+brain ECF,83,in silico perfusion,4.9,3.05999995344641
+brain ECF,83,in silico perfusion,5,2.97723113123889
+brain ECF,83,in silico perfusion,5.1,2.89681748805766
+brain ECF,83,in silico perfusion,5.2,2.81869129116198
+brain ECF,83,in silico perfusion,5.3,2.74278675940326
+brain ECF,83,in silico perfusion,5.4,2.66904000703856
+brain ECF,83,in silico perfusion,5.5,2.59738898913769
+brain ECF,83,in silico perfusion,5.6,2.52777344854982
+brain ECF,83,in silico perfusion,5.7,2.46013486438034
+brain ECF,83,in silico perfusion,5.8,2.39441640195147
+brain ECF,83,in silico perfusion,5.9,2.33056286422372
+brain ECF,83,in silico perfusion,6,2.26852064461048
+brain ECF,83,in silico perfusion,6.1,2.2082376811064
+brain ECF,83,in silico perfusion,6.2,2.14966341181964
+brain ECF,83,in silico perfusion,6.3,2.09274873170999
+brain ECF,83,in silico perfusion,6.4,2.03744595062812
+brain ECF,83,in silico perfusion,6.5,1.98370875257176
+brain ECF,83,in silico perfusion,6.6,1.93149215604464
+brain ECF,83,in silico perfusion,6.7,1.88075247562175
+brain ECF,83,in silico perfusion,6.8,1.83144728456716
+brain ECF,83,in silico perfusion,6.9,1.78353537855391
+brain ECF,83,in silico perfusion,7,1.73697674044624
+brain ECF,83,in silico perfusion,7.1,1.69173250613923
+brain ECF,83,in silico perfusion,7.2,1.64776493118306
+brain ECF,83,in silico perfusion,7.3,1.60503735867115
+brain ECF,83,in silico perfusion,7.4,1.56351418782898
+brain ECF,83,in silico perfusion,7.5,1.52316084358477
+brain ECF,83,in silico perfusion,7.6,1.48394374699101
+brain ECF,83,in silico perfusion,7.7,1.44583028650311
+brain ECF,83,in silico perfusion,7.8,1.40878879013944
+brain ECF,83,in silico perfusion,7.9,1.37278849823775
+brain ECF,83,in silico perfusion,8,1.33779953741335
+brain ECF,83,in silico perfusion,8.1,1.30379289488424
+brain ECF,83,in silico perfusion,8.2,1.27074039366213
+brain ECF,83,in silico perfusion,8.3,1.23861466847013
+brain ECF,83,in silico perfusion,8.4,1.2073891424057
+brain ECF,83,in silico perfusion,8.5,1.17703800397534
+brain ECF,83,in silico perfusion,8.6,1.14753618531244
+brain ECF,83,in silico perfusion,8.7,1.11885934064142
+brain ECF,83,in silico perfusion,8.8,1.09098382546979
+brain ECF,83,in silico perfusion,8.9,1.06388667637869
+brain ECF,83,in silico perfusion,9,1.03754559126241
+brain ECF,83,in silico perfusion,9.1,1.01193891047244
+brain ECF,83,in silico perfusion,9.2,0.987045598196906
+brain ECF,83,in silico perfusion,9.3,0.962845224519235
+brain ECF,83,in silico perfusion,9.4,0.939317947839958
+brain ECF,83,in silico perfusion,9.5,0.916444497915504
+brain ECF,83,in silico perfusion,9.6,0.894206159572693
+brain ECF,83,in silico perfusion,9.7,0.872584756593197
+brain ECF,83,in silico perfusion,9.8,0.85156263621926
+brain ECF,83,in silico perfusion,9.9,0.8311226538611
+brain ECF,83,in silico perfusion,10,0.811248158745253
+brain ECF,83,in silico perfusion,10.1,0.791922979530934
+brain ECF,83,in silico perfusion,10.2,0.773131410583562
+brain ECF,83,in silico perfusion,10.3,0.754858198240862
+brain ECF,83,in silico perfusion,10.4,0.737088528139053
+brain ECF,83,in silico perfusion,10.5,0.719808012445018
+brain ECF,83,in silico perfusion,10.6,0.703002677554607
+brain ECF,83,in silico perfusion,10.7,0.686658951965894
+brain ECF,83,in silico perfusion,10.8,0.670763655016874
+brain ECF,83,in silico perfusion,10.9,0.655303985459537
+brain ECF,83,in silico perfusion,11,0.640267510443093
+brain ECF,83,in silico perfusion,11.1,0.625642154950945
+brain ECF,83,in silico perfusion,11.2,0.61141619156628
+brain ECF,83,in silico perfusion,11.3,0.597578230449974
+brain ECF,83,in silico perfusion,11.4,0.584117209296419
+brain ECF,83,in silico perfusion,11.5,0.571022384322387
+brain ECF,83,in silico perfusion,11.6,0.558283320952065
+brain ECF,83,in silico perfusion,11.7,0.545889884717762
+brain ECF,83,in silico perfusion,11.8,0.533832232783333
+brain ECF,83,in silico perfusion,11.9,0.522100805572467
+brain ECF,83,in silico perfusion,12,0.510686318511736
+brain ECF,83,in silico perfusion,12.1,0.499579754000397
+brain ECF,83,in silico perfusion,12.2,0.488772353959037
+brain ECF,83,in silico perfusion,12.3,0.478255612289359
+brain ECF,83,in silico perfusion,12.4,0.468021267249488
+brain ECF,83,in silico perfusion,12.5,0.458061294957061
+brain ECF,83,in silico perfusion,12.6,0.448367902309236
+brain ECF,83,in silico perfusion,12.7,0.438933520058945
+brain ECF,83,in silico perfusion,12.8,0.429750796821395
+brain ECF,83,in silico perfusion,12.9,0.420812592603538
+brain ECF,83,in silico perfusion,13,0.41211197245298
+brain ECF,83,in silico perfusion,13.1,0.403642200975144
+brain ECF,83,in silico perfusion,13.2,0.395396736454475
+brain ECF,83,in silico perfusion,13.3,0.387369224902305
+brain ECF,83,in silico perfusion,13.4,0.379553495220581
+brain ECF,83,in silico perfusion,13.5,0.371943553557971
+brain ECF,83,in silico perfusion,13.6,0.364533578197499
+brain ECF,83,in silico perfusion,13.7,0.357317914920648
+brain ECF,83,in silico perfusion,13.8,0.350291071755519
+brain ECF,83,in silico perfusion,13.9,0.343447714573975
+brain ECF,83,in silico perfusion,14,0.33678266258251
+brain ECF,83,in silico perfusion,14.1,0.33029088355755
+brain ECF,83,in silico perfusion,14.2,0.323967489957569
+brain ECF,83,in silico perfusion,14.3,0.317807734684409
+brain ECF,83,in silico perfusion,14.4,0.311807006624851
+brain ECF,83,in silico perfusion,14.5,0.305960827386214
+brain ECF,83,in silico perfusion,14.6,0.300264846874217
+brain ECF,83,in silico perfusion,14.7,0.29471483996555
+brain ECF,83,in silico perfusion,14.8,0.289306702917863
+brain ECF,83,in silico perfusion,14.9,0.284036449466033
+brain ECF,83,in silico perfusion,15,0.27890020802548
+brain ECF,83,in silico perfusion,15.1,0.273894217875342
+brain ECF,83,in silico perfusion,15.2,0.269014826238748
+brain ECF,83,in silico perfusion,15.3,0.264258485221208
+brain ECF,83,in silico perfusion,15.4,0.259621748429883
+brain ECF,83,in silico perfusion,15.5,0.255101268566646
+brain ECF,83,in silico perfusion,15.6,0.250693794057238
+brain ECF,83,in silico perfusion,15.7,0.246396166672155
+brain ECF,83,in silico perfusion,15.8,0.242205318699852
+brain ECF,83,in silico perfusion,15.9,0.238118270196604
+brain ECF,83,in silico perfusion,16,0.23413212686497
+brain ECF,83,in silico perfusion,16.1,0.230244077008271
+brain ECF,83,in silico perfusion,16.2,0.226451389765652
+brain ECF,83,in silico perfusion,16.3,0.222751412249505
+brain ECF,83,in silico perfusion,16.4,0.219141567674362
+brain ECF,83,in silico perfusion,16.5,0.215619352996249
+brain ECF,83,in silico perfusion,16.6,0.21218233672149
+brain ECF,83,in silico perfusion,16.7,0.20882815717493
+brain ECF,83,in silico perfusion,16.8,0.205554519907051
+brain ECF,83,in silico perfusion,16.9,0.202359196471052
+brain ECF,83,in silico perfusion,17,0.199240021794093
+brain ECF,83,in silico perfusion,17.1,0.196194893048608
+brain ECF,83,in silico perfusion,17.2,0.193221767239448
+brain ECF,83,in silico perfusion,17.3,0.190318660004257
+brain ECF,83,in silico perfusion,17.4,0.187483643518652
+brain ECF,83,in silico perfusion,17.5,0.18471484514
+brain ECF,83,in silico perfusion,17.6,0.182010445686596
+brain ECF,83,in silico perfusion,17.7,0.179368677874592
+brain ECF,83,in silico perfusion,17.8,0.176787825015292
+brain ECF,83,in silico perfusion,17.9,0.174266219206689
+brain ECF,83,in silico perfusion,18,0.171802240437409
+brain ECF,83,in silico perfusion,18.1,0.169394314549077
+brain ECF,83,in silico perfusion,18.2,0.167040912664563
+brain ECF,83,in silico perfusion,18.3,0.164740549101346
+brain ECF,83,in silico perfusion,18.4,0.162491780924786
+brain ECF,83,in silico perfusion,18.5,0.16029320593933
+brain ECF,83,in silico perfusion,18.6,0.158143462266375
+brain ECF,83,in silico perfusion,18.7,0.15604122647155
+brain ECF,83,in silico perfusion,18.8,0.153985213131751
+brain ECF,83,in silico perfusion,18.9,0.151974173096918
+brain ECF,83,in silico perfusion,19,0.150006893065647
+brain ECF,83,in silico perfusion,19.1,0.148082193950853
+brain ECF,83,in silico perfusion,19.2,0.146198930484495
+brain ECF,83,in silico perfusion,19.3,0.144355989677623
+brain ECF,83,in silico perfusion,19.4,0.142552290465628
+brain ECF,83,in silico perfusion,19.5,0.140786782150458
+brain ECF,83,in silico perfusion,19.6,0.139058444238639
+brain ECF,83,in silico perfusion,19.7,0.13736628481076
+brain ECF,83,in silico perfusion,19.8,0.135709340490759
+brain ECF,83,in silico perfusion,19.9,0.134086674862004
+brain ECF,83,in silico perfusion,20,0.132497378349417
+brain ECF,83,in silico perfusion,20.1,0.130940566963546
+brain ECF,83,in silico perfusion,20.2,0.129415381873117
+brain ECF,83,in silico perfusion,20.3,0.127920988519501
+brain ECF,83,in silico perfusion,20.4,0.126456575957369
+brain ECF,83,in silico perfusion,20.5,0.125021356239498
+brain ECF,83,in silico perfusion,20.6,0.123614563603466
+brain ECF,83,in silico perfusion,20.7,0.122235454064434
+brain ECF,83,in silico perfusion,20.8,0.120883304507456
+brain ECF,83,in silico perfusion,20.9,0.119557412428199
+brain ECF,83,in silico perfusion,21,0.118257094881307
+brain ECF,83,in silico perfusion,21.1,0.11698168851885
+brain ECF,83,in silico perfusion,21.2,0.115730548338001
+brain ECF,83,in silico perfusion,21.3,0.114503047829295
+brain ECF,83,in silico perfusion,21.4,0.113298577910841
+brain ECF,83,in silico perfusion,21.5,0.112116546726799
+brain ECF,83,in silico perfusion,21.6,0.110956379132546
+brain ECF,83,in silico perfusion,21.7,0.109817516002085
+brain ECF,83,in silico perfusion,21.8,0.108699414136235
+brain ECF,83,in silico perfusion,21.9,0.107601545335216
+brain ECF,83,in silico perfusion,22,0.106523396500707
+brain ECF,83,in silico perfusion,22.1,0.105464468657272
+brain ECF,83,in silico perfusion,22.2,0.104424277016513
+brain ECF,83,in silico perfusion,22.3,0.103402350261993
+brain ECF,83,in silico perfusion,22.4,0.102398230291751
+brain ECF,83,in silico perfusion,22.5,0.101411471895791
+brain ECF,83,in silico perfusion,22.6,0.100441642101235
+brain ECF,83,in silico perfusion,22.7,0.0994883203380912
+brain ECF,83,in silico perfusion,22.8,0.0985510974520036
+brain ECF,83,in silico perfusion,22.9,0.0976295758893862
+brain ECF,83,in silico perfusion,23,0.0967233691722037
+brain ECF,83,in silico perfusion,23.1,0.0958321014339488
+brain ECF,83,in silico perfusion,23.2,0.0949554075217422
+brain ECF,83,in silico perfusion,23.3,0.0940929321594962
+brain ECF,83,in silico perfusion,23.4,0.0932443301402616
+brain ECF,83,in silico perfusion,23.5,0.0924092657557423
+brain ECF,83,in silico perfusion,23.6,0.0915874125522906
+brain ECF,83,in silico perfusion,23.7,0.0907784532855724
+brain ECF,83,in silico perfusion,23.8,0.0899820792662313
+brain ECF,83,in silico perfusion,23.9,0.0891979904939684
+brain ECF,83,in silico perfusion,24,0.0884258952013057
+brain ECF,3.8,in silico PAMPA,0,0
+brain ECF,3.8,in silico PAMPA,0.1,2.69886498197352
+brain ECF,3.8,in silico PAMPA,0.2,7.41703434466676
+brain ECF,3.8,in silico PAMPA,0.3,9.88930277294871
+brain ECF,3.8,in silico PAMPA,0.4,10.881857599453
+brain ECF,3.8,in silico PAMPA,0.5,11.1613441115729
+brain ECF,3.8,in silico PAMPA,0.6,11.1040953628338
+brain ECF,3.8,in silico PAMPA,0.7,10.8936894325235
+brain ECF,3.8,in silico PAMPA,0.8,10.6187811121584
+brain ECF,3.8,in silico PAMPA,0.9,10.3214845551557
+brain ECF,3.8,in silico PAMPA,1,10.0212508013807
+brain ECF,3.8,in silico PAMPA,1.1,9.72661385503023
+brain ECF,3.8,in silico PAMPA,1.2,9.44094033108408
+brain ECF,3.8,in silico PAMPA,1.3,9.16522216974817
+brain ECF,3.8,in silico PAMPA,1.4,8.89941655352753
+brain ECF,3.8,in silico PAMPA,1.5,8.64307605486254
+brain ECF,3.8,in silico PAMPA,1.6,8.39563507619057
+brain ECF,3.8,in silico PAMPA,1.7,8.15653217976941
+brain ECF,3.8,in silico PAMPA,1.8,7.92525585674361
+brain ECF,3.8,in silico PAMPA,1.9,7.70135598318716
+brain ECF,3.8,in silico PAMPA,2,7.48444102267151
+brain ECF,3.8,in silico PAMPA,2.1,7.27417024078325
+brain ECF,3.8,in silico PAMPA,2.2,7.07024501765069
+brain ECF,3.8,in silico PAMPA,2.3,6.87240089541509
+brain ECF,3.8,in silico PAMPA,2.4,6.6804008734473
+brain ECF,3.8,in silico PAMPA,2.5,6.4940300030055
+brain ECF,3.8,in silico PAMPA,2.6,6.31309111899011
+brain ECF,3.8,in silico PAMPA,2.7,6.1374015125502
+brain ECF,3.8,in silico PAMPA,2.8,5.96679037508357
+brain ECF,3.8,in silico PAMPA,2.9,5.8010968196978
+brain ECF,3.8,in silico PAMPA,3,5.64016835082638
+brain ECF,3.8,in silico PAMPA,3.1,5.48385967974842
+brain ECF,3.8,in silico PAMPA,3.2,5.33203183353194
+brain ECF,3.8,in silico PAMPA,3.3,5.18455143452983
+brain ECF,3.8,in silico PAMPA,3.4,5.04129013866736
+brain ECF,3.8,in silico PAMPA,3.5,4.90212418386538
+brain ECF,3.8,in silico PAMPA,3.6,4.76693403311707
+brain ECF,3.8,in silico PAMPA,3.7,4.63560409251587
+brain ECF,3.8,in silico PAMPA,3.8,4.50802247226179
+brain ECF,3.8,in silico PAMPA,3.9,4.38408077993841
+brain ECF,3.8,in silico PAMPA,4,4.26367394529364
+brain ECF,3.8,in silico PAMPA,4.1,4.14670007272589
+brain ECF,3.8,in silico PAMPA,4.2,4.03306031062015
+brain ECF,3.8,in silico PAMPA,4.3,3.92265873462847
+brain ECF,3.8,in silico PAMPA,4.4,3.81540224029963
+brain ECF,3.8,in silico PAMPA,4.5,3.7112004446479
+brain ECF,3.8,in silico PAMPA,4.6,3.60996559545239
+brain ECF,3.8,in silico PAMPA,4.7,3.51161248660587
+brain ECF,3.8,in silico PAMPA,4.8,3.41605837813893
+brain ECF,3.8,in silico PAMPA,4.9,3.32322291988594
+brain ECF,3.8,in silico PAMPA,5,3.23302807895162
+brain ECF,3.8,in silico PAMPA,5.1,3.14539807041544
+brain ECF,3.8,in silico PAMPA,5.2,3.06025929076538
+brain ECF,3.8,in silico PAMPA,5.3,2.97754025371022
+brain ECF,3.8,in silico PAMPA,5.4,2.89717152821981
+brain ECF,3.8,in silico PAMPA,5.5,2.81908567870983
+brain ECF,3.8,in silico PAMPA,5.6,2.74321720718937
+brain ECF,3.8,in silico PAMPA,5.7,2.66950249720215
+brain ECF,3.8,in silico PAMPA,5.8,2.59787975957294
+brain ECF,3.8,in silico PAMPA,5.9,2.5282889798004
+brain ECF,3.8,in silico PAMPA,6,2.46067186696051
+brain ECF,3.8,in silico PAMPA,6.1,2.39497180412704
+brain ECF,3.8,in silico PAMPA,6.2,2.33113380034065
+brain ECF,3.8,in silico PAMPA,6.3,2.26910444393617
+brain ECF,3.8,in silico PAMPA,6.4,2.20883185714238
+brain ECF,3.8,in silico PAMPA,6.5,2.15026565209832
+brain ECF,3.8,in silico PAMPA,6.6,2.09335688812282
+brain ECF,3.8,in silico PAMPA,6.7,2.03805803021042
+brain ECF,3.8,in silico PAMPA,6.8,1.98432290870873
+brain ECF,3.8,in silico PAMPA,6.9,1.93210668018558
+brain ECF,3.8,in silico PAMPA,7,1.88136578925216
+brain ECF,3.8,in silico PAMPA,7.1,1.83205793179861
+brain ECF,3.8,in silico PAMPA,7.2,1.78414201897322
+brain ECF,3.8,in silico PAMPA,7.3,1.73757814236323
+brain ECF,3.8,in silico PAMPA,7.4,1.69232754013274
+brain ECF,3.8,in silico PAMPA,7.5,1.64835256413148
+brain ECF,3.8,in silico PAMPA,7.6,1.60561664798284
+brain ECF,3.8,in silico PAMPA,7.7,1.56408427588692
+brain ECF,3.8,in silico PAMPA,7.8,1.52372095262302
+brain ECF,3.8,in silico PAMPA,7.9,1.48449317424647
+brain ECF,3.8,in silico PAMPA,8,1.44636839958108
+brain ECF,3.8,in silico PAMPA,8.1,1.40931502259179
+brain ECF,3.8,in silico PAMPA,8.2,1.37330234559475
+brain ECF,3.8,in silico PAMPA,8.3,1.33830055300144
+brain ECF,3.8,in silico PAMPA,8.4,1.30428068622083
+brain ECF,3.8,in silico PAMPA,8.5,1.27121461897616
+brain ECF,3.8,in silico PAMPA,8.6,1.23907503337448
+brain ECF,3.8,in silico PAMPA,8.7,1.20783539671577
+brain ECF,3.8,in silico PAMPA,8.8,1.17746993894184
+brain ECF,3.8,in silico PAMPA,8.9,1.14795363058483
+brain ECF,3.8,in silico PAMPA,9,1.11926216172008
+brain ECF,3.8,in silico PAMPA,9.1,1.09137192119974
+brain ECF,3.8,in silico PAMPA,9.2,1.06425997662518
+brain ECF,3.8,in silico PAMPA,9.3,1.03790405467447
+brain ECF,3.8,in silico PAMPA,9.4,1.01228252235514
+brain ECF,3.8,in silico PAMPA,9.5,0.987374368566258
+brain ECF,3.8,in silico PAMPA,9.6,0.96315918618967
+brain ECF,3.8,in silico PAMPA,9.7,0.939617154838692
+brain ECF,3.8,in silico PAMPA,9.8,0.916729023639847
+brain ECF,3.8,in silico PAMPA,9.9,0.894476095295004
+brain ECF,3.8,in silico PAMPA,10,0.87284020999185
+brain ECF,3.8,in silico PAMPA,10.1,0.851803730015381
+brain ECF,3.8,in silico PAMPA,10.2,0.831349524475966
+brain ECF,3.8,in silico PAMPA,10.3,0.811460955129628
+brain ECF,3.8,in silico PAMPA,10.4,0.792121862007628
+brain ECF,3.8,in silico PAMPA,10.5,0.77331654973769
+brain ECF,3.8,in silico PAMPA,10.6,0.75502977396399
+brain ECF,3.8,in silico PAMPA,10.7,0.737246728672554
+brain ECF,3.8,in silico PAMPA,10.8,0.719953033507691
+brain ECF,3.8,in silico PAMPA,10.9,0.703134721384967
+brain ECF,3.8,in silico PAMPA,11,0.686778226666988
+brain ECF,3.8,in silico PAMPA,11.1,0.670870373791857
+brain ECF,3.8,in silico PAMPA,11.2,0.655398365958664
+brain ECF,3.8,in silico PAMPA,11.3,0.640349774000241
+brain ECF,3.8,in silico PAMPA,11.4,0.625712526140749
+brain ECF,3.8,in silico PAMPA,11.5,0.61147489761241
+brain ECF,3.8,in silico PAMPA,11.6,0.597625500636268
+brain ECF,3.8,in silico PAMPA,11.7,0.584153274570407
+brain ECF,3.8,in silico PAMPA,11.8,0.571047476831624
+brain ECF,3.8,in silico PAMPA,11.9,0.558297673613604
+brain ECF,3.8,in silico PAMPA,12,0.545893730694494
+brain ECF,3.8,in silico PAMPA,12.1,0.533825805347555
+brain ECF,3.8,in silico PAMPA,12.2,0.522084337719338
+brain ECF,3.8,in silico PAMPA,12.3,0.51066004243544
+brain ECF,3.8,in silico PAMPA,12.4,0.499543901114948
+brain ECF,3.8,in silico PAMPA,12.5,0.4887271545526
+brain ECF,3.8,in silico PAMPA,12.6,0.478201295049499
+brain ECF,3.8,in silico PAMPA,12.7,0.467958059418225
+brain ECF,3.8,in silico PAMPA,12.8,0.457989422001922
+brain ECF,3.8,in silico PAMPA,12.9,0.448287587413699
+brain ECF,3.8,in silico PAMPA,13,0.43884498440869
+brain ECF,3.8,in silico PAMPA,13.1,0.429654259306875
+brain ECF,3.8,in silico PAMPA,13.2,0.420708269389483
+brain ECF,3.8,in silico PAMPA,13.3,0.412000077308127
+brain ECF,3.8,in silico PAMPA,13.4,0.403522945002463
+brain ECF,3.8,in silico PAMPA,13.5,0.395270327660414
+brain ECF,3.8,in silico PAMPA,13.6,0.387235868649264
+brain ECF,3.8,in silico PAMPA,13.7,0.379413393896917
+brain ECF,3.8,in silico PAMPA,13.8,0.371796906330789
+brain ECF,3.8,in silico PAMPA,13.9,0.36438058138135
+brain ECF,3.8,in silico PAMPA,14,0.357158761445268
+brain ECF,3.8,in silico PAMPA,14.1,0.350125951412787
+brain ECF,3.8,in silico PAMPA,14.2,0.34327681406104
+brain ECF,3.8,in silico PAMPA,14.3,0.336606165064262
+brain ECF,3.8,in silico PAMPA,14.4,0.330108969141905
+brain ECF,3.8,in silico PAMPA,14.5,0.323780335442038
+brain ECF,3.8,in silico PAMPA,14.6,0.317615513331666
+brain ECF,3.8,in silico PAMPA,14.7,0.311609888706019
+brain ECF,3.8,in silico PAMPA,14.8,0.305758979635776
+brain ECF,3.8,in silico PAMPA,14.9,0.300058432839321
+brain ECF,3.8,in silico PAMPA,15,0.294504020016543
+brain ECF,3.8,in silico PAMPA,15.1,0.289091633822657
+brain ECF,3.8,in silico PAMPA,15.2,0.283817285079293
+brain ECF,3.8,in silico PAMPA,15.3,0.278677098655507
+brain ECF,3.8,in silico PAMPA,15.4,0.27366731077263
+brain ECF,3.8,in silico PAMPA,15.5,0.268784265472313
+brain ECF,3.8,in silico PAMPA,15.6,0.264024411503619
+brain ECF,3.8,in silico PAMPA,15.7,0.259384299619463
+brain ECF,3.8,in silico PAMPA,15.8,0.254860579121252
+brain ECF,3.8,in silico PAMPA,15.9,0.250449995584634
+brain ECF,3.8,in silico PAMPA,16,0.246149387686351
+brain ECF,3.8,in silico PAMPA,16.1,0.241955684647874
+brain ECF,3.8,in silico PAMPA,16.2,0.2378659037967
+brain ECF,3.8,in silico PAMPA,16.3,0.233877147572003
+brain ECF,3.8,in silico PAMPA,16.4,0.229986601757554
+brain ECF,3.8,in silico PAMPA,16.5,0.226191532311006
+brain ECF,3.8,in silico PAMPA,16.6,0.222489283820442
+brain ECF,3.8,in silico PAMPA,16.7,0.218877276567988
+brain ECF,3.8,in silico PAMPA,16.8,0.215353004883805
+brain ECF,3.8,in silico PAMPA,16.9,0.211914034644301
+brain ECF,3.8,in silico PAMPA,17,0.208558001384519
+brain ECF,3.8,in silico PAMPA,17.1,0.205282608354662
+brain ECF,3.8,in silico PAMPA,17.2,0.202085624275928
+brain ECF,3.8,in silico PAMPA,17.3,0.19896488196699
+brain ECF,3.8,in silico PAMPA,17.4,0.19591827580368
+brain ECF,3.8,in silico PAMPA,17.5,0.192943760738743
+brain ECF,3.8,in silico PAMPA,17.6,0.190039349746436
+brain ECF,3.8,in silico PAMPA,17.7,0.187203112957629
+brain ECF,3.8,in silico PAMPA,17.8,0.184433175256019
+brain ECF,3.8,in silico PAMPA,17.9,0.18172771540242
+brain ECF,3.8,in silico PAMPA,18,0.179084963856996
+brain ECF,3.8,in silico PAMPA,18.1,0.176503201839813
+brain ECF,3.8,in silico PAMPA,18.2,0.173980759395105
+brain ECF,3.8,in silico PAMPA,18.3,0.171516014386777
+brain ECF,3.8,in silico PAMPA,18.4,0.169107390794246
+brain ECF,3.8,in silico PAMPA,18.5,0.16675335764123
+brain ECF,3.8,in silico PAMPA,18.6,0.164452427551057
+brain ECF,3.8,in silico PAMPA,18.7,0.162203155532546
+brain ECF,3.8,in silico PAMPA,18.8,0.160004137739784
+brain ECF,3.8,in silico PAMPA,18.9,0.157854010357236
+brain ECF,3.8,in silico PAMPA,19,0.155751448320394
+brain ECF,3.8,in silico PAMPA,19.1,0.15369516439479
+brain ECF,3.8,in silico PAMPA,19.2,0.151683907847699
+brain ECF,3.8,in silico PAMPA,19.3,0.149716463675202
+brain ECF,3.8,in silico PAMPA,19.4,0.147791651273313
+brain ECF,3.8,in silico PAMPA,19.5,0.145908323764311
+brain ECF,3.8,in silico PAMPA,19.6,0.144065366695261
+brain ECF,3.8,in silico PAMPA,19.7,0.142261697451676
+brain ECF,3.8,in silico PAMPA,19.8,0.1404962639782
+brain ECF,3.8,in silico PAMPA,19.9,0.1387680442831
+brain ECF,3.8,in silico PAMPA,20,0.137076045190429
+brain ECF,3.8,in silico PAMPA,20.1,0.135419301913266
+brain ECF,3.8,in silico PAMPA,20.2,0.133796876741322
+brain ECF,3.8,in silico PAMPA,20.3,0.132207858887062
+brain ECF,3.8,in silico PAMPA,20.4,0.13065136298058
+brain ECF,3.8,in silico PAMPA,20.5,0.129126529143688
+brain ECF,3.8,in silico PAMPA,20.6,0.127632521449347
+brain ECF,3.8,in silico PAMPA,20.7,0.126168527957579
+brain ECF,3.8,in silico PAMPA,20.8,0.124733759470903
+brain ECF,3.8,in silico PAMPA,20.9,0.123327449222735
+brain ECF,3.8,in silico PAMPA,21,0.121948852108806
+brain ECF,3.8,in silico PAMPA,21.1,0.120597243998409
+brain ECF,3.8,in silico PAMPA,21.2,0.119271921346179
+brain ECF,3.8,in silico PAMPA,21.3,0.117972200268624
+brain ECF,3.8,in silico PAMPA,21.4,0.116697416405035
+brain ECF,3.8,in silico PAMPA,21.5,0.115446923868975
+brain ECF,3.8,in silico PAMPA,21.6,0.114220095277507
+brain ECF,3.8,in silico PAMPA,21.7,0.113016320578139
+brain ECF,3.8,in silico PAMPA,21.8,0.111835007168653
+brain ECF,3.8,in silico PAMPA,21.9,0.110675578960148
+brain ECF,3.8,in silico PAMPA,22,0.109537476043539
+brain ECF,3.8,in silico PAMPA,22.1,0.108420154424826
+brain ECF,3.8,in silico PAMPA,22.2,0.10732308510144
+brain ECF,3.8,in silico PAMPA,22.3,0.10624575425705
+brain ECF,3.8,in silico PAMPA,22.4,0.105187662163611
+brain ECF,3.8,in silico PAMPA,22.5,0.104148323323784
+brain ECF,3.8,in silico PAMPA,22.6,0.103127265751376
+brain ECF,3.8,in silico PAMPA,22.7,0.10212403062474
+brain ECF,3.8,in silico PAMPA,22.8,0.101138172113753
+brain ECF,3.8,in silico PAMPA,22.9,0.100169256615131
+brain ECF,3.8,in silico PAMPA,23,0.0992168629132935
+brain ECF,3.8,in silico PAMPA,23.1,0.098280581283336
+brain ECF,3.8,in silico PAMPA,23.2,0.0973600136250641
+brain ECF,3.8,in silico PAMPA,23.3,0.0964547728571804
+brain ECF,3.8,in silico PAMPA,23.4,0.095564482566452
+brain ECF,3.8,in silico PAMPA,23.5,0.0946887770910247
+brain ECF,3.8,in silico PAMPA,23.6,0.0938273006049135
+brain ECF,3.8,in silico PAMPA,23.7,0.0929797073738858
+brain ECF,3.8,in silico PAMPA,23.8,0.0921456612468164
+brain ECF,3.8,in silico PAMPA,23.9,0.0913248352052658
+brain ECF,3.8,in silico PAMPA,24,0.0905169114647358
+brain ECF,10.377762907868,optimized,0,0
+brain ECF,10.377762907868,optimized,0.1,4.94700550037965
+brain ECF,10.377762907868,optimized,0.2,13.0297316799014
+brain ECF,10.377762907868,optimized,0.3,15.346466939143
+brain ECF,10.377762907868,optimized,0.4,14.7306653816122
+brain ECF,10.377762907868,optimized,0.5,13.4541615225696
+brain ECF,10.377762907868,optimized,0.6,12.2559290533283
+brain ECF,10.377762907868,optimized,0.7,11.3051020744046
+brain ECF,10.377762907868,optimized,0.8,10.5850821799927
+brain ECF,10.377762907868,optimized,0.9,10.0364549218155
+brain ECF,10.377762907868,optimized,1,9.60365699887097
+brain ECF,10.377762907868,optimized,1.1,9.24580059718527
+brain ECF,10.377762907868,optimized,1.2,8.93577280778409
+brain ECF,10.377762907868,optimized,1.3,8.65659923701023
+brain ECF,10.377762907868,optimized,1.4,8.39801756643774
+brain ECF,10.377762907868,optimized,1.5,8.15395242462261
+brain ECF,10.377762907868,optimized,1.6,7.92084287784173
+brain ECF,10.377762907868,optimized,1.7,7.69659914079614
+brain ECF,10.377762907868,optimized,1.8,7.47997635613883
+brain ECF,10.377762907868,optimized,1.9,7.2702086158213
+brain ECF,10.377762907868,optimized,2,7.06679924553393
+brain ECF,10.377762907868,optimized,2.1,6.86940241925195
+brain ECF,10.377762907868,optimized,2.2,6.67775706257405
+brain ECF,10.377762907868,optimized,2.3,6.49165033900967
+brain ECF,10.377762907868,optimized,2.4,6.31089755571373
+brain ECF,10.377762907868,optimized,2.5,6.13533118265508
+brain ECF,10.377762907868,optimized,2.6,5.96479487982876
+brain ECF,10.377762907868,optimized,2.7,5.79914018316118
+brain ECF,10.377762907868,optimized,2.8,5.6382247012624
+brain ECF,10.377762907868,optimized,2.9,5.4819111062971
+brain ECF,10.377762907868,optimized,3,5.33006652329508
+brain ECF,10.377762907868,optimized,3.1,5.1825621611256
+brain ECF,10.377762907868,optimized,3.2,5.03927307097507
+brain ECF,10.377762907868,optimized,3.3,4.90007797821372
+brain ECF,10.377762907868,optimized,3.4,4.76485913479151
+brain ECF,10.377762907868,optimized,3.5,4.63350219660472
+brain ECF,10.377762907868,optimized,3.6,4.50589611896713
+brain ECF,10.377762907868,optimized,3.7,4.38193305694247
+brain ECF,10.377762907868,optimized,3.8,4.26150827107118
+brain ECF,10.377762907868,optimized,3.9,4.14452003635247
+brain ECF,10.377762907868,optimized,4,4.03086955464
+brain ECF,10.377762907868,optimized,4.1,3.92046087030842
+brain ECF,10.377762907868,optimized,4.2,3.81320078859881
+brain ECF,10.377762907868,optimized,4.3,3.70899879614337
+brain ECF,10.377762907868,optimized,4.4,3.60776698371441
+brain ECF,10.377762907868,optimized,4.5,3.50941997137693
+brain ECF,10.377762907868,optimized,4.6,3.41387483585881
+brain ECF,10.377762907868,optimized,4.7,3.32105103996014
+brain ECF,10.377762907868,optimized,4.8,3.23087036392794
+brain ECF,10.377762907868,optimized,4.9,3.14325683881553
+brain ECF,10.377762907868,optimized,5,3.05813668178765
+brain ECF,10.377762907868,optimized,5.1,2.97543823323764
+brain ECF,10.377762907868,optimized,5.2,2.89509189577714
+brain ECF,10.377762907868,optimized,5.3,2.81703007495672
+brain ECF,10.377762907868,optimized,5.4,2.74118712167875
+brain ECF,10.377762907868,optimized,5.5,2.66749927620759
+brain ECF,10.377762907868,optimized,5.6,2.59590461384954
+brain ECF,10.377762907868,optimized,5.7,2.52634299224529
+brain ECF,10.377762907868,optimized,5.8,2.45875599999268
+brain ECF,10.377762907868,optimized,5.9,2.39308690691208
+brain ECF,10.377762907868,optimized,6,2.3292806157029
+brain ECF,10.377762907868,optimized,6.1,2.26728361497869
+brain ECF,10.377762907868,optimized,6.2,2.20704393363576
+brain ECF,10.377762907868,optimized,6.3,2.1485110965316
+brain ECF,10.377762907868,optimized,6.4,2.09163608144824
+brain ECF,10.377762907868,optimized,6.5,2.03637127731543
+brain ECF,10.377762907868,optimized,6.6,1.98267044359361
+brain ECF,10.377762907868,optimized,6.7,1.93048867069148
+brain ECF,10.377762907868,optimized,6.8,1.87978234189755
+brain ECF,10.377762907868,optimized,6.9,1.83050909609628
+brain ECF,10.377762907868,optimized,7,1.78262779162093
+brain ECF,10.377762907868,optimized,7.1,1.7360984711532
+brain ECF,10.377762907868,optimized,7.2,1.69088232764251
+brain ECF,10.377762907868,optimized,7.3,1.64694167123934
+brain ECF,10.377762907868,optimized,7.4,1.60423989706384
+brain ECF,10.377762907868,optimized,7.5,1.56274145391491
+brain ECF,10.377762907868,optimized,7.6,1.52241181412919
+brain ECF,10.377762907868,optimized,7.7,1.48321744403649
+brain ECF,10.377762907868,optimized,7.8,1.44512577533614
+brain ECF,10.377762907868,optimized,7.9,1.40810517730222
+brain ECF,10.377762907868,optimized,8,1.37212492983543
+brain ECF,10.377762907868,optimized,8.1,1.33715519712702
+brain ECF,10.377762907868,optimized,8.2,1.30316700229318
+brain ECF,10.377762907868,optimized,8.3,1.27013220264961
+brain ECF,10.377762907868,optimized,8.4,1.23802346567569
+brain ECF,10.377762907868,optimized,8.5,1.20681424572244
+brain ECF,10.377762907868,optimized,8.6,1.17647876125701
+brain ECF,10.377762907868,optimized,8.7,1.1469919729219
+brain ECF,10.377762907868,optimized,8.8,1.11832956221049
+brain ECF,10.377762907868,optimized,8.9,1.09046791066073
+brain ECF,10.377762907868,optimized,9,1.06338407974335
+brain ECF,10.377762907868,optimized,9.1,1.03705579115329
+brain ECF,10.377762907868,optimized,9.2,1.01146140781593
+brain ECF,10.377762907868,optimized,9.3,0.98657991558579
+brain ECF,10.377762907868,optimized,9.4,0.962390905198583
+brain ECF,10.377762907868,optimized,9.5,0.938874554907777
+brain ECF,10.377762907868,optimized,9.6,0.916011613346512
+brain ECF,10.377762907868,optimized,9.7,0.893783383375946
+brain ECF,10.377762907868,optimized,9.8,0.872171706016176
+brain ECF,10.377762907868,optimized,9.9,0.851158944995885
+brain ECF,10.377762907868,optimized,10,0.83072797149613
+brain ECF,10.377762907868,optimized,10.1,0.81086214968594
+brain ECF,10.377762907868,optimized,10.2,0.791545322593976
+brain ECF,10.377762907868,optimized,10.3,0.772761798270513
+brain ECF,10.377762907868,optimized,10.4,0.754496336218828
+brain ECF,10.377762907868,optimized,10.5,0.736734134596379
+brain ECF,10.377762907868,optimized,10.6,0.719460817545085
+brain ECF,10.377762907868,optimized,10.7,0.702662422918538
+brain ECF,10.377762907868,optimized,10.8,0.68632539021386
+brain ECF,10.377762907868,optimized,10.9,0.6704365491499
+brain ECF,10.377762907868,optimized,11,0.654983108460058
+brain ECF,10.377762907868,optimized,11.1,0.639952644894719
+brain ECF,10.377762907868,optimized,11.2,0.625333092465898
+brain ECF,10.377762907868,optimized,11.3,0.611112732509637
+brain ECF,10.377762907868,optimized,11.4,0.597280183515033
+brain ECF,10.377762907868,optimized,11.5,0.583824391214437
+brain ECF,10.377762907868,optimized,11.6,0.570734619425728
+brain ECF,10.377762907868,optimized,11.7,0.558000440835138
+brain ECF,10.377762907868,optimized,11.8,0.545611728056814
+brain ECF,10.377762907868,optimized,11.9,0.533558644815229
+brain ECF,10.377762907868,optimized,12,0.521831637910101
+brain ECF,10.377762907868,optimized,12.1,0.510421428891319
+brain ECF,10.377762907868,optimized,12.2,0.499319005905962
+brain ECF,10.377762907868,optimized,12.3,0.488515616477414
+brain ECF,10.377762907868,optimized,12.4,0.478002759822781
+brain ECF,10.377762907868,optimized,12.5,0.467772179345332
+brain ECF,10.377762907868,optimized,12.6,0.457815856030051
+brain ECF,10.377762907868,optimized,12.7,0.448126001431974
+brain ECF,10.377762907868,optimized,12.8,0.438695050811905
+brain ECF,10.377762907868,optimized,12.9,0.429515657013527
+brain ECF,10.377762907868,optimized,13,0.420580684156132
+brain ECF,10.377762907868,optimized,13.1,0.411883201140718
+brain ECF,10.377762907868,optimized,13.2,0.403416476335491
+brain ECF,10.377762907868,optimized,13.3,0.395173971541306
+brain ECF,10.377762907868,optimized,13.4,0.387149336234452
+brain ECF,10.377762907868,optimized,13.5,0.379336402603486
+brain ECF,10.377762907868,optimized,13.6,0.371729179927646
+brain ECF,10.377762907868,optimized,13.7,0.364321849524016
+brain ECF,10.377762907868,optimized,13.8,0.357108760025073
+brain ECF,10.377762907868,optimized,13.9,0.350084422256093
+brain ECF,10.377762907868,optimized,14,0.34324350467874
+brain ECF,10.377762907868,optimized,14.1,0.336580829054684
+brain ECF,10.377762907868,optimized,14.2,0.330091365510542
+brain ECF,10.377762907868,optimized,14.3,0.323770228875857
+brain ECF,10.377762907868,optimized,14.4,0.317612674138349
+brain ECF,10.377762907868,optimized,14.5,0.311614092408723
+brain ECF,10.377762907868,optimized,14.6,0.305770007308822
+brain ECF,10.377762907868,optimized,14.7,0.300076070687375
+brain ECF,10.377762907868,optimized,14.8,0.294528059318915
+brain ECF,10.377762907868,optimized,14.9,0.289121871217195
+brain ECF,10.377762907868,optimized,15,0.283853521859233
+brain ECF,10.377762907868,optimized,15.1,0.278719141309487
+brain ECF,10.377762907868,optimized,15.2,0.273714970374685
+brain ECF,10.377762907868,optimized,15.3,0.26883735781944
+brain ECF,10.377762907868,optimized,15.4,0.264082757133719
+brain ECF,10.377762907868,optimized,15.5,0.259447723310481
+brain ECF,10.377762907868,optimized,15.6,0.25492891039851
+brain ECF,10.377762907868,optimized,15.7,0.250523068046003
+brain ECF,10.377762907868,optimized,15.8,0.24622703932533
+brain ECF,10.377762907868,optimized,15.9,0.242037757611456
+brain ECF,10.377762907868,optimized,16,0.237952244168876
+brain ECF,10.377762907868,optimized,16.1,0.23396760573802
+brain ECF,10.377762907868,optimized,16.2,0.230081031666801
+brain ECF,10.377762907868,optimized,16.3,0.226289792108529
+brain ECF,10.377762907868,optimized,16.4,0.222591235064224
+brain ECF,10.377762907868,optimized,16.5,0.218982784732072
+brain ECF,10.377762907868,optimized,16.6,0.215461938819138
+brain ECF,10.377762907868,optimized,16.7,0.212026266786861
+brain ECF,10.377762907868,optimized,16.8,0.208673407611503
+brain ECF,10.377762907868,optimized,16.9,0.205401067734866
+brain ECF,10.377762907868,optimized,17,0.202207019414607
+brain ECF,10.377762907868,optimized,17.1,0.199089098307889
+brain ECF,10.377762907868,optimized,17.2,0.196045202281299
+brain ECF,10.377762907868,optimized,17.3,0.193073288982284
+brain ECF,10.377762907868,optimized,17.4,0.190171374706229
+brain ECF,10.377762907868,optimized,17.5,0.187337532208939
+brain ECF,10.377762907868,optimized,17.6,0.184569889486126
+brain ECF,10.377762907868,optimized,17.7,0.181866627817081
+brain ECF,10.377762907868,optimized,17.8,0.179225980572568
+brain ECF,10.377762907868,optimized,17.9,0.176646231413185
+brain ECF,10.377762907868,optimized,18,0.174125713102198
+brain ECF,10.377762907868,optimized,18.1,0.171662805895377
+brain ECF,10.377762907868,optimized,18.2,0.169255936301901
+brain ECF,10.377762907868,optimized,18.3,0.166903575699258
+brain ECF,10.377762907868,optimized,18.4,0.164604239015698
+brain ECF,10.377762907868,optimized,18.5,0.162356483579079
+brain ECF,10.377762907868,optimized,18.6,0.160158907715351
+brain ECF,10.377762907868,optimized,18.7,0.158010149827961
+brain ECF,10.377762907868,optimized,18.8,0.155908886909113
+brain ECF,10.377762907868,optimized,18.9,0.153853833880301
+brain ECF,10.377762907868,optimized,19,0.151843741917325
+brain ECF,10.377762907868,optimized,19.1,0.149877398026317
+brain ECF,10.377762907868,optimized,19.2,0.1479536234593
+brain ECF,10.377762907868,optimized,19.3,0.146071273182222
+brain ECF,10.377762907868,optimized,19.4,0.144229234572271
+brain ECF,10.377762907868,optimized,19.5,0.14242642670695
+brain ECF,10.377762907868,optimized,19.6,0.140661799333391
+brain ECF,10.377762907868,optimized,19.7,0.138934332018966
+brain ECF,10.377762907868,optimized,19.8,0.137243033328753
+brain ECF,10.377762907868,optimized,19.9,0.135586939896457
+brain ECF,10.377762907868,optimized,20,0.133965115763723
+brain ECF,10.377762907868,optimized,20.1,0.132376651397194
+brain ECF,10.377762907868,optimized,20.2,0.130820663169685
+brain ECF,10.377762907868,optimized,20.3,0.129296292351219
+brain ECF,10.377762907868,optimized,20.4,0.12780270469149
+brain ECF,10.377762907868,optimized,20.5,0.126339089311791
+brain ECF,10.377762907868,optimized,20.6,0.124904658579686
+brain ECF,10.377762907868,optimized,20.7,0.123498646774807
+brain ECF,10.377762907868,optimized,20.8,0.122120310206862
+brain ECF,10.377762907868,optimized,20.9,0.120768925831572
+brain ECF,10.377762907868,optimized,21,0.119443791304886
+brain ECF,10.377762907868,optimized,21.1,0.118144223940765
+brain ECF,10.377762907868,optimized,21.2,0.116869560363442
+brain ECF,10.377762907868,optimized,21.3,0.115619155950662
+brain ECF,10.377762907868,optimized,21.4,0.114392384118585
+brain ECF,10.377762907868,optimized,21.5,0.113188636113282
+brain ECF,10.377762907868,optimized,21.6,0.112007320088501
+brain ECF,10.377762907868,optimized,21.7,0.110847861104415
+brain ECF,10.377762907868,optimized,21.8,0.109709700111806
+brain ECF,10.377762907868,optimized,21.9,0.108592294084678
+brain ECF,10.377762907868,optimized,22,0.107495114938858
+brain ECF,10.377762907868,optimized,22.1,0.106417649569053
+brain ECF,10.377762907868,optimized,22.2,0.105359399292409
+brain ECF,10.377762907868,optimized,22.3,0.104319879213109
+brain ECF,10.377762907868,optimized,22.4,0.103298618315065
+brain ECF,10.377762907868,optimized,22.5,0.102295158438381
+brain ECF,10.377762907868,optimized,22.6,0.101309054514321
+brain ECF,10.377762907868,optimized,22.7,0.10033987375339
+brain ECF,10.377762907868,optimized,22.8,0.099387195466565
+brain ECF,10.377762907868,optimized,22.9,0.0984506108336392
+brain ECF,10.377762907868,optimized,23,0.0975297222198876
+brain ECF,10.377762907868,optimized,23.1,0.0966241433347914
+brain ECF,10.377762907868,optimized,23.2,0.0957334983885986
+brain ECF,10.377762907868,optimized,23.3,0.0948574222050439
+brain ECF,10.377762907868,optimized,23.4,0.0939955597288298
+brain ECF,10.377762907868,optimized,23.5,0.0931475656904705
+brain ECF,10.377762907868,optimized,23.6,0.0923131045848939
+brain ECF,10.377762907868,optimized,23.7,0.0914918499507868
+brain ECF,10.377762907868,optimized,23.8,0.0906834846190039
+brain ECF,10.377762907868,optimized,23.9,0.0898877000759512
+brain ECF,10.377762907868,optimized,24,0.0891041961722276
+brain ECF,10000000000,perfusion-limited,0,0
+brain ECF,10000000000,perfusion-limited,0.1,11.7164953742975
+brain ECF,10000000000,perfusion-limited,0.2,21.5997604283622
+brain ECF,10000000000,perfusion-limited,0.3,17.2719679476919
+brain ECF,10000000000,perfusion-limited,0.4,13.9001468514596
+brain ECF,10000000000,perfusion-limited,0.5,12.0350827957554
+brain ECF,10000000000,perfusion-limited,0.6,10.9629014906564
+brain ECF,10000000000,perfusion-limited,0.7,10.2901564925167
+brain ECF,10000000000,perfusion-limited,0.8,9.81983633857907
+brain ECF,10000000000,perfusion-limited,0.9,9.45394034834352
+brain ECF,10000000000,perfusion-limited,1,9.14369206821144
+brain ECF,10000000000,perfusion-limited,1.1,8.86476249041214
+brain ECF,10000000000,perfusion-limited,1.2,8.60496504149302
+brain ECF,10000000000,perfusion-limited,1.3,8.35814544759215
+brain ECF,10000000000,perfusion-limited,1.4,8.12114769855218
+brain ECF,10000000000,perfusion-limited,1.5,7.89230743485442
+brain ECF,10000000000,perfusion-limited,1.6,7.67070376732557
+brain ECF,10000000000,perfusion-limited,1.7,7.45578769229754
+brain ECF,10000000000,perfusion-limited,1.8,7.24719750725944
+brain ECF,10000000000,perfusion-limited,1.9,7.04466707997976
+brain ECF,10000000000,perfusion-limited,2,6.84798022300103
+brain ECF,10000000000,perfusion-limited,2.1,6.65694797500065
+brain ECF,10000000000,perfusion-limited,2.2,6.47139723904964
+brain ECF,10000000000,perfusion-limited,2.3,6.29116508566225
+brain ECF,10000000000,perfusion-limited,2.4,6.11609584623991
+brain ECF,10000000000,perfusion-limited,2.5,5.94603961591032
+brain ECF,10000000000,perfusion-limited,2.6,5.78085144268132
+brain ECF,10000000000,perfusion-limited,2.7,5.62039086390183
+brain ECF,10000000000,perfusion-limited,2.8,5.46452162206561
+brain ECF,10000000000,perfusion-limited,2.9,5.31311146348973
+brain ECF,10000000000,perfusion-limited,3,5.16603198305588
+brain ECF,10000000000,perfusion-limited,3.1,5.02315849466541
+brain ECF,10000000000,perfusion-limited,3.2,4.88436991492054
+brain ECF,10000000000,perfusion-limited,3.3,4.74954865448546
+brain ECF,10000000000,perfusion-limited,3.4,4.61858051454509
+brain ECF,10000000000,perfusion-limited,3.5,4.49135458817619
+brain ECF,10000000000,perfusion-limited,3.6,4.36776316482253
+brain ECF,10000000000,perfusion-limited,3.7,4.2477016380613
+brain ECF,10000000000,perfusion-limited,3.8,4.13106841611245
+brain ECF,10000000000,perfusion-limited,3.9,4.01776483487103
+brain ECF,10000000000,perfusion-limited,4,3.90769507346245
+brain ECF,10000000000,perfusion-limited,4.1,3.80076607232603
+brain ECF,10000000000,perfusion-limited,4.2,3.69688745363909
+brain ECF,10000000000,perfusion-limited,4.3,3.59597144402402
+brain ECF,10000000000,perfusion-limited,4.4,3.49793279953751
+brain ECF,10000000000,perfusion-limited,4.5,3.4026887328007
+brain ECF,10000000000,perfusion-limited,4.6,3.31015884220433
+brain ECF,10000000000,perfusion-limited,4.7,3.22026504314823
+brain ECF,10000000000,perfusion-limited,4.8,3.13293150128596
+brain ECF,10000000000,perfusion-limited,4.9,3.04808456768176
+brain ECF,10000000000,perfusion-limited,5,2.96565271579299
+brain ECF,10000000000,perfusion-limited,5.1,2.88556648033641
+brain ECF,10000000000,perfusion-limited,5.2,2.80775839790622
+brain ECF,10000000000,perfusion-limited,5.3,2.73216294928108
+brain ECF,10000000000,perfusion-limited,5.4,2.65871650338213
+brain ECF,10000000000,perfusion-limited,5.5,2.58735726287118
+brain ECF,10000000000,perfusion-limited,5.6,2.518025211291
+brain ECF,10000000000,perfusion-limited,5.7,2.45066206168819
+brain ECF,10000000000,perfusion-limited,5.8,2.38521120681787
+brain ECF,10000000000,perfusion-limited,5.9,2.32161767074388
+brain ECF,10000000000,perfusion-limited,6,2.25982806182354
+brain ECF,10000000000,perfusion-limited,6.1,2.19979052703226
+brain ECF,10000000000,perfusion-limited,6.2,2.14145470760778
+brain ECF,10000000000,perfusion-limited,6.3,2.08477169599124
+brain ECF,10000000000,perfusion-limited,6.4,2.02969399400308
+brain ECF,10000000000,perfusion-limited,6.5,1.97617547218017
+brain ECF,10000000000,perfusion-limited,6.6,1.92417133038467
+brain ECF,10000000000,perfusion-limited,6.7,1.87363805935577
+brain ECF,10000000000,perfusion-limited,6.8,1.82453340368184
+brain ECF,10000000000,perfusion-limited,6.9,1.776816325578
+brain ECF,10000000000,perfusion-limited,7,1.73044696977627
+brain ECF,10000000000,perfusion-limited,7.1,1.68538662945356
+brain ECF,10000000000,perfusion-limited,7.2,1.64159771312177
+brain ECF,10000000000,perfusion-limited,7.3,1.5990437124619
+brain ECF,10000000000,perfusion-limited,7.4,1.55768917110916
+brain ECF,10000000000,perfusion-limited,7.5,1.5174996542445
+brain ECF,10000000000,perfusion-limited,7.6,1.47844171932801
+brain ECF,10000000000,perfusion-limited,7.7,1.44048288739343
+brain ECF,10000000000,perfusion-limited,7.8,1.40359161526647
+brain ECF,10000000000,perfusion-limited,7.9,1.36773726859105
+brain ECF,10000000000,perfusion-limited,8,1.33289009570676
+brain ECF,10000000000,perfusion-limited,8.1,1.29902120197672
+brain ECF,10000000000,perfusion-limited,8.2,1.26610252526951
+brain ECF,10000000000,perfusion-limited,8.3,1.23410681196155
+brain ECF,10000000000,perfusion-limited,8.4,1.20300759359133
+brain ECF,10000000000,perfusion-limited,8.5,1.17277916424281
+brain ECF,10000000000,perfusion-limited,8.6,1.14339655850884
+brain ECF,10000000000,perfusion-limited,8.7,1.11483553011864
+brain ECF,10000000000,perfusion-limited,8.8,1.0870725313431
+brain ECF,10000000000,perfusion-limited,8.9,1.06008469275249
+brain ECF,10000000000,perfusion-limited,9,1.03384980369972
+brain ECF,10000000000,perfusion-limited,9.1,1.00834629324818
+brain ECF,10000000000,perfusion-limited,9.2,0.983553211740057
+brain ECF,10000000000,perfusion-limited,9.3,0.959450213037175
+brain ECF,10000000000,perfusion-limited,9.4,0.936017537005554
+brain ECF,10000000000,perfusion-limited,9.5,0.91323599267165
+brain ECF,10000000000,perfusion-limited,9.6,0.891086941636519
+brain ECF,10000000000,perfusion-limited,9.7,0.869552282376081
+brain ECF,10000000000,perfusion-limited,9.8,0.848614434666547
+brain ECF,10000000000,perfusion-limited,9.9,0.828256324595904
+brain ECF,10000000000,perfusion-limited,10,0.808461369798726
+brain ECF,10000000000,perfusion-limited,10.1,0.789213465437564
+brain ECF,10000000000,perfusion-limited,10.2,0.770496970489124
+brain ECF,10000000000,perfusion-limited,10.3,0.752296694317401
+brain ECF,10000000000,perfusion-limited,10.4,0.734597883559906
+brain ECF,10000000000,perfusion-limited,10.5,0.717386209641524
+brain ECF,10000000000,perfusion-limited,10.6,0.70064775657076
+brain ECF,10000000000,perfusion-limited,10.7,0.684369009043375
+brain ECF,10000000000,perfusion-limited,10.8,0.668536840651182
+brain ECF,10000000000,perfusion-limited,10.9,0.653138502909631
+brain ECF,10000000000,perfusion-limited,11,0.638161614369628
+brain ECF,10000000000,perfusion-limited,11.1,0.623594149987641
+brain ECF,10000000000,perfusion-limited,11.2,0.609424430650618
+brain ECF,10000000000,perfusion-limited,11.3,0.59564111356122
+brain ECF,10000000000,perfusion-limited,11.4,0.582233182380915
+brain ECF,10000000000,perfusion-limited,11.5,0.569189937661699
+brain ECF,10000000000,perfusion-limited,11.6,0.556500987916563
+brain ECF,10000000000,perfusion-limited,11.7,0.544156240734114
+brain ECF,10000000000,perfusion-limited,11.8,0.53214589406973
+brain ECF,10000000000,perfusion-limited,11.9,0.520460427735699
+brain ECF,10000000000,perfusion-limited,12,0.509090595628953
+brain ECF,10000000000,perfusion-limited,12.1,0.498027417671233
+brain ECF,10000000000,perfusion-limited,12.2,0.487262171874384
+brain ECF,10000000000,perfusion-limited,12.3,0.476786387350909
+brain ECF,10000000000,perfusion-limited,12.4,0.466591836881565
+brain ECF,10000000000,perfusion-limited,12.5,0.456670529655346
+brain ECF,10000000000,perfusion-limited,12.6,0.447014704836038
+brain ECF,10000000000,perfusion-limited,12.7,0.437616824838881
+brain ECF,10000000000,perfusion-limited,12.8,0.428469568560842
+brain ECF,10000000000,perfusion-limited,12.9,0.419565825566824
+brain ECF,10000000000,perfusion-limited,13,0.410898689929697
+brain ECF,10000000000,perfusion-limited,13.1,0.402461453980609
+brain ECF,10000000000,perfusion-limited,13.2,0.394247603102813
+brain ECF,10000000000,perfusion-limited,13.3,0.386250809962355
+brain ECF,10000000000,perfusion-limited,13.4,0.37846492883482
+brain ECF,10000000000,perfusion-limited,13.5,0.370883990851209
+brain ECF,10000000000,perfusion-limited,13.6,0.363502198606629
+brain ECF,10000000000,perfusion-limited,13.7,0.356313921158629
+brain ECF,10000000000,perfusion-limited,13.8,0.349313689544575
+brain ECF,10000000000,perfusion-limited,13.9,0.342496191743244
+brain ECF,10000000000,perfusion-limited,14,0.335856268329324
+brain ECF,10000000000,perfusion-limited,14.1,0.329388908248268
+brain ECF,10000000000,perfusion-limited,14.2,0.323089244067069
+brain ECF,10000000000,perfusion-limited,14.3,0.316952548372289
+brain ECF,10000000000,perfusion-limited,14.4,0.31097422944522
+brain ECF,10000000000,perfusion-limited,14.5,0.305149827257723
+brain ECF,10000000000,perfusion-limited,14.6,0.299475010037404
+brain ECF,10000000000,perfusion-limited,14.7,0.293945570137076
+brain ECF,10000000000,perfusion-limited,14.8,0.28855742076694
+brain ECF,10000000000,perfusion-limited,14.9,0.283306592543726
+brain ECF,10000000000,perfusion-limited,15,0.278189229656178
+brain ECF,10000000000,perfusion-limited,15.1,0.273201587249101
+brain ECF,10000000000,perfusion-limited,15.2,0.268340027616305
+brain ECF,10000000000,perfusion-limited,15.3,0.263601017539532
+brain ECF,10000000000,perfusion-limited,15.4,0.258981125164002
+brain ECF,10000000000,perfusion-limited,15.5,0.254477016843875
+brain ECF,10000000000,perfusion-limited,15.6,0.250085454783398
+brain ECF,10000000000,perfusion-limited,15.7,0.245803293725696
+brain ECF,10000000000,perfusion-limited,15.8,0.241627478770278
+brain ECF,10000000000,perfusion-limited,15.9,0.23755504246197
+brain ECF,10000000000,perfusion-limited,16,0.233583102335005
+brain ECF,10000000000,perfusion-limited,16.1,0.229708858701752
+brain ECF,10000000000,perfusion-limited,16.2,0.2259295917288
+brain ECF,10000000000,perfusion-limited,16.3,0.222242659825922
+brain ECF,10000000000,perfusion-limited,16.4,0.21864549670804
+brain ECF,10000000000,perfusion-limited,16.5,0.215135609837173
+brain ECF,10000000000,perfusion-limited,16.6,0.211710577821934
+brain ECF,10000000000,perfusion-limited,16.7,0.208368048671651
+brain ECF,10000000000,perfusion-limited,16.8,0.205105737703945
+brain ECF,10000000000,perfusion-limited,16.9,0.201921425466469
+brain ECF,10000000000,perfusion-limited,17,0.198812956210955
+brain ECF,10000000000,perfusion-limited,17.1,0.195778235538988
+brain ECF,10000000000,perfusion-limited,17.2,0.192815229225471
+brain ECF,10000000000,perfusion-limited,17.3,0.189921960934493
+brain ECF,10000000000,perfusion-limited,17.4,0.187096511039079
+brain ECF,10000000000,perfusion-limited,17.5,0.184337014519666
+brain ECF,10000000000,perfusion-limited,17.6,0.181641659842342
+brain ECF,10000000000,perfusion-limited,17.7,0.179008687008507
+brain ECF,10000000000,perfusion-limited,17.8,0.176436386434138
+brain ECF,10000000000,perfusion-limited,17.9,0.173923097208924
+brain ECF,10000000000,perfusion-limited,18,0.171467205902462
+brain ECF,10000000000,perfusion-limited,18.1,0.16906714507892
+brain ECF,10000000000,perfusion-limited,18.2,0.166721391995117
+brain ECF,10000000000,perfusion-limited,18.3,0.164428467385181
+brain ECF,10000000000,perfusion-limited,18.4,0.162186934039896
+brain ECF,10000000000,perfusion-limited,18.5,0.159995395863937
+brain ECF,10000000000,perfusion-limited,18.6,0.15785249632862
+brain ECF,10000000000,perfusion-limited,18.7,0.155756917826179
+brain ECF,10000000000,perfusion-limited,18.8,0.153707379908089
+brain ECF,10000000000,perfusion-limited,18.9,0.151702638928037
+brain ECF,10000000000,perfusion-limited,19,0.149741486285601
+brain ECF,10000000000,perfusion-limited,19.1,0.1478227480585
+brain ECF,10000000000,perfusion-limited,19.2,0.145945283456541
+brain ECF,10000000000,perfusion-limited,19.3,0.144107984321524
+brain ECF,10000000000,perfusion-limited,19.4,0.142309773829047
+brain ECF,10000000000,perfusion-limited,19.5,0.140549605863522
+brain ECF,10000000000,perfusion-limited,19.6,0.138826463925431
+brain ECF,10000000000,perfusion-limited,19.7,0.137139360429086
+brain ECF,10000000000,perfusion-limited,19.8,0.135487335772082
+brain ECF,10000000000,perfusion-limited,19.9,0.133869457581683
+brain ECF,10000000000,perfusion-limited,20,0.132284819927331
+brain ECF,10000000000,perfusion-limited,20.1,0.130732542545167
+brain ECF,10000000000,perfusion-limited,20.2,0.12921177013659
+brain ECF,10000000000,perfusion-limited,20.3,0.12772167151201
+brain ECF,10000000000,perfusion-limited,20.4,0.126261439195951
+brain ECF,10000000000,perfusion-limited,20.5,0.124830288295271
+brain ECF,10000000000,perfusion-limited,20.6,0.123427456423516
+brain ECF,10000000000,perfusion-limited,20.7,0.122052202407749
+brain ECF,10000000000,perfusion-limited,20.8,0.120703806359144
+brain ECF,10000000000,perfusion-limited,20.9,0.11938156839254
+brain ECF,10000000000,perfusion-limited,21,0.11808480865316
+brain ECF,10000000000,perfusion-limited,21.1,0.116812866259469
+brain ECF,10000000000,perfusion-limited,21.2,0.115565099073293
+brain ECF,10000000000,perfusion-limited,21.3,0.114340883033201
+brain ECF,10000000000,perfusion-limited,21.4,0.113139611592024
+brain ECF,10000000000,perfusion-limited,21.5,0.11196069539703
+brain ECF,10000000000,perfusion-limited,21.6,0.11080356151424
+brain ECF,10000000000,perfusion-limited,21.7,0.109667653333028
+brain ECF,10000000000,perfusion-limited,21.8,0.108552429585112
+brain ECF,10000000000,perfusion-limited,21.9,0.10745736455519
+brain ECF,10000000000,perfusion-limited,22,0.106381946948958
+brain ECF,10000000000,perfusion-limited,22.1,0.105325679978247
+brain ECF,10000000000,perfusion-limited,22.2,0.10428808081318
+brain ECF,10000000000,perfusion-limited,22.3,0.103268679974419
+brain ECF,10000000000,perfusion-limited,22.4,0.102267021381078
+brain ECF,10000000000,perfusion-limited,22.5,0.101282661421793
+brain ECF,10000000000,perfusion-limited,22.6,0.100315169151074
+brain ECF,10000000000,perfusion-limited,22.7,0.0993641254621494
+brain ECF,10000000000,perfusion-limited,22.8,0.098429123011001
+brain ECF,10000000000,perfusion-limited,22.9,0.0975097658806923
+brain ECF,10000000000,perfusion-limited,23,0.0966056690214231
+brain ECF,10000000000,perfusion-limited,23.1,0.0957164583267961
+brain ECF,10000000000,perfusion-limited,23.2,0.0948417698579855
+brain ECF,10000000000,perfusion-limited,23.3,0.0939812500174341
+brain ECF,10000000000,perfusion-limited,23.4,0.0931345548738324
+brain ECF,10000000000,perfusion-limited,23.5,0.0923013500162293
+brain ECF,10000000000,perfusion-limited,23.6,0.0914813105100382
+brain ECF,10000000000,perfusion-limited,23.7,0.0906741201330427
+brain ECF,10000000000,perfusion-limited,23.8,0.0898794716750744
+brain ECF,10000000000,perfusion-limited,23.9,0.0890970662973903
+brain ECF,10000000000,perfusion-limited,24,0.0883266132570551
+scsf,20,in situ perfusion,0,0
+scsf,20,in situ perfusion,0.1,0.126966595930812
+scsf,20,in situ perfusion,0.2,0.692159878563751
+scsf,20,in situ perfusion,0.3,1.47403314918394
+scsf,20,in situ perfusion,0.4,2.16219386789081
+scsf,20,in situ perfusion,0.5,2.71674618466026
+scsf,20,in situ perfusion,0.6,3.16601681916271
+scsf,20,in situ perfusion,0.7,3.5407781861192
+scsf,20,in situ perfusion,0.8,3.86245996925347
+scsf,20,in situ perfusion,0.9,4.14428764434848
+scsf,20,in situ perfusion,1,4.39419096095664
+scsf,20,in situ perfusion,1.1,4.61703427742372
+scsf,20,in situ perfusion,1.2,4.81598864325258
+scsf,20,in situ perfusion,1.3,4.99330299336017
+scsf,20,in situ perfusion,1.4,5.15071839611367
+scsf,20,in situ perfusion,1.5,5.28968538396574
+scsf,20,in situ perfusion,1.6,5.41147685993439
+scsf,20,in situ perfusion,1.7,5.5172468732115
+scsf,20,in situ perfusion,1.8,5.60806170253419
+scsf,20,in situ perfusion,1.9,5.68491686799991
+scsf,20,in situ perfusion,2,5.74874700099825
+scsf,20,in situ perfusion,2.1,5.80043207437561
+scsf,20,in situ perfusion,2.2,5.84080174930759
+scsf,20,in situ perfusion,2.3,5.87063872462568
+scsf,20,in situ perfusion,2.4,5.89068152890774
+scsf,20,in situ perfusion,2.5,5.90162698322057
+scsf,20,in situ perfusion,2.6,5.90413244300638
+scsf,20,in situ perfusion,2.7,5.89881788275593
+scsf,20,in situ perfusion,2.8,5.88626785578599
+scsf,20,in situ perfusion,2.9,5.86703334197734
+scsf,20,in situ perfusion,3,5.8416334989715
+scsf,20,in situ perfusion,3.1,5.81055732282021
+scsf,20,in situ perfusion,3.2,5.77426523096735
+scsf,20,in situ perfusion,3.3,5.73319056054353
+scsf,20,in situ perfusion,3.4,5.68774098842519
+scsf,20,in situ perfusion,3.5,5.63829988419977
+scsf,20,in situ perfusion,3.6,5.5852275956972
+scsf,20,in situ perfusion,3.7,5.52886267071158
+scsf,20,in situ perfusion,3.8,5.46952302012314
+scsf,20,in situ perfusion,3.9,5.40750701751594
+scsf,20,in situ perfusion,4,5.34309454249773
+scsf,20,in situ perfusion,4.1,5.27654797420103
+scsf,20,in situ perfusion,4.2,5.20811313633982
+scsf,20,in situ perfusion,4.3,5.1380201936861
+scsf,20,in situ perfusion,4.4,5.06648450181497
+scsf,20,in situ perfusion,4.5,4.99370741534103
+scsf,20,in situ perfusion,4.6,4.919877053667
+scsf,20,in situ perfusion,4.7,4.84516902811564
+scsf,20,in situ perfusion,4.8,4.76974713244601
+scsf,20,in situ perfusion,4.9,4.69376399819725
+scsf,20,in situ perfusion,5,4.61736171628398
+scsf,20,in situ perfusion,5.1,4.54067242620508
+scsf,20,in situ perfusion,5.2,4.46381887701026
+scsf,20,in situ perfusion,5.3,4.38691495683556
+scsf,20,in situ perfusion,5.4,4.31006619582099
+scsf,20,in situ perfusion,5.5,4.23337024322836
+scsf,20,in situ perfusion,5.6,4.15691732012269
+scsf,20,in situ perfusion,5.7,4.08079064842302
+scsf,20,in situ perfusion,5.8,4.0050668570794
+scsf,20,in situ perfusion,5.9,3.92981636773953
+scsf,20,in situ perfusion,6,3.85510376000391
+scsf,20,in situ perfusion,6.1,3.78098811697872
+scsf,20,in situ perfusion,6.2,3.7075233527126
+scsf,20,in situ perfusion,6.3,3.63475852227557
+scsf,20,in situ perfusion,6.4,3.56273811656199
+scsf,20,in situ perfusion,6.5,3.49150234021115
+scsf,20,in situ perfusion,6.6,3.42108737414972
+scsf,20,in situ perfusion,6.7,3.35152562614212
+scsf,20,in situ perfusion,6.8,3.2828459661736
+scsf,20,in situ perfusion,6.9,3.21507394951919
+scsf,20,in situ perfusion,7,3.14823202777401
+scsf,20,in situ perfusion,7.1,3.08233974843746
+scsf,20,in situ perfusion,7.2,3.01741394370758
+scsf,20,in situ perfusion,7.3,2.95346890998615
+scsf,20,in situ perfusion,7.4,2.89051657456623
+scsf,20,in situ perfusion,7.5,2.82856665636262
+scsf,20,in situ perfusion,7.6,2.76762681599474
+scsf,20,in situ perfusion,7.7,2.70770279786048
+scsf,20,in situ perfusion,7.8,2.64879856389851
+scsf,20,in situ perfusion,7.9,2.59091642115551
+scsf,20,in situ perfusion,8,2.53405714051663
+scsf,20,in situ perfusion,8.1,2.47822006924198
+scsf,20,in situ perfusion,8.2,2.42340323746354
+scsf,20,in situ perfusion,8.3,2.36960345834849
+scsf,20,in situ perfusion,8.4,2.31681642220395
+scsf,20,in situ perfusion,8.5,2.26503678692842
+scsf,20,in situ perfusion,8.6,2.21425825958894
+scsf,20,in situ perfusion,8.7,2.16447367570326
+scsf,20,in situ perfusion,8.8,2.11567507368465
+scsf,20,in situ perfusion,8.9,2.06785376422351
+scsf,20,in situ perfusion,9,2.02100039684397
+scsf,20,in situ perfusion,9.1,1.97510502012666
+scsf,20,in situ perfusion,9.2,1.93015714000896
+scsf,20,in situ perfusion,9.3,1.88614577404559
+scsf,20,in situ perfusion,9.4,1.84305950194011
+scsf,20,in situ perfusion,9.5,1.80088651484495
+scsf,20,in situ perfusion,9.6,1.7596146575884
+scsf,20,in situ perfusion,9.7,1.7192314718131
+scsf,20,in situ perfusion,9.8,1.67972423484645
+scsf,20,in situ perfusion,9.9,1.64107999721818
+scsf,20,in situ perfusion,10,1.6032856156825
+scsf,20,in situ perfusion,10.1,1.56632778552478
+scsf,20,in situ perfusion,10.2,1.53019307018597
+scsf,20,in situ perfusion,10.3,1.49486793009427
+scsf,20,in situ perfusion,10.4,1.46033874726864
+scsf,20,in situ perfusion,10.5,1.42659184940749
+scsf,20,in situ perfusion,10.6,1.3936135323915
+scsf,20,in situ perfusion,10.7,1.36139008190442
+scsf,20,in situ perfusion,10.8,1.32990779137817
+scsf,20,in situ perfusion,10.9,1.29915298017354
+scsf,20,in situ perfusion,11,1.26911200972801
+scsf,20,in situ perfusion,11.1,1.23977130012565
+scsf,20,in situ perfusion,11.2,1.21111734214363
+scsf,20,in situ perfusion,11.3,1.18313671071008
+scsf,20,in situ perfusion,11.4,1.15581607744637
+scsf,20,in situ perfusion,11.5,1.12914222042492
+scsf,20,in situ perfusion,11.6,1.10310203410897
+scsf,20,in situ perfusion,11.7,1.07768253859278
+scsf,20,in situ perfusion,11.8,1.05287088807808
+scsf,20,in situ perfusion,11.9,1.02865437721303
+scsf,20,in situ perfusion,12,1.00502044803076
+scsf,20,in situ perfusion,12.1,0.981956696812982
+scsf,20,in situ perfusion,12.2,0.959450878017459
+scsf,20,in situ perfusion,12.3,0.937490909294719
+scsf,20,in situ perfusion,12.4,0.916064876424544
+scsf,20,in situ perfusion,12.5,0.895161035698206
+scsf,20,in situ perfusion,12.6,0.874767817395212
+scsf,20,in situ perfusion,12.7,0.854873829006749
+scsf,20,in situ perfusion,12.8,0.835467856601326
+scsf,20,in situ perfusion,12.9,0.816538866791369
+scsf,20,in situ perfusion,13,0.798076008619211
+scsf,20,in situ perfusion,13.1,0.78006861411652
+scsf,20,in situ perfusion,13.2,0.762506198931466
+scsf,20,in situ perfusion,13.3,0.745378463591519
+scsf,20,in situ perfusion,13.4,0.728675292629761
+scsf,20,in situ perfusion,13.5,0.712386754860958
+scsf,20,in situ perfusion,13.6,0.696503103536138
+scsf,20,in situ perfusion,13.7,0.681014774888336
+scsf,20,in situ perfusion,13.8,0.665912387976032
+scsf,20,in situ perfusion,13.9,0.651186743692362
+scsf,20,in situ perfusion,14,0.636828823234484
+scsf,20,in situ perfusion,14.1,0.622829787272946
+scsf,20,in situ perfusion,14.2,0.609180974319338
+scsf,20,in situ perfusion,14.3,0.595873898947967
+scsf,20,in situ perfusion,14.4,0.582900250694093
+scsf,20,in situ perfusion,14.5,0.570251891534634
+scsf,20,in situ perfusion,14.6,0.557920854500592
+scsf,20,in situ perfusion,14.7,0.545899341530226
+scsf,20,in situ perfusion,14.8,0.534179721253413
+scsf,20,in situ perfusion,14.9,0.522754527213691
+scsf,20,in situ perfusion,15,0.511616455296164
+scsf,20,in situ perfusion,15.1,0.500758361690701
+scsf,20,in situ perfusion,15.2,0.490173260588065
+scsf,20,in situ perfusion,15.3,0.479854321657695
+scsf,20,in situ perfusion,15.4,0.469794867955919
+scsf,20,in situ perfusion,15.5,0.459988373223984
+scsf,20,in situ perfusion,15.6,0.450428459668481
+scsf,20,in situ perfusion,15.7,0.44110889540232
+scsf,20,in situ perfusion,15.8,0.432023591971751
+scsf,20,in situ perfusion,15.9,0.423166601978516
+scsf,20,in situ perfusion,16,0.414532116472126
+scsf,20,in situ perfusion,16.1,0.406114462572398
+scsf,20,in situ perfusion,16.2,0.397908100918817
+scsf,20,in situ perfusion,16.3,0.389907623234757
+scsf,20,in situ perfusion,16.4,0.382107749828589
+scsf,20,in situ perfusion,16.5,0.374503327169548
+scsf,20,in situ perfusion,16.6,0.367089325379152
+scsf,20,in situ perfusion,16.7,0.359860835889726
+scsf,20,in situ perfusion,16.8,0.352813068914699
+scsf,20,in situ perfusion,16.9,0.345941351186981
+scsf,20,in situ perfusion,17,0.339241123447336
+scsf,20,in situ perfusion,17.1,0.332707938223735
+scsf,20,in situ perfusion,17.2,0.326337457399614
+scsf,20,in situ perfusion,17.3,0.320125449975432
+scsf,20,in situ perfusion,17.4,0.314067789793306
+scsf,20,in situ perfusion,17.5,0.3081604532093
+scsf,20,in situ perfusion,17.6,0.302399517056265
+scsf,20,in situ perfusion,17.7,0.296781156178786
+scsf,20,in situ perfusion,17.8,0.291301641629959
+scsf,20,in situ perfusion,17.9,0.285957338120327
+scsf,20,in situ perfusion,18,0.280744702395311
+scsf,20,in situ perfusion,18.1,0.275660280663204
+scsf,20,in situ perfusion,18.2,0.270700707100844
+scsf,20,in situ perfusion,18.3,0.265862701312004
+scsf,20,in situ perfusion,18.4,0.261143066904201
+scsf,20,in situ perfusion,18.5,0.256538689026051
+scsf,20,in situ perfusion,18.6,0.252046532984018
+scsf,20,in situ perfusion,18.7,0.247663641874885
+scsf,20,in situ perfusion,18.8,0.243387135242671
+scsf,20,in situ perfusion,18.9,0.239214206802657
+scsf,20,in situ perfusion,19,0.235142123142801
+scsf,20,in situ perfusion,19.1,0.231168221554648
+scsf,20,in situ perfusion,19.2,0.22728990876156
+scsf,20,in situ perfusion,19.3,0.223504658759545
+scsf,20,in situ perfusion,19.4,0.2198100117796
+scsf,20,in situ perfusion,19.5,0.216203571998052
+scsf,20,in situ perfusion,19.6,0.212683006738961
+scsf,20,in situ perfusion,19.7,0.209246044122153
+scsf,20,in situ perfusion,19.8,0.205890472399213
+scsf,20,in situ perfusion,19.9,0.202614137635154
+scsf,20,in situ perfusion,20,0.199414943107044
+scsf,20,in situ perfusion,20.1,0.196290847054322
+scsf,20,in situ perfusion,20.2,0.193239862132731
+scsf,20,in situ perfusion,20.3,0.190260053247697
+scsf,20,in situ perfusion,20.4,0.187349536965315
+scsf,20,in situ perfusion,20.5,0.184506479631224
+scsf,20,in situ perfusion,20.6,0.181729096578091
+scsf,20,in situ perfusion,20.7,0.179015650516845
+scsf,20,in situ perfusion,20.8,0.176364450482962
+scsf,20,in situ perfusion,20.9,0.173773850826179
+scsf,20,in situ perfusion,21,0.171242249566436
+scsf,20,in situ perfusion,21.1,0.168768088024143
+scsf,20,in situ perfusion,21.2,0.166349848782696
+scsf,20,in situ perfusion,21.3,0.163986055649408
+scsf,20,in situ perfusion,21.4,0.161675271571277
+scsf,20,in situ perfusion,21.5,0.159416098485336
+scsf,20,in situ perfusion,21.6,0.157207175729478
+scsf,20,in situ perfusion,21.7,0.155047179310881
+scsf,20,in situ perfusion,21.8,0.152934821033858
+scsf,20,in situ perfusion,21.9,0.150868847204724
+scsf,20,in situ perfusion,22,0.148848038302713
+scsf,20,in situ perfusion,22.1,0.146871207361914
+scsf,20,in situ perfusion,22.2,0.144937199986387
+scsf,20,in situ perfusion,22.3,0.143044892503712
+scsf,20,in situ perfusion,22.4,0.141193191993588
+scsf,20,in situ perfusion,22.5,0.139381035093267
+scsf,20,in situ perfusion,22.6,0.137607387032726
+scsf,20,in situ perfusion,22.7,0.135871241578428
+scsf,20,in situ perfusion,22.8,0.13417161925769
+scsf,20,in situ perfusion,22.9,0.132507567688001
+scsf,20,in situ perfusion,23,0.13087816006668
+scsf,20,in situ perfusion,23.1,0.129282494813943
+scsf,20,in situ perfusion,23.2,0.127719695113714
+scsf,20,in situ perfusion,23.3,0.126188907604141
+scsf,20,in situ perfusion,23.4,0.124689302648717
+scsf,20,in situ perfusion,23.5,0.123220072746762
+scsf,20,in situ perfusion,23.6,0.121780432633777
+scsf,20,in situ perfusion,23.7,0.120369618487267
+scsf,20,in situ perfusion,23.8,0.11898688704924
+scsf,20,in situ perfusion,23.9,0.117631515689924
+scsf,20,in situ perfusion,24,0.116302801148647
+scsf,5,in vitro cell-based,0,0
+scsf,5,in vitro cell-based,0.1,0.0593967221914441
+scsf,5,in vitro cell-based,0.2,0.344286350694266
+scsf,5,in vitro cell-based,0.3,0.814283868666603
+scsf,5,in vitro cell-based,0.4,1.33455744482275
+scsf,5,in vitro cell-based,0.5,1.84346875879375
+scsf,5,in vitro cell-based,0.6,2.31705376269376
+scsf,5,in vitro cell-based,0.7,2.74828975931731
+scsf,5,in vitro cell-based,0.8,3.13732703310653
+scsf,5,in vitro cell-based,0.9,3.48700436976038
+scsf,5,in vitro cell-based,1,3.80087687838574
+scsf,5,in vitro cell-based,1.1,4.08241397515571
+scsf,5,in vitro cell-based,1.2,4.33472473837685
+scsf,5,in vitro cell-based,1.3,4.56050786367666
+scsf,5,in vitro cell-based,1.4,4.7620872627557
+scsf,5,in vitro cell-based,1.5,4.94147220479853
+scsf,5,in vitro cell-based,1.6,5.10041714243695
+scsf,5,in vitro cell-based,1.7,5.24047268255737
+scsf,5,in vitro cell-based,1.8,5.36302610236212
+scsf,5,in vitro cell-based,1.9,5.46933244854099
+scsf,5,in vitro cell-based,2,5.56053800710489
+scsf,5,in vitro cell-based,2.1,5.63769791957676
+scsf,5,in vitro cell-based,2.2,5.70178943154684
+scsf,5,in vitro cell-based,2.3,5.75372195604689
+scsf,5,in vitro cell-based,2.4,5.79434481102831
+scsf,5,in vitro cell-based,2.5,5.82445329237468
+scsf,5,in vitro cell-based,2.6,5.84479353778707
+scsf,5,in vitro cell-based,2.7,5.85606650159192
+scsf,5,in vitro cell-based,2.8,5.85893129997047
+scsf,5,in vitro cell-based,2.9,5.85400807878747
+scsf,5,in vitro cell-based,3,5.84188051117867
+scsf,5,in vitro cell-based,3.1,5.82309802996994
+scsf,5,in vitro cell-based,3.2,5.79817784319592
+scsf,5,in vitro cell-based,3.3,5.76760678424632
+scsf,5,in vitro cell-based,3.4,5.7318430032335
+scsf,5,in vitro cell-based,3.5,5.69131755008331
+scsf,5,in vitro cell-based,3.6,5.64643585432673
+scsf,5,in vitro cell-based,3.7,5.59757910706225
+scsf,5,in vitro cell-based,3.8,5.54510557838374
+scsf,5,in vitro cell-based,3.9,5.48935184714026
+scsf,5,in vitro cell-based,4,5.43063396226001
+scsf,5,in vitro cell-based,4.1,5.36924854524588
+scsf,5,in vitro cell-based,4.2,5.30547383796967
+scsf,5,in vitro cell-based,4.3,5.23957069484637
+scsf,5,in vitro cell-based,4.4,5.17178352123145
+scsf,5,in vitro cell-based,4.5,5.10234116655221
+scsf,5,in vitro cell-based,4.6,5.03145776868104
+scsf,5,in vitro cell-based,4.7,4.95933355561024
+scsf,5,in vitro cell-based,4.8,4.88615560708518
+scsf,5,in vitro cell-based,4.9,4.81209857752142
+scsf,5,in vitro cell-based,5,4.73732538214551
+scsf,5,in vitro cell-based,5.1,4.66198784624138
+scsf,5,in vitro cell-based,5.2,4.58622732421008
+scsf,5,in vitro cell-based,5.3,4.51017528388655
+scsf,5,in vitro cell-based,5.4,4.43395386167881
+scsf,5,in vitro cell-based,5.5,4.35767638931866
+scsf,5,in vitro cell-based,5.6,4.28144789371471
+scsf,5,in vitro cell-based,5.7,4.20536557085579
+scsf,5,in vitro cell-based,5.8,4.12951923462046
+scsf,5,in vitro cell-based,5.9,4.05399174302628
+scsf,5,in vitro cell-based,6,3.9788594021144
+scsf,5,in vitro cell-based,6.1,3.9041923481334
+scsf,5,in vitro cell-based,6.2,3.83005490980729
+scsf,5,in vitro cell-based,6.3,3.75650595147383
+scsf,5,in vitro cell-based,6.4,3.68359919974241
+scsf,5,in vitro cell-based,6.5,3.61138355092936
+scsf,5,in vitro cell-based,6.6,3.53990336230978
+scsf,5,in vitro cell-based,6.7,3.46919872973167
+scsf,5,in vitro cell-based,6.8,3.39930574869968
+scsf,5,in vitro cell-based,6.9,3.33025676186988
+scsf,5,in vitro cell-based,7,3.26208059329229
+scsf,5,in vitro cell-based,7.1,3.19480276999875
+scsf,5,in vitro cell-based,7.2,3.12844573201194
+scsf,5,in vitro cell-based,7.3,3.06302903145998
+scsf,5,in vitro cell-based,7.4,2.99856951831618
+scsf,5,in vitro cell-based,7.5,2.93508151912018
+scsf,5,in vitro cell-based,7.6,2.87257700411509
+scsf,5,in vitro cell-based,7.7,2.81106574551967
+scsf,5,in vitro cell-based,7.8,2.75055546659894
+scsf,5,in vitro cell-based,7.9,2.69105198409694
+scsf,5,in vitro cell-based,8,2.63255934047373
+scsf,5,in vitro cell-based,8.1,2.57507992982608
+scsf,5,in vitro cell-based,8.2,2.51861461683793
+scsf,5,in vitro cell-based,8.3,2.46316284878486
+scsf,5,in vitro cell-based,8.4,2.40872276085694
+scsf,5,in vitro cell-based,8.5,2.35529127756375
+scsf,5,in vitro cell-based,8.6,2.30286420398952
+scsf,5,in vitro cell-based,8.7,2.25143631492717
+scsf,5,in vitro cell-based,8.8,2.20100143839996
+scsf,5,in vitro cell-based,8.9,2.15155253362821
+scsf,5,in vitro cell-based,9,2.10308176598898
+scsf,5,in vitro cell-based,9.1,2.05558057467974
+scsf,5,in vitro cell-based,9.2,2.00903973857036
+scsf,5,in vitro cell-based,9.3,1.96344943739154
+scsf,5,in vitro cell-based,9.4,1.91879930889921
+scsf,5,in vitro cell-based,9.5,1.87507850450062
+scsf,5,in vitro cell-based,9.6,1.83227573718867
+scsf,5,in vitro cell-based,9.7,1.79037933046117
+scsf,5,in vitro cell-based,9.8,1.74937726243734
+scsf,5,in vitro cell-based,9.9,1.70925720858419
+scsf,5,in vitro cell-based,10,1.67000657923243
+scsf,5,in vitro cell-based,10.1,1.63161255654381
+scsf,5,in vitro cell-based,10.2,1.59406212833863
+scsf,5,in vitro cell-based,10.3,1.5573421211574
+scsf,5,in vitro cell-based,10.4,1.52143922838034
+scsf,5,in vitro cell-based,10.5,1.48634003807316
+scsf,5,in vitro cell-based,10.6,1.45203105885495
+scsf,5,in vitro cell-based,10.7,1.4184987448924
+scsf,5,in vitro cell-based,10.8,1.38572951665023
+scsf,5,in vitro cell-based,10.9,1.35370978208575
+scsf,5,in vitro cell-based,11,1.32242595543419
+scsf,5,in vitro cell-based,11.1,1.29186447654245
+scsf,5,in vitro cell-based,11.2,1.26201182504509
+scsf,5,in vitro cell-based,11.3,1.23285453623488
+scsf,5,in vitro cell-based,11.4,1.20437921587237
+scsf,5,in vitro cell-based,11.5,1.17657255174717
+scsf,5,in vitro cell-based,11.6,1.14942132562661
+scsf,5,in vitro cell-based,11.7,1.1229124243692
+scsf,5,in vitro cell-based,11.8,1.09703285000092
+scsf,5,in vitro cell-based,11.9,1.07176972765602
+scsf,5,in vitro cell-based,12,1.04711031400332
+scsf,5,in vitro cell-based,12.1,1.02304200567368
+scsf,5,in vitro cell-based,12.2,0.999552344288574
+scsf,5,in vitro cell-based,12.3,0.976629022821285
+scsf,5,in vitro cell-based,12.4,0.954259891810762
+scsf,5,in vitro cell-based,12.5,0.932432962638202
+scsf,5,in vitro cell-based,12.6,0.911136412134181
+scsf,5,in vitro cell-based,12.7,0.8903585868495
+scsf,5,in vitro cell-based,12.8,0.870088005170722
+scsf,5,in vitro cell-based,12.9,0.850313360201247
+scsf,5,in vitro cell-based,13,0.831023522509791
+scsf,5,in vitro cell-based,13.1,0.81220754131195
+scsf,5,in vitro cell-based,13.2,0.793854645822112
+scsf,5,in vitro cell-based,13.3,0.775954247276208
+scsf,5,in vitro cell-based,13.4,0.75849593847829
+scsf,5,in vitro cell-based,13.5,0.741469494727318
+scsf,5,in vitro cell-based,13.6,0.724864874559617
+scsf,5,in vitro cell-based,13.7,0.708672218624986
+scsf,5,in vitro cell-based,13.8,0.692881850122717
+scsf,5,in vitro cell-based,13.9,0.677484274158209
+scsf,5,in vitro cell-based,14,0.662470176585321
+scsf,5,in vitro cell-based,14.1,0.647830423606839
+scsf,5,in vitro cell-based,14.2,0.633556060402918
+scsf,5,in vitro cell-based,14.3,0.619638309656212
+scsf,5,in vitro cell-based,14.4,0.606068570828263
+scsf,5,in vitro cell-based,14.5,0.592838417746358
+scsf,5,in vitro cell-based,14.6,0.579939597581983
+scsf,5,in vitro cell-based,14.7,0.567364028845505
+scsf,5,in vitro cell-based,14.8,0.555103799367245
+scsf,5,in vitro cell-based,14.9,0.543151164767598
+scsf,5,in vitro cell-based,15,0.531498545949587
+scsf,5,in vitro cell-based,15.1,0.520138527281969
+scsf,5,in vitro cell-based,15.2,0.50906385439769
+scsf,5,in vitro cell-based,15.3,0.498267431761254
+scsf,5,in vitro cell-based,15.4,0.487742320759029
+scsf,5,in vitro cell-based,15.5,0.477481736990895
+scsf,5,in vitro cell-based,15.6,0.467479048212754
+scsf,5,in vitro cell-based,15.7,0.457727771797276
+scsf,5,in vitro cell-based,15.8,0.448221572318682
+scsf,5,in vitro cell-based,15.9,0.438954259278002
+scsf,5,in vitro cell-based,16,0.429919784456248
+scsf,5,in vitro cell-based,16.1,0.42111223964756
+scsf,5,in vitro cell-based,16.2,0.412525854072663
+scsf,5,in vitro cell-based,16.3,0.404154992000495
+scsf,5,in vitro cell-based,16.4,0.395994150247624
+scsf,5,in vitro cell-based,16.5,0.388037955740141
+scsf,5,in vitro cell-based,16.6,0.380281163057035
+scsf,5,in vitro cell-based,16.7,0.372718652014208
+scsf,5,in vitro cell-based,16.8,0.36534542519309
+scsf,5,in vitro cell-based,16.9,0.358156605601806
+scsf,5,in vitro cell-based,17,0.351147434195673
+scsf,5,in vitro cell-based,17.1,0.344313267595777
+scsf,5,in vitro cell-based,17.2,0.337649575654069
+scsf,5,in vitro cell-based,17.3,0.33115193917846
+scsf,5,in vitro cell-based,17.4,0.3248160476158
+scsf,5,in vitro cell-based,17.5,0.31863769671354
+scsf,5,in vitro cell-based,17.6,0.312612786409914
+scsf,5,in vitro cell-based,17.7,0.306737318367577
+scsf,5,in vitro cell-based,17.8,0.301007394092037
+scsf,5,in vitro cell-based,17.9,0.29541921237039
+scsf,5,in vitro cell-based,18,0.289969067573516
+scsf,5,in vitro cell-based,18.1,0.284653347064553
+scsf,5,in vitro cell-based,18.2,0.279468529632651
+scsf,5,in vitro cell-based,18.3,0.274411182922335
+scsf,5,in vitro cell-based,18.4,0.269477961945275
+scsf,5,in vitro cell-based,18.5,0.264665606577493
+scsf,5,in vitro cell-based,18.6,0.259970940119031
+scsf,5,in vitro cell-based,18.7,0.255390866876275
+scsf,5,in vitro cell-based,18.8,0.250922370768487
+scsf,5,in vitro cell-based,18.9,0.246562512993908
+scsf,5,in vitro cell-based,19,0.242308430686351
+scsf,5,in vitro cell-based,19.1,0.238157334680952
+scsf,5,in vitro cell-based,19.2,0.234106508206108
+scsf,5,in vitro cell-based,19.3,0.230153304651024
+scsf,5,in vitro cell-based,19.4,0.226295146495237
+scsf,5,in vitro cell-based,19.5,0.222529522946234
+scsf,5,in vitro cell-based,19.6,0.218853989107531
+scsf,5,in vitro cell-based,19.7,0.215266163556889
+scsf,5,in vitro cell-based,19.8,0.211763727646121
+scsf,5,in vitro cell-based,19.9,0.208344423115789
+scsf,5,in vitro cell-based,20,0.205006051456518
+scsf,5,in vitro cell-based,20.1,0.201746471600262
+scsf,5,in vitro cell-based,20.2,0.198563599308673
+scsf,5,in vitro cell-based,20.3,0.195455405004477
+scsf,5,in vitro cell-based,20.4,0.192419913064203
+scsf,5,in vitro cell-based,20.5,0.189455199958656
+scsf,5,in vitro cell-based,20.6,0.186559393344508
+scsf,5,in vitro cell-based,20.7,0.183730670474273
+scsf,5,in vitro cell-based,20.8,0.180967257028125
+scsf,5,in vitro cell-based,20.9,0.178267426122732
+scsf,5,in vitro cell-based,21,0.175629496559057
+scsf,5,in vitro cell-based,21.1,0.173051832464188
+scsf,5,in vitro cell-based,21.2,0.170532841159079
+scsf,5,in vitro cell-based,21.3,0.168070973118632
+scsf,5,in vitro cell-based,21.4,0.165664719814204
+scsf,5,in vitro cell-based,21.5,0.163312613520753
+scsf,5,in vitro cell-based,21.6,0.161013225727313
+scsf,5,in vitro cell-based,21.7,0.158765166298689
+scsf,5,in vitro cell-based,21.8,0.156567082629928
+scsf,5,in vitro cell-based,21.9,0.154417658250182
+scsf,5,in vitro cell-based,22,0.152315612510353
+scsf,5,in vitro cell-based,22.1,0.150259698875659
+scsf,5,in vitro cell-based,22.2,0.148248704952693
+scsf,5,in vitro cell-based,22.3,0.146281450565249
+scsf,5,in vitro cell-based,22.4,0.144356787752144
+scsf,5,in vitro cell-based,22.5,0.142473599583378
+scsf,5,in vitro cell-based,22.6,0.140630799082835
+scsf,5,in vitro cell-based,22.7,0.138827329218147
+scsf,5,in vitro cell-based,22.8,0.137062161029614
+scsf,5,in vitro cell-based,22.9,0.135334293944166
+scsf,5,in vitro cell-based,23,0.133642754274986
+scsf,5,in vitro cell-based,23.1,0.131986594756412
+scsf,5,in vitro cell-based,23.2,0.130364894132872
+scsf,5,in vitro cell-based,23.3,0.128776755749731
+scsf,5,in vitro cell-based,23.4,0.127221307854982
+scsf,5,in vitro cell-based,23.5,0.125697701937131
+scsf,5,in vitro cell-based,23.6,0.124205112806012
+scsf,5,in vitro cell-based,23.7,0.122742737808197
+scsf,5,in vitro cell-based,23.8,0.121309795858646
+scsf,5,in vitro cell-based,23.9,0.119905527533779
+scsf,5,in vitro cell-based,24,0.11852919376295
+scsf,0.076,in vitro PAMPA,0,0
+scsf,0.076,in vitro PAMPA,0.1,0.00357936441758183
+scsf,0.076,in vitro PAMPA,0.2,0.0237376443166099
+scsf,0.076,in vitro PAMPA,0.3,0.0596625533045952
+scsf,0.076,in vitro PAMPA,0.4,0.100902574419588
+scsf,0.076,in vitro PAMPA,0.5,0.142843611596986
+scsf,0.076,in vitro PAMPA,0.6,0.18401623427113
+scsf,0.076,in vitro PAMPA,0.7,0.224155261191916
+scsf,0.076,in vitro PAMPA,0.8,0.263385746833542
+scsf,0.076,in vitro PAMPA,0.9,0.301906161781782
+scsf,0.076,in vitro PAMPA,1,0.339882120768446
+scsf,0.076,in vitro PAMPA,1.1,0.377423408117222
+scsf,0.076,in vitro PAMPA,1.2,0.414589937580436
+scsf,0.076,in vitro PAMPA,1.3,0.451404813580436
+scsf,0.076,in vitro PAMPA,1.4,0.487866671405611
+scsf,0.076,in vitro PAMPA,1.5,0.523959177820131
+scsf,0.076,in vitro PAMPA,1.6,0.559657672807608
+scsf,0.076,in vitro PAMPA,1.7,0.594933546856772
+scsf,0.076,in vitro PAMPA,1.8,0.629757002035094
+scsf,0.076,in vitro PAMPA,1.9,0.664098725261117
+scsf,0.076,in vitro PAMPA,2,0.697930856845822
+scsf,0.076,in vitro PAMPA,2.1,0.731227514670196
+scsf,0.076,in vitro PAMPA,2.2,0.763965045082015
+scsf,0.076,in vitro PAMPA,2.3,0.796122108343804
+scsf,0.076,in vitro PAMPA,2.4,0.827679667417269
+scsf,0.076,in vitro PAMPA,2.5,0.858620920895268
+scsf,0.076,in vitro PAMPA,2.6,0.888931206073679
+scsf,0.076,in vitro PAMPA,2.7,0.918597887228014
+scsf,0.076,in vitro PAMPA,2.8,0.947610237693498
+scsf,0.076,in vitro PAMPA,2.9,0.975959321594781
+scsf,0.076,in vitro PAMPA,3,1.00363787783912
+scsf,0.076,in vitro PAMPA,3.1,1.03064020794015
+scsf,0.076,in vitro PAMPA,3.2,1.05696206869474
+scsf,0.076,in vitro PAMPA,3.3,1.08260057028504
+scsf,0.076,in vitro PAMPA,3.4,1.10755407958959
+scsf,0.076,in vitro PAMPA,3.5,1.13182212845289
+scsf,0.076,in vitro PAMPA,3.6,1.15540532680098
+scsf,0.076,in vitro PAMPA,3.7,1.17830528116798
+scsf,0.076,in vitro PAMPA,3.8,1.2005245180078
+scsf,0.076,in vitro PAMPA,3.9,1.22206641118679
+scsf,0.076,in vitro PAMPA,4,1.2429351135389
+scsf,0.076,in vitro PAMPA,4.1,1.26313549254052
+scsf,0.076,in vitro PAMPA,4.2,1.28267306986646
+scsf,0.076,in vitro PAMPA,4.3,1.30155396451286
+scsf,0.076,in vitro PAMPA,4.4,1.31978483943705
+scsf,0.076,in vitro PAMPA,4.5,1.33737285138271
+scsf,0.076,in vitro PAMPA,4.6,1.35432560373325
+scsf,0.076,in vitro PAMPA,4.7,1.37065110227337
+scsf,0.076,in vitro PAMPA,4.8,1.38635771373405
+scsf,0.076,in vitro PAMPA,4.9,1.40145412694867
+scsf,0.076,in vitro PAMPA,5,1.41594931636677
+scsf,0.076,in vitro PAMPA,5.1,1.42985250800766
+scsf,0.076,in vitro PAMPA,5.2,1.44317314760669
+scsf,0.076,in vitro PAMPA,5.3,1.45592087083407
+scsf,0.076,in vitro PAMPA,5.4,1.46810547535448
+scsf,0.076,in vitro PAMPA,5.5,1.47973689491201
+scsf,0.076,in vitro PAMPA,5.6,1.49082517511938
+scsf,0.076,in vitro PAMPA,5.7,1.50138045077005
+scsf,0.076,in vitro PAMPA,5.8,1.51141292488323
+scsf,0.076,in vitro PAMPA,5.9,1.52093284917969
+scsf,0.076,in vitro PAMPA,6,1.52995050593549
+scsf,0.076,in vitro PAMPA,6.1,1.53847619113238
+scsf,0.076,in vitro PAMPA,6.2,1.54652019884772
+scsf,0.076,in vitro PAMPA,6.3,1.55409280682531
+scsf,0.076,in vitro PAMPA,6.4,1.56120426316082
+scsf,0.076,in vitro PAMPA,6.5,1.56786477399108
+scsf,0.076,in vitro PAMPA,6.6,1.57408449207366
+scsf,0.076,in vitro PAMPA,6.7,1.57987350653236
+scsf,0.076,in vitro PAMPA,6.8,1.5852418332867
+scsf,0.076,in vitro PAMPA,6.9,1.5901994062983
+scsf,0.076,in vitro PAMPA,7,1.59475606960211
+scsf,0.076,in vitro PAMPA,7.1,1.59892157006699
+scsf,0.076,in vitro PAMPA,7.2,1.60270555083348
+scsf,0.076,in vitro PAMPA,7.3,1.60611754537798
+scsf,0.076,in vitro PAMPA,7.4,1.60916697205988
+scsf,0.076,in vitro PAMPA,7.5,1.61186312949299
+scsf,0.076,in vitro PAMPA,7.6,1.61421519223196
+scsf,0.076,in vitro PAMPA,7.7,1.6162322069776
+scsf,0.076,in vitro PAMPA,7.8,1.61792308925538
+scsf,0.076,in vitro PAMPA,7.9,1.61929662053405
+scsf,0.076,in vitro PAMPA,8,1.62036144573834
+scsf,0.076,in vitro PAMPA,8.1,1.62112607106307
+scsf,0.076,in vitro PAMPA,8.2,1.62159886230361
+scsf,0.076,in vitro PAMPA,8.3,1.62178804337554
+scsf,0.076,in vitro PAMPA,8.4,1.62170169517323
+scsf,0.076,in vitro PAMPA,8.5,1.62134775473212
+scsf,0.076,in vitro PAMPA,8.6,1.6207340145535
+scsf,0.076,in vitro PAMPA,8.7,1.61986812234678
+scsf,0.076,in vitro PAMPA,8.8,1.61875758086879
+scsf,0.076,in vitro PAMPA,8.9,1.61740974799886
+scsf,0.076,in vitro PAMPA,9,1.61583183702966
+scsf,0.076,in vitro PAMPA,9.1,1.61403091704714
+scsf,0.076,in vitro PAMPA,9.2,1.61201391365513
+scsf,0.076,in vitro PAMPA,9.3,1.60978760970933
+scsf,0.076,in vitro PAMPA,9.4,1.60735864622103
+scsf,0.076,in vitro PAMPA,9.5,1.60473352338744
+scsf,0.076,in vitro PAMPA,9.6,1.60191860173035
+scsf,0.076,in vitro PAMPA,9.7,1.59892010340663
+scsf,0.076,in vitro PAMPA,9.8,1.59574411353327
+scsf,0.076,in vitro PAMPA,9.9,1.59239658164649
+scsf,0.076,in vitro PAMPA,10,1.58888332317279
+scsf,0.076,in vitro PAMPA,10.1,1.58521002110693
+scsf,0.076,in vitro PAMPA,10.2,1.58138222763436
+scsf,0.076,in vitro PAMPA,10.3,1.57740536585344
+scsf,0.076,in vitro PAMPA,10.4,1.57328473151162
+scsf,0.076,in vitro PAMPA,10.5,1.56902549486317
+scsf,0.076,in vitro PAMPA,10.6,1.56463270249534
+scsf,0.076,in vitro PAMPA,10.7,1.56011127921981
+scsf,0.076,in vitro PAMPA,10.8,1.55546602995162
+scsf,0.076,in vitro PAMPA,10.9,1.55070164168701
+scsf,0.076,in vitro PAMPA,11,1.54582268543675
+scsf,0.076,in vitro PAMPA,11.1,1.54083361818443
+scsf,0.076,in vitro PAMPA,11.2,1.53573878487959
+scsf,0.076,in vitro PAMPA,11.3,1.5305424204206
+scsf,0.076,in vitro PAMPA,11.4,1.52524865164071
+scsf,0.076,in vitro PAMPA,11.5,1.51986149929775
+scsf,0.076,in vitro PAMPA,11.6,1.51438488007152
+scsf,0.076,in vitro PAMPA,11.7,1.50882260854311
+scsf,0.076,in vitro PAMPA,11.8,1.50317839917748
+scsf,0.076,in vitro PAMPA,11.9,1.49745586829573
+scsf,0.076,in vitro PAMPA,12,1.49165853602771
+scsf,0.076,in vitro PAMPA,12.1,1.48578982826699
+scsf,0.076,in vitro PAMPA,12.2,1.47985307860385
+scsf,0.076,in vitro PAMPA,12.3,1.47385153023051
+scsf,0.076,in vitro PAMPA,12.4,1.46778833784986
+scsf,0.076,in vitro PAMPA,12.5,1.46166656956453
+scsf,0.076,in vitro PAMPA,12.6,1.45548920871659
+scsf,0.076,in vitro PAMPA,12.7,1.44925915573039
+scsf,0.076,in vitro PAMPA,12.8,1.44297922996909
+scsf,0.076,in vitro PAMPA,12.9,1.43665217147312
+scsf,0.076,in vitro PAMPA,13,1.4302806427653
+scsf,0.076,in vitro PAMPA,13.1,1.42386723061172
+scsf,0.076,in vitro PAMPA,13.2,1.4174144476962
+scsf,0.076,in vitro PAMPA,13.3,1.4109247343652
+scsf,0.076,in vitro PAMPA,13.4,1.40440046028782
+scsf,0.076,in vitro PAMPA,13.5,1.39784392607238
+scsf,0.076,in vitro PAMPA,13.6,1.39125736493698
+scsf,0.076,in vitro PAMPA,13.7,1.3846429442687
+scsf,0.076,in vitro PAMPA,13.8,1.3780027671721
+scsf,0.076,in vitro PAMPA,13.9,1.37133887408257
+scsf,0.076,in vitro PAMPA,14,1.36465324420172
+scsf,0.076,in vitro PAMPA,14.1,1.35794779699564
+scsf,0.076,in vitro PAMPA,14.2,1.35122439372706
+scsf,0.076,in vitro PAMPA,14.3,1.34448483876326
+scsf,0.076,in vitro PAMPA,14.4,1.33773088108965
+scsf,0.076,in vitro PAMPA,14.5,1.33096421563316
+scsf,0.076,in vitro PAMPA,14.6,1.32418648459267
+scsf,0.076,in vitro PAMPA,14.7,1.31739927885261
+scsf,0.076,in vitro PAMPA,14.8,1.31060413917062
+scsf,0.076,in vitro PAMPA,14.9,1.30380255750489
+scsf,0.076,in vitro PAMPA,15,1.29699597829661
+scsf,0.076,in vitro PAMPA,15.1,1.29018579957484
+scsf,0.076,in vitro PAMPA,15.2,1.28337337431119
+scsf,0.076,in vitro PAMPA,15.3,1.27656001141965
+scsf,0.076,in vitro PAMPA,15.4,1.26974697702622
+scsf,0.076,in vitro PAMPA,15.5,1.26293549553346
+scsf,0.076,in vitro PAMPA,15.6,1.25612675067754
+scsf,0.076,in vitro PAMPA,15.7,1.24932188672459
+scsf,0.076,in vitro PAMPA,15.8,1.24252200935017
+scsf,0.076,in vitro PAMPA,15.9,1.23572818681577
+scsf,0.076,in vitro PAMPA,16,1.22894145086322
+scsf,0.076,in vitro PAMPA,16.1,1.22216279771215
+scsf,0.076,in vitro PAMPA,16.2,1.21539318910384
+scsf,0.076,in vitro PAMPA,16.3,1.20863355306145
+scsf,0.076,in vitro PAMPA,16.4,1.20188478502266
+scsf,0.076,in vitro PAMPA,16.5,1.19514774848949
+scsf,0.076,in vitro PAMPA,16.6,1.18842327612146
+scsf,0.076,in vitro PAMPA,16.7,1.18171217039235
+scsf,0.076,in vitro PAMPA,16.8,1.17501520456512
+scsf,0.076,in vitro PAMPA,16.9,1.16833312341102
+scsf,0.076,in vitro PAMPA,17,1.16166664402146
+scsf,0.076,in vitro PAMPA,17.1,1.15501645662942
+scsf,0.076,in vitro PAMPA,17.2,1.14838322523771
+scsf,0.076,in vitro PAMPA,17.3,1.14176758852754
+scsf,0.076,in vitro PAMPA,17.4,1.13517016036469
+scsf,0.076,in vitro PAMPA,17.5,1.12859153072829
+scsf,0.076,in vitro PAMPA,17.6,1.1220322661495
+scsf,0.076,in vitro PAMPA,17.7,1.11549291061507
+scsf,0.076,in vitro PAMPA,17.8,1.10897398597756
+scsf,0.076,in vitro PAMPA,17.9,1.10247599280487
+scsf,0.076,in vitro PAMPA,18,1.09599941079591
+scsf,0.076,in vitro PAMPA,18.1,1.08954469955252
+scsf,0.076,in vitro PAMPA,18.2,1.08311229901734
+scsf,0.076,in vitro PAMPA,18.3,1.07670263016145
+scsf,0.076,in vitro PAMPA,18.4,1.07031609544643
+scsf,0.076,in vitro PAMPA,18.5,1.06395307942892
+scsf,0.076,in vitro PAMPA,18.6,1.05761394924869
+scsf,0.076,in vitro PAMPA,18.7,1.05129905513772
+scsf,0.076,in vitro PAMPA,18.8,1.04500873096554
+scsf,0.076,in vitro PAMPA,18.9,1.03874329466885
+scsf,0.076,in vitro PAMPA,19,1.03250304876115
+scsf,0.076,in vitro PAMPA,19.1,1.02628828078334
+scsf,0.076,in vitro PAMPA,19.2,1.02009926373157
+scsf,0.076,in vitro PAMPA,19.3,1.01393625653934
+scsf,0.076,in vitro PAMPA,19.4,1.00779950443583
+scsf,0.076,in vitro PAMPA,19.5,1.00168923944287
+scsf,0.076,in vitro PAMPA,19.6,0.995605680682641
+scsf,0.076,in vitro PAMPA,19.7,0.989549034876303
+scsf,0.076,in vitro PAMPA,19.8,0.983519496608458
+scsf,0.076,in vitro PAMPA,19.9,0.977517248826414
+scsf,0.076,in vitro PAMPA,20,0.971542463062137
+scsf,0.076,in vitro PAMPA,20.1,0.965595299926425
+scsf,0.076,in vitro PAMPA,20.2,0.959675909298278
+scsf,0.076,in vitro PAMPA,20.3,0.953784430850362
+scsf,0.076,in vitro PAMPA,20.4,0.947920994125479
+scsf,0.076,in vitro PAMPA,20.5,0.942085719144121
+scsf,0.076,in vitro PAMPA,20.6,0.936278716386099
+scsf,0.076,in vitro PAMPA,20.7,0.930500087414089
+scsf,0.076,in vitro PAMPA,20.8,0.924749924877261
+scsf,0.076,in vitro PAMPA,20.9,0.919028313000358
+scsf,0.076,in vitro PAMPA,21,0.913335327743139
+scsf,0.076,in vitro PAMPA,21.1,0.907671037091235
+scsf,0.076,in vitro PAMPA,21.2,0.902035501367182
+scsf,0.076,in vitro PAMPA,21.3,0.896428773370471
+scsf,0.076,in vitro PAMPA,21.4,0.89085089878054
+scsf,0.076,in vitro PAMPA,21.5,0.885301916199661
+scsf,0.076,in vitro PAMPA,21.6,0.879781857603084
+scsf,0.076,in vitro PAMPA,21.7,0.874290748315576
+scsf,0.076,in vitro PAMPA,21.8,0.868828607504805
+scsf,0.076,in vitro PAMPA,21.9,0.863395448153212
+scsf,0.076,in vitro PAMPA,22,0.857991277395157
+scsf,0.076,in vitro PAMPA,22.1,0.852616096725785
+scsf,0.076,in vitro PAMPA,22.2,0.847269902051464
+scsf,0.076,in vitro PAMPA,22.3,0.841952684120745
+scsf,0.076,in vitro PAMPA,22.4,0.836664428413586
+scsf,0.076,in vitro PAMPA,22.5,0.831405115612373
+scsf,0.076,in vitro PAMPA,22.6,0.826174721562991
+scsf,0.076,in vitro PAMPA,22.7,0.820973217518447
+scsf,0.076,in vitro PAMPA,22.8,0.815800570357566
+scsf,0.076,in vitro PAMPA,22.9,0.810656742594611
+scsf,0.076,in vitro PAMPA,23,0.80554169274331
+scsf,0.076,in vitro PAMPA,23.1,0.800455375229006
+scsf,0.076,in vitro PAMPA,23.2,0.795397740756411
+scsf,0.076,in vitro PAMPA,23.3,0.79036873629697
+scsf,0.076,in vitro PAMPA,23.4,0.785368305263639
+scsf,0.076,in vitro PAMPA,23.5,0.780396387748658
+scsf,0.076,in vitro PAMPA,23.6,0.77545292041504
+scsf,0.076,in vitro PAMPA,23.7,0.770537836917818
+scsf,0.076,in vitro PAMPA,23.8,0.765651067817816
+scsf,0.076,in vitro PAMPA,23.9,0.760792540709872
+scsf,0.076,in vitro PAMPA,24,0.755962180499292
+scsf,83,in silico perfusion,0,0
+scsf,83,in silico perfusion,0.1,0.1959205133035
+scsf,83,in silico perfusion,0.2,0.947359163598629
+scsf,83,in silico perfusion,0.3,1.80966996348583
+scsf,83,in silico perfusion,0.4,2.46399461064384
+scsf,83,in silico perfusion,0.5,2.96349326511002
+scsf,83,in silico perfusion,0.6,3.36735493465665
+scsf,83,in silico perfusion,0.7,3.70939869057415
+scsf,83,in silico perfusion,0.8,4.00764907109678
+scsf,83,in silico perfusion,0.9,4.27189292175648
+scsf,83,in silico perfusion,1,4.50774545368826
+scsf,83,in silico perfusion,1.1,4.71870600051928
+scsf,83,in silico perfusion,1.2,4.90718466463202
+scsf,83,in silico perfusion,1.3,5.0750144404167
+scsf,83,in silico perfusion,1.4,5.2237073797575
+scsf,83,in silico perfusion,1.5,5.35458353199082
+scsf,83,in silico perfusion,1.6,5.46883662158597
+scsf,83,in silico perfusion,1.7,5.56756823186294
+scsf,83,in silico perfusion,1.8,5.65180627396683
+scsf,83,in silico perfusion,1.9,5.72251557924907
+scsf,83,in silico perfusion,2,5.78060451067921
+scsf,83,in silico perfusion,2.1,5.82692953230142
+scsf,83,in silico perfusion,2.2,5.86229869958806
+scsf,83,in silico perfusion,2.3,5.88747455634634
+scsf,83,in silico perfusion,2.4,5.90317667695193
+scsf,83,in silico perfusion,2.5,5.91008398066833
+scsf,83,in silico perfusion,2.6,5.90883687908884
+scsf,83,in silico perfusion,2.7,5.90003929116297
+scsf,83,in silico perfusion,2.8,5.88426054734085
+scsf,83,in silico perfusion,2.9,5.86203719387259
+scsf,83,in silico perfusion,3,5.83387470064768
+scsf,83,in silico perfusion,3.1,5.80024908585362
+scsf,83,in silico perfusion,3.2,5.76160845705944
+scsf,83,in silico perfusion,3.3,5.71837448266918
+scsf,83,in silico perfusion,3.4,5.67094378132442
+scsf,83,in silico perfusion,3.5,5.61968924123195
+scsf,83,in silico perfusion,3.6,5.56496127749272
+scsf,83,in silico perfusion,3.7,5.50708902640263
+scsf,83,in silico perfusion,3.8,5.44638147962839
+scsf,83,in silico perfusion,3.9,5.38312856401221
+scsf,83,in silico perfusion,4,5.31760216260363
+scsf,83,in silico perfusion,4.1,5.25005708365327
+scsf,83,in silico perfusion,4.2,5.18073198278499
+scsf,83,in silico perfusion,4.3,5.10985023987269
+scsf,83,in silico perfusion,4.4,5.03762079091453
+scsf,83,in silico perfusion,4.5,4.96423891625762
+scsf,83,in silico perfusion,4.6,4.88988699058564
+scsf,83,in silico perfusion,4.7,4.81473519298983
+scsf,83,in silico perfusion,4.8,4.73894218207646
+scsf,83,in silico perfusion,4.9,4.66265573510514
+scsf,83,in silico perfusion,5,4.58601335597312
+scsf,83,in silico perfusion,5.1,4.50914285145867
+scsf,83,in silico perfusion,5.2,4.43216287692975
+scsf,83,in silico perfusion,5.3,4.35518345623094
+scsf,83,in silico perfusion,5.4,4.27830647242748
+scsf,83,in silico perfusion,5.5,4.20162613351342
+scsf,83,in silico perfusion,5.6,4.12522941416089
+scsf,83,in silico perfusion,5.7,4.04919647475379
+scsf,83,in silico perfusion,5.8,3.97360105852761
+scsf,83,in silico perfusion,5.9,3.89851086760745
+scsf,83,in silico perfusion,6,3.8239879193757
+scsf,83,in silico perfusion,6.1,3.75008888472628
+scsf,83,in silico perfusion,6.2,3.67686540730702
+scsf,83,in silico perfusion,6.3,3.6043644068689
+scsf,83,in silico perfusion,6.4,3.53262836574252
+scsf,83,in silico perfusion,6.5,3.46169560001432
+scsf,83,in silico perfusion,6.6,3.39160051710598
+scsf,83,in silico perfusion,6.7,3.32237385870126
+scsf,83,in silico perfusion,6.8,3.25404293124945
+scsf,83,in silico perfusion,6.9,3.18663182372622
+scsf,83,in silico perfusion,7,3.12016161337958
+scsf,83,in silico perfusion,7.1,3.05465055981984
+scsf,83,in silico perfusion,7.2,2.9901142906828
+scsf,83,in silico perfusion,7.3,2.92656597382504
+scsf,83,in silico perfusion,7.4,2.86401648250457
+scsf,83,in silico perfusion,7.5,2.8024745505643
+scsf,83,in silico perfusion,7.6,2.74194691924836
+scsf,83,in silico perfusion,7.7,2.68243847578418
+scsf,83,in silico perfusion,7.8,2.62395238368297
+scsf,83,in silico perfusion,7.9,2.56649020758148
+scsf,83,in silico perfusion,8,2.51005202717015
+scsf,83,in silico perfusion,8.1,2.45463654822397
+scsf,83,in silico perfusion,8.2,2.40024120607638
+scsf,83,in silico perfusion,8.3,2.34686226303538
+scsf,83,in silico perfusion,8.4,2.2944948997528
+scsf,83,in silico perfusion,8.5,2.2431333036729
+scsf,83,in silico perfusion,8.6,2.19277074812029
+scsf,83,in silico perfusion,8.7,2.14339966980294
+scsf,83,in silico perfusion,8.8,2.09501174083929
+scsf,83,in silico perfusion,8.9,2.04759793649396
+scsf,83,in silico perfusion,9,2.00114859975472
+scsf,83,in silico perfusion,9.1,1.95565349965173
+scsf,83,in silico perfusion,9.2,1.91110188817876
+scsf,83,in silico perfusion,9.3,1.86748255270514
+scsf,83,in silico perfusion,9.4,1.82478386613563
+scsf,83,in silico perfusion,9.5,1.78299383315348
+scsf,83,in silico perfusion,9.6,1.7421001324299
+scsf,83,in silico perfusion,9.7,1.70209015799785
+scsf,83,in silico perfusion,9.8,1.66295105698521
+scsf,83,in silico perfusion,9.9,1.6246697662438
+scsf,83,in silico perfusion,10,1.58723304378402
+scsf,83,in silico perfusion,10.1,1.55062750059791
+scsf,83,in silico perfusion,10.2,1.51483962900657
+scsf,83,in silico perfusion,10.3,1.47985583110555
+scsf,83,in silico perfusion,10.4,1.4456624418735
+scsf,83,in silico perfusion,10.5,1.41224575300748
+scsf,83,in silico perfusion,10.6,1.37959203454245
+scsf,83,in silico perfusion,10.7,1.34768755566046
+scsf,83,in silico perfusion,10.8,1.31651860170169
+scsf,83,in silico perfusion,10.9,1.28607149208388
+scsf,83,in silico perfusion,11,1.2563325964369
+scsf,83,in silico perfusion,11.1,1.22728834889522
+scsf,83,in silico perfusion,11.2,1.19892526119236
+scsf,83,in silico perfusion,11.3,1.17122993503785
+scsf,83,in silico perfusion,11.4,1.14418907454741
+scsf,83,in silico perfusion,11.5,1.11778949488941
+scsf,83,in silico perfusion,11.6,1.0920181322632
+scsf,83,in silico perfusion,11.7,1.06686205305636
+scsf,83,in silico perfusion,11.8,1.04230846093571
+scsf,83,in silico perfusion,11.9,1.01834470375971
+scsf,83,in silico perfusion,12,0.994958280149734
+scsf,83,in silico perfusion,12.1,0.972136845356603
+scsf,83,in silico perfusion,12.2,0.94986821549818
+scsf,83,in silico perfusion,12.3,0.928140372188576
+scsf,83,in silico perfusion,12.4,0.906941467318668
+scsf,83,in silico perfusion,12.5,0.886259824886069
+scsf,83,in silico perfusion,12.6,0.86608394452406
+scsf,83,in silico perfusion,12.7,0.846402504508058
+scsf,83,in silico perfusion,12.8,0.827204362633695
+scsf,83,in silico perfusion,12.9,0.808478558329391
+scsf,83,in silico perfusion,13,0.790214314407787
+scsf,83,in silico perfusion,13.1,0.77240103703758
+scsf,83,in silico perfusion,13.2,0.755028316659372
+scsf,83,in silico perfusion,13.3,0.738085928949934
+scsf,83,in silico perfusion,13.4,0.721563833749953
+scsf,83,in silico perfusion,13.5,0.705452175572496
+scsf,83,in silico perfusion,13.6,0.689741283085043
+scsf,83,in silico perfusion,13.7,0.674421667941816
+scsf,83,in silico perfusion,13.8,0.659484024593656
+scsf,83,in silico perfusion,13.9,0.644919228791588
+scsf,83,in silico perfusion,14,0.630718336372964
+scsf,83,in silico perfusion,14.1,0.616872582333931
+scsf,83,in silico perfusion,14.2,0.603373378801741
+scsf,83,in silico perfusion,14.3,0.590212313545616
+scsf,83,in silico perfusion,14.4,0.577381148650975
+scsf,83,in silico perfusion,14.5,0.564871817969804
+scsf,83,in silico perfusion,14.6,0.552676425807984
+scsf,83,in silico perfusion,14.7,0.540787244496893
+scsf,83,in silico perfusion,14.8,0.529196712342966
+scsf,83,in silico perfusion,14.9,0.517897431742227
+scsf,83,in silico perfusion,15,0.50688216651863
+scsf,83,in silico perfusion,15.1,0.496143840015187
+scsf,83,in silico perfusion,15.2,0.48567553256255
+scsf,83,in silico perfusion,15.3,0.475470479123914
+scsf,83,in silico perfusion,15.4,0.465522067057685
+scsf,83,in silico perfusion,15.5,0.455823833453231
+scsf,83,in silico perfusion,15.6,0.446369462913227
+scsf,83,in silico perfusion,15.7,0.437152784924947
+scsf,83,in silico perfusion,15.8,0.428167771466358
+scsf,83,in silico perfusion,15.9,0.419408534518605
+scsf,83,in silico perfusion,16,0.410869323530834
+scsf,83,in silico perfusion,16.1,0.402544523000181
+scsf,83,in silico perfusion,16.2,0.394428649932619
+scsf,83,in silico perfusion,16.3,0.386516351399474
+scsf,83,in silico perfusion,16.4,0.378802402052404
+scsf,83,in silico perfusion,16.5,0.371281701681416
+scsf,83,in silico perfusion,16.6,0.363949272739581
+scsf,83,in silico perfusion,16.7,0.356800257985326
+scsf,83,in silico perfusion,16.8,0.349829917950762
+scsf,83,in silico perfusion,16.9,0.343033628717986
+scsf,83,in silico perfusion,17,0.336406879362171
+scsf,83,in silico perfusion,17.1,0.329945269812942
+scsf,83,in silico perfusion,17.2,0.323644508334348
+scsf,83,in silico perfusion,17.3,0.317500409420419
+scsf,83,in silico perfusion,17.4,0.311508891374575
+scsf,83,in silico perfusion,17.5,0.305665974183154
+scsf,83,in silico perfusion,17.6,0.299967777260804
+scsf,83,in silico perfusion,17.7,0.294410517241132
+scsf,83,in silico perfusion,17.8,0.288990505961309
+scsf,83,in silico perfusion,17.9,0.283704148112231
+scsf,83,in silico perfusion,18,0.278547939502858
+scsf,83,in silico perfusion,18.1,0.273518464542339
+scsf,83,in silico perfusion,18.2,0.268612394772498
+scsf,83,in silico perfusion,18.3,0.263826486282698
+scsf,83,in silico perfusion,18.4,0.259157578392066
+scsf,83,in silico perfusion,18.5,0.254602591085932
+scsf,83,in silico perfusion,18.6,0.250158523777833
+scsf,83,in silico perfusion,18.7,0.245822452818588
+scsf,83,in silico perfusion,18.8,0.24159153030667
+scsf,83,in silico perfusion,18.9,0.237462981681379
+scsf,83,in silico perfusion,19,0.233434104588198
+scsf,83,in silico perfusion,19.1,0.229502266544707
+scsf,83,in silico perfusion,19.2,0.225664903871586
+scsf,83,in silico perfusion,19.3,0.221919519433818
+scsf,83,in silico perfusion,19.4,0.218263681650576
+scsf,83,in silico perfusion,19.5,0.214695022188106
+scsf,83,in silico perfusion,19.6,0.211211235225733
+scsf,83,in silico perfusion,19.7,0.207810075033628
+scsf,83,in silico perfusion,19.8,0.204489355435987
+scsf,83,in silico perfusion,19.9,0.201246947409704
+scsf,83,in silico perfusion,20,0.198080778483976
+scsf,83,in silico perfusion,20.1,0.19498883071542
+scsf,83,in silico perfusion,20.2,0.191969139730655
+scsf,83,in silico perfusion,20.3,0.18901979316283
+scsf,83,in silico perfusion,20.4,0.186138929402187
+scsf,83,in silico perfusion,20.5,0.183324736396209
+scsf,83,in silico perfusion,20.6,0.180575450190351
+scsf,83,in silico perfusion,20.7,0.177889354024881
+scsf,83,in silico perfusion,20.8,0.17526477673866
+scsf,83,in silico perfusion,20.9,0.172700092091107
+scsf,83,in silico perfusion,21,0.170193716943122
+scsf,83,in silico perfusion,21.1,0.167744111040108
+scsf,83,in silico perfusion,21.2,0.165349774873421
+scsf,83,in silico perfusion,21.3,0.163009249656537
+scsf,83,in silico perfusion,21.4,0.160721115447424
+scsf,83,in silico perfusion,21.5,0.158483990610281
+scsf,83,in silico perfusion,21.6,0.156296530785427
+scsf,83,in silico perfusion,21.7,0.154157427582892
+scsf,83,in silico perfusion,21.8,0.152065408237008
+scsf,83,in silico perfusion,21.9,0.150019233906074
+scsf,83,in silico perfusion,22,0.1480176996655
+scsf,83,in silico perfusion,22.1,0.146059632705631
+scsf,83,in silico perfusion,22.2,0.144143892278641
+scsf,83,in silico perfusion,22.3,0.142269368328965
+scsf,83,in silico perfusion,22.4,0.140434980906445
+scsf,83,in silico perfusion,22.5,0.138639679465023
+scsf,83,in silico perfusion,22.6,0.136882441587804
+scsf,83,in silico perfusion,22.7,0.135162273149386
+scsf,83,in silico perfusion,22.8,0.133478206443457
+scsf,83,in silico perfusion,22.9,0.131829300394204
+scsf,83,in silico perfusion,23,0.130214639498644
+scsf,83,in silico perfusion,23.1,0.12863333287904
+scsf,83,in silico perfusion,23.2,0.127084514366749
+scsf,83,in silico perfusion,23.3,0.125567340862439
+scsf,83,in silico perfusion,23.4,0.124080992601905
+scsf,83,in silico perfusion,23.5,0.122624671999183
+scsf,83,in silico perfusion,23.6,0.121197603103825
+scsf,83,in silico perfusion,23.7,0.119799031435375
+scsf,83,in silico perfusion,23.8,0.118428222657184
+scsf,83,in silico perfusion,23.9,0.117084462759952
+scsf,83,in silico perfusion,24,0.115767057110886
+scsf,3.8,in silico PAMPA,0,0
+scsf,3.8,in silico PAMPA,0.1,0.0503382356987161
+scsf,3.8,in silico PAMPA,0.2,0.289735378124231
+scsf,3.8,in silico PAMPA,0.3,0.689689313008857
+scsf,3.8,in silico PAMPA,0.4,1.14610062201578
+scsf,3.8,in silico PAMPA,0.5,1.60813852791643
+scsf,3.8,in silico PAMPA,0.6,2.05250624886697
+scsf,3.8,in silico PAMPA,0.7,2.46931298664695
+scsf,3.8,in silico PAMPA,0.8,2.85511335010921
+scsf,3.8,in silico PAMPA,0.9,3.20949271717943
+scsf,3.8,in silico PAMPA,1,3.53340351780162
+scsf,3.8,in silico PAMPA,1.1,3.82836354141775
+scsf,3.8,in silico PAMPA,1.2,4.09607670345361
+scsf,3.8,in silico PAMPA,1.3,4.33825936881159
+scsf,3.8,in silico PAMPA,1.4,4.55656555509802
+scsf,3.8,in silico PAMPA,1.5,4.75255881635192
+scsf,3.8,in silico PAMPA,1.6,4.92770546812545
+scsf,3.8,in silico PAMPA,1.7,5.08337700887563
+scsf,3.8,in silico PAMPA,1.8,5.22085603636763
+scsf,3.8,in silico PAMPA,1.9,5.34134307644329
+scsf,3.8,in silico PAMPA,2,5.44596322943685
+scsf,3.8,in silico PAMPA,2.1,5.53577223178865
+scsf,3.8,in silico PAMPA,2.2,5.61176184158036
+scsf,3.8,in silico PAMPA,2.3,5.67486458132206
+scsf,3.8,in silico PAMPA,2.4,5.72595792155907
+scsf,3.8,in silico PAMPA,2.5,5.76586798560458
+scsf,3.8,in silico PAMPA,2.6,5.79537286074675
+scsf,3.8,in silico PAMPA,2.7,5.81520558182364
+scsf,3.8,in silico PAMPA,2.8,5.82605683464897
+scsf,3.8,in silico PAMPA,2.9,5.82857743193038
+scsf,3.8,in silico PAMPA,3,5.82338059585228
+scsf,3.8,in silico PAMPA,3.1,5.81104407442533
+scsf,3.8,in silico PAMPA,3.2,5.79211209724609
+scsf,3.8,in silico PAMPA,3.3,5.76709721482245
+scsf,3.8,in silico PAMPA,3.4,5.73648201869594
+scsf,3.8,in silico PAMPA,3.5,5.70072076600107
+scsf,3.8,in silico PAMPA,3.6,5.66024090568261
+scsf,3.8,in silico PAMPA,3.7,5.61544451016761
+scsf,3.8,in silico PAMPA,3.8,5.56670963178058
+scsf,3.8,in silico PAMPA,3.9,5.51439159101505
+scsf,3.8,in silico PAMPA,4,5.45882419632487
+scsf,3.8,in silico PAMPA,4.1,5.40032089564501
+scsf,3.8,in silico PAMPA,4.2,5.33917587086853
+scsf,3.8,in silico PAMPA,4.3,5.27566507208964
+scsf,3.8,in silico PAMPA,4.4,5.21004719994517
+scsf,3.8,in silico PAMPA,4.5,5.14256463807978
+scsf,3.8,in silico PAMPA,4.6,5.07344433796137
+scsf,3.8,in silico PAMPA,4.7,5.00289865804601
+scsf,3.8,in silico PAMPA,4.8,4.93112615905242
+scsf,3.8,in silico PAMPA,4.9,4.85831236094429
+scsf,3.8,in silico PAMPA,5,4.78463045933999
+scsf,3.8,in silico PAMPA,5.1,4.71024200514813
+scsf,3.8,in silico PAMPA,5.2,4.63529754970524
+scsf,3.8,in silico PAMPA,5.3,4.55993725723383
+scsf,3.8,in silico PAMPA,5.4,4.48429148586857
+scsf,3.8,in silico PAMPA,5.5,4.40848133834293
+scsf,3.8,in silico PAMPA,5.6,4.33261918453766
+scsf,3.8,in silico PAMPA,5.7,4.25680915770178
+scsf,3.8,in silico PAMPA,5.8,4.18114762386175
+scsf,3.8,in silico PAMPA,5.9,4.10572362676652
+scsf,3.8,in silico PAMPA,6,4.03061931067469
+scsf,3.8,in silico PAMPA,6.1,3.95591032116614
+scsf,3.8,in silico PAMPA,6.2,3.88166618382941
+scsf,3.8,in silico PAMPA,6.3,3.80795066374441
+scsf,3.8,in silico PAMPA,6.4,3.73482210717927
+scsf,3.8,in silico PAMPA,6.5,3.66233376385437
+scsf,3.8,in silico PAMPA,6.6,3.59053409243277
+scsf,3.8,in silico PAMPA,6.7,3.51946704989821
+scsf,3.8,in silico PAMPA,6.8,3.44917236571645
+scsf,3.8,in silico PAMPA,6.9,3.37968580098341
+scsf,3.8,in silico PAMPA,7,3.31103939576828
+scsf,3.8,in silico PAMPA,7.1,3.24326169919967
+scsf,3.8,in silico PAMPA,7.2,3.17637799098519
+scsf,3.8,in silico PAMPA,7.3,3.11041048889938
+scsf,3.8,in silico PAMPA,7.4,3.04537854547834
+scsf,3.8,in silico PAMPA,7.5,2.98129883397995
+scsf,3.8,in silico PAMPA,7.6,2.91818552378288
+scsf,3.8,in silico PAMPA,7.7,2.85605044827151
+scsf,3.8,in silico PAMPA,7.8,2.79490326018329
+scsf,3.8,in silico PAMPA,7.9,2.73475158014044
+scsf,3.8,in silico PAMPA,8,2.67560113730533
+scsf,3.8,in silico PAMPA,8.1,2.61745590153869
+scsf,3.8,in silico PAMPA,8.2,2.56031820770168
+scsf,3.8,in silico PAMPA,8.3,2.50418887509702
+scsf,3.8,in silico PAMPA,8.4,2.44906731634936
+scsf,3.8,in silico PAMPA,8.5,2.39495164297565
+scsf,3.8,in silico PAMPA,8.6,2.34183876442046
+scsf,3.8,in silico PAMPA,8.7,2.28972448090168
+scsf,3.8,in silico PAMPA,8.8,2.23860357109075
+scsf,3.8,in silico PAMPA,8.9,2.18846987580359
+scsf,3.8,in silico PAMPA,9,2.13931637383589
+scsf,3.8,in silico PAMPA,9.1,2.09113525589809
+scsf,3.8,in silico PAMPA,9.2,2.0439179930185
+scsf,3.8,in silico PAMPA,9.3,1.99765540242574
+scsf,3.8,in silico PAMPA,9.4,1.95233770682565
+scsf,3.8,in silico PAMPA,9.5,1.9079545917817
+scsf,3.8,in silico PAMPA,9.6,1.86449525951476
+scsf,3.8,in silico PAMPA,9.7,1.82194847842667
+scsf,3.8,in silico PAMPA,9.8,1.78030263248221
+scsf,3.8,in silico PAMPA,9.9,1.73954576245828
+scsf,3.8,in silico PAMPA,10,1.6996656084843
+scsf,3.8,in silico PAMPA,10.1,1.66064964833771
+scsf,3.8,in silico PAMPA,10.2,1.62248513509496
+scsf,3.8,in silico PAMPA,10.3,1.58515912860084
+scsf,3.8,in silico PAMPA,10.4,1.54865852828109
+scsf,3.8,in silico PAMPA,10.5,1.51297010216053
+scsf,3.8,in silico PAMPA,10.6,1.47808051542692
+scsf,3.8,in silico PAMPA,10.7,1.44397635436285
+scsf,3.8,in silico PAMPA,10.8,1.41064415058636
+scsf,3.8,in silico PAMPA,10.9,1.37807040382322
+scsf,3.8,in silico PAMPA,11,1.3462416019948
+scsf,3.8,in silico PAMPA,11.1,1.3151442394146
+scsf,3.8,in silico PAMPA,11.2,1.28476483486151
+scsf,3.8,in silico PAMPA,11.3,1.25508994877418
+scsf,3.8,in silico PAMPA,11.4,1.22610619676389
+scsf,3.8,in silico PAMPA,11.5,1.19780026390584
+scsf,3.8,in silico PAMPA,11.6,1.17015891757483
+scsf,3.8,in silico PAMPA,11.7,1.14316901962219
+scsf,3.8,in silico PAMPA,11.8,1.11681753575188
+scsf,3.8,in silico PAMPA,11.9,1.09109154580521
+scsf,3.8,in silico PAMPA,12,1.06597825362711
+scsf,3.8,in silico PAMPA,12.1,1.04146499322187
+scsf,3.8,in silico PAMPA,12.2,1.01753923691581
+scsf,3.8,in silico PAMPA,12.3,0.99418860264225
+scsf,3.8,in silico PAMPA,12.4,0.971400858479225
+scsf,3.8,in silico PAMPA,12.5,0.94916392835698
+scsf,3.8,in silico PAMPA,12.6,0.927465897270064
+scsf,3.8,in silico PAMPA,12.7,0.906295014604383
+scsf,3.8,in silico PAMPA,12.8,0.885639697609813
+scsf,3.8,in silico PAMPA,12.9,0.865488535546326
+scsf,3.8,in silico PAMPA,13,0.845830290954304
+scsf,3.8,in silico PAMPA,13.1,0.826653902246817
+scsf,3.8,in silico PAMPA,13.2,0.807948486236396
+scsf,3.8,in silico PAMPA,13.3,0.789703338430998
+scsf,3.8,in silico PAMPA,13.4,0.771907934556049
+scsf,3.8,in silico PAMPA,13.5,0.754551931878511
+scsf,3.8,in silico PAMPA,13.6,0.737625168644535
+scsf,3.8,in silico PAMPA,13.7,0.721117664714229
+scsf,3.8,in silico PAMPA,13.8,0.705019621977731
+scsf,3.8,in silico PAMPA,13.9,0.689321422979953
+scsf,3.8,in silico PAMPA,14,0.674013631385322
+scsf,3.8,in silico PAMPA,14.1,0.659086990625072
+scsf,3.8,in silico PAMPA,14.2,0.644532422934354
+scsf,3.8,in silico PAMPA,14.3,0.630341028862878
+scsf,3.8,in silico PAMPA,14.4,0.616504085241741
+scsf,3.8,in silico PAMPA,14.5,0.603013044265002
+scsf,3.8,in silico PAMPA,14.6,0.58985953197036
+scsf,3.8,in silico PAMPA,14.7,0.577035346205221
+scsf,3.8,in silico PAMPA,14.8,0.564532455345803
+scsf,3.8,in silico PAMPA,14.9,0.552342996106751
+scsf,3.8,in silico PAMPA,15,0.540459271614872
+scsf,3.8,in silico PAMPA,15.1,0.528873749729079
+scsf,3.8,in silico PAMPA,15.2,0.517579060362998
+scsf,3.8,in silico PAMPA,15.3,0.506567993911324
+scsf,3.8,in silico PAMPA,15.4,0.495833498570577
+scsf,3.8,in silico PAMPA,15.5,0.48536867834814
+scsf,3.8,in silico PAMPA,15.6,0.47516679071538
+scsf,3.8,in silico PAMPA,15.7,0.46522124413767
+scsf,3.8,in silico PAMPA,15.8,0.455525595944937
+scsf,3.8,in silico PAMPA,15.9,0.446073549684146
+scsf,3.8,in silico PAMPA,16,0.436858952892808
+scsf,3.8,in silico PAMPA,16.1,0.427875794592379
+scsf,3.8,in silico PAMPA,16.2,0.419118202845969
+scsf,3.8,in silico PAMPA,16.3,0.410580442386791
+scsf,3.8,in silico PAMPA,16.4,0.402256912069872
+scsf,3.8,in silico PAMPA,16.5,0.394142142523981
+scsf,3.8,in silico PAMPA,16.6,0.38623079364568
+scsf,3.8,in silico PAMPA,16.7,0.378517652202515
+scsf,3.8,in silico PAMPA,16.8,0.37099762940438
+scsf,3.8,in silico PAMPA,16.9,0.363665758491901
+scsf,3.8,in silico PAMPA,17,0.35651719233612
+scsf,3.8,in silico PAMPA,17.1,0.34954720109703
+scsf,3.8,in silico PAMPA,17.2,0.342751169782004
+scsf,3.8,in silico PAMPA,17.3,0.336124596048649
+scsf,3.8,in silico PAMPA,17.4,0.329663087679257
+scsf,3.8,in silico PAMPA,17.5,0.323362360548903
+scsf,3.8,in silico PAMPA,17.6,0.317218236062966
+scsf,3.8,in silico PAMPA,17.7,0.311226639235027
+scsf,3.8,in silico PAMPA,17.8,0.305383596144644
+scsf,3.8,in silico PAMPA,17.9,0.299685232080281
+scsf,3.8,in silico PAMPA,18,0.29412776906432
+scsf,3.8,in silico PAMPA,18.1,0.288707524025937
+scsf,3.8,in silico PAMPA,18.2,0.283420906428296
+scsf,3.8,in silico PAMPA,18.3,0.278264416448378
+scsf,3.8,in silico PAMPA,18.4,0.273234642733323
+scsf,3.8,in silico PAMPA,18.5,0.268328260564637
+scsf,3.8,in silico PAMPA,18.6,0.263542029794921
+scsf,3.8,in silico PAMPA,18.7,0.258872792923046
+scsf,3.8,in silico PAMPA,18.8,0.254317473188016
+scsf,3.8,in silico PAMPA,18.9,0.249873072738799
+scsf,3.8,in silico PAMPA,19,0.245536670699213
+scsf,3.8,in silico PAMPA,19.1,0.241305421519205
+scsf,3.8,in silico PAMPA,19.2,0.237176552994158
+scsf,3.8,in silico PAMPA,19.3,0.23314736477508
+scsf,3.8,in silico PAMPA,19.4,0.229215226375082
+scsf,3.8,in silico PAMPA,19.5,0.225377575806747
+scsf,3.8,in silico PAMPA,19.6,0.221631917598089
+scsf,3.8,in silico PAMPA,19.7,0.217975821549713
+scsf,3.8,in silico PAMPA,19.8,0.214406920758632
+scsf,3.8,in silico PAMPA,19.9,0.210922910499259
+scsf,3.8,in silico PAMPA,20,0.207521546270537
+scsf,3.8,in silico PAMPA,20.1,0.204200642780352
+scsf,3.8,in silico PAMPA,20.2,0.200958071896149
+scsf,3.8,in silico PAMPA,20.3,0.197791761990434
+scsf,3.8,in silico PAMPA,20.4,0.194699695628059
+scsf,3.8,in silico PAMPA,20.5,0.191679909236521
+scsf,3.8,in silico PAMPA,20.6,0.188730490713431
+scsf,3.8,in silico PAMPA,20.7,0.185849579091136
+scsf,3.8,in silico PAMPA,20.8,0.18303536250078
+scsf,3.8,in silico PAMPA,20.9,0.180286077405168
+scsf,3.8,in silico PAMPA,21,0.177600007196967
+scsf,3.8,in silico PAMPA,21.1,0.174975480918438
+scsf,3.8,in silico PAMPA,21.2,0.172410872401259
+scsf,3.8,in silico PAMPA,21.3,0.169904598643678
+scsf,3.8,in silico PAMPA,21.4,0.167455119327575
+scsf,3.8,in silico PAMPA,21.5,0.1650609349988
+scsf,3.8,in silico PAMPA,21.6,0.162720586858335
+scsf,3.8,in silico PAMPA,21.7,0.160432654732088
+scsf,3.8,in silico PAMPA,21.8,0.158195757027109
+scsf,3.8,in silico PAMPA,21.9,0.156008549047346
+scsf,3.8,in silico PAMPA,22,0.153869722259283
+scsf,3.8,in silico PAMPA,22.1,0.151778003666163
+scsf,3.8,in silico PAMPA,22.2,0.149732154128832
+scsf,3.8,in silico PAMPA,22.3,0.147730968500873
+scsf,3.8,in silico PAMPA,22.4,0.14577327364183
+scsf,3.8,in silico PAMPA,22.5,0.143857928491986
+scsf,3.8,in silico PAMPA,22.6,0.141983822700226
+scsf,3.8,in silico PAMPA,22.7,0.140149875886469
+scsf,3.8,in silico PAMPA,22.8,0.138355037201083
+scsf,3.8,in silico PAMPA,22.9,0.136598283863125
+scsf,3.8,in silico PAMPA,23,0.134878621311466
+scsf,3.8,in silico PAMPA,23.1,0.133195081499547
+scsf,3.8,in silico PAMPA,23.2,0.131546723014435
+scsf,3.8,in silico PAMPA,23.3,0.129932629877516
+scsf,3.8,in silico PAMPA,23.4,0.128351910803313
+scsf,3.8,in silico PAMPA,23.5,0.126803699247613
+scsf,3.8,in silico PAMPA,23.6,0.12528715163236
+scsf,3.8,in silico PAMPA,23.7,0.12380144772118
+scsf,3.8,in silico PAMPA,23.8,0.122345789584639
+scsf,3.8,in silico PAMPA,23.9,0.1209194006717
+scsf,3.8,in silico PAMPA,24,0.119521525915182
+scsf,10.377762907868,optimized,0,0
+scsf,10.377762907868,optimized,0.1,0.0911472997399176
+scsf,10.377762907868,optimized,0.2,0.521023374948302
+scsf,10.377762907868,optimized,0.3,1.17897627619724
+scsf,10.377762907868,optimized,0.4,1.82923368223896
+scsf,10.377762907868,optimized,0.5,2.39966977779481
+scsf,10.377762907868,optimized,0.6,2.88462069553503
+scsf,10.377762907868,optimized,0.7,3.29702906494836
+scsf,10.377762907868,optimized,0.8,3.65173804142348
+scsf,10.377762907868,optimized,0.9,3.96078328415043
+scsf,10.377762907868,optimized,1,4.23287935387569
+scsf,10.377762907868,optimized,1.1,4.4740927609719
+scsf,10.377762907868,optimized,1.2,4.68864880299697
+scsf,10.377762907868,optimized,1.3,4.87957333206291
+scsf,10.377762907868,optimized,1.4,5.04913486137539
+scsf,10.377762907868,optimized,1.5,5.19912767388209
+scsf,10.377762907868,optimized,1.6,5.33104551979824
+scsf,10.377762907868,optimized,1.7,5.44618546707545
+scsf,10.377762907868,optimized,1.8,5.54570914350872
+scsf,10.377762907868,optimized,1.9,5.63067876062208
+scsf,10.377762907868,optimized,2,5.70207851462609
+scsf,10.377762907868,optimized,2.1,5.76082762686915
+scsf,10.377762907868,optimized,2.2,5.80778864711295
+scsf,10.377762907868,optimized,2.3,5.84377306917206
+scsf,10.377762907868,optimized,2.4,5.86954542349182
+scsf,10.377762907868,optimized,2.5,5.88582648400515
+scsf,10.377762907868,optimized,2.6,5.89329594366723
+scsf,10.377762907868,optimized,2.7,5.8925947638618
+scsf,10.377762907868,optimized,2.8,5.88432729692335
+scsf,10.377762907868,optimized,2.9,5.86906324478731
+scsf,10.377762907868,optimized,3,5.84733949253973
+scsf,10.377762907868,optimized,3.1,5.81966183657957
+scsf,10.377762907868,optimized,3.2,5.78650661894359
+scsf,10.377762907868,optimized,3.3,5.7483222683469
+scsf,10.377762907868,optimized,3.4,5.70553076699019
+scsf,10.377762907868,optimized,3.5,5.65852904547974
+scsf,10.377762907868,optimized,3.6,5.60769030500383
+scsf,10.377762907868,optimized,3.7,5.55336527814223
+scsf,10.377762907868,optimized,3.8,5.49588341866307
+scsf,10.377762907868,optimized,3.9,5.43555403199891
+scsf,10.377762907868,optimized,4,5.37266735226385
+scsf,10.377762907868,optimized,4.1,5.3074955664119
+scsf,10.377762907868,optimized,4.2,5.24029378517472
+scsf,10.377762907868,optimized,4.3,5.17130096480371
+scsf,10.377762907868,optimized,4.4,5.10074078254937
+scsf,10.377762907868,optimized,4.5,5.02882246692322
+scsf,10.377762907868,optimized,4.6,4.95574158643143
+scsf,10.377762907868,optimized,4.7,4.88168079864652
+scsf,10.377762907868,optimized,4.8,4.80681056111477
+scsf,10.377762907868,optimized,4.9,4.73128980557689
+scsf,10.377762907868,optimized,5,4.65526657775364
+scsf,10.377762907868,optimized,5.1,4.57887864550948
+scsf,10.377762907868,optimized,5.2,4.50225407436668
+scsf,10.377762907868,optimized,5.3,4.42551177350524
+scsf,10.377762907868,optimized,5.4,4.34876201378322
+scsf,10.377762907868,optimized,5.5,4.27210692006361
+scsf,10.377762907868,optimized,5.6,4.19564093708764
+scsf,10.377762907868,optimized,5.7,4.11945127029713
+scsf,10.377762907868,optimized,5.8,4.04361830642956
+scsf,10.377762907868,optimized,5.9,3.96821600958945
+scsf,10.377762907868,optimized,6,3.89331229722857
+scsf,10.377762907868,optimized,6.1,3.81896939656644
+scsf,10.377762907868,optimized,6.2,3.74524418247036
+scsf,10.377762907868,optimized,6.3,3.67218849749448
+scsf,10.377762907868,optimized,6.4,3.59984945480842
+scsf,10.377762907868,optimized,6.5,3.52826972473415
+scsf,10.377762907868,optimized,6.6,3.45748780658301
+scsf,10.377762907868,optimized,6.7,3.38753828758042
+scsf,10.377762907868,optimized,6.8,3.31845208317484
+scsf,10.377762907868,optimized,6.9,3.25025666834399
+scsf,10.377762907868,optimized,7,3.18297629558519
+scsf,10.377762907868,optimized,7.1,3.11663220099059
+scsf,10.377762907868,optimized,7.2,3.05124279898146
+scsf,10.377762907868,optimized,7.3,2.98682386603395
+scsf,10.377762907868,optimized,7.4,2.92338871559814
+scsf,10.377762907868,optimized,7.5,2.86094836316259
+scsf,10.377762907868,optimized,7.6,2.7995116796114
+scsf,10.377762907868,optimized,7.7,2.73908553891792
+scsf,10.377762907868,optimized,7.8,2.67967495683528
+scsf,10.377762907868,optimized,7.9,2.62128322175131
+scsf,10.377762907868,optimized,8,2.56391201774069
+scsf,10.377762907868,optimized,8.1,2.50756154213267
+scsf,10.377762907868,optimized,8.2,2.45223061441175
+scsf,10.377762907868,optimized,8.3,2.3979167797749
+scsf,10.377762907868,optimized,8.4,2.34461640688957
+scsf,10.377762907868,optimized,8.5,2.29232477955473
+scsf,10.377762907868,optimized,8.6,2.24103618410806
+scsf,10.377762907868,optimized,8.7,2.19074399039691
+scsf,10.377762907868,optimized,8.8,2.14144072816817
+scsf,10.377762907868,optimized,8.9,2.09311815963728
+scsf,10.377762907868,optimized,9,2.04576734699049
+scsf,10.377762907868,optimized,9.1,1.99937871709957
+scsf,10.377762907868,optimized,9.2,1.95394212119387
+scsf,10.377762907868,optimized,9.3,1.90944688994066
+scsf,10.377762907868,optimized,9.4,1.865881887024
+scsf,10.377762907868,optimized,9.5,1.82323555827032
+scsf,10.377762907868,optimized,9.6,1.78149597940774
+scsf,10.377762907868,optimized,9.7,1.74065089772431
+scsf,10.377762907868,optimized,9.8,1.70068777347068
+scsf,10.377762907868,optimized,9.9,1.66159381762294
+scsf,10.377762907868,optimized,10,1.62335602860854
+scsf,10.377762907868,optimized,10.1,1.58596122457058
+scsf,10.377762907868,optimized,10.2,1.54939607401291
+scsf,10.377762907868,optimized,10.3,1.51364712500653
+scsf,10.377762907868,optimized,10.4,1.47870083299202
+scsf,10.377762907868,optimized,10.5,1.44454358473398
+scsf,10.377762907868,optimized,10.6,1.41116172185201
+scsf,10.377762907868,optimized,10.7,1.37854156248239
+scsf,10.377762907868,optimized,10.8,1.34666942202513
+scsf,10.377762907868,optimized,10.9,1.31553163098251
+scsf,10.377762907868,optimized,11,1.28511455204752
+scsf,10.377762907868,optimized,11.1,1.25540459634307
+scsf,10.377762907868,optimized,11.2,1.2263882386212
+scsf,10.377762907868,optimized,11.3,1.19805202926479
+scsf,10.377762907868,optimized,11.4,1.17038260740409
+scsf,10.377762907868,optimized,11.5,1.14336671294766
+scsf,10.377762907868,optimized,11.6,1.11699119589315
+scsf,10.377762907868,optimized,11.7,1.0912430260172
+scsf,10.377762907868,optimized,11.8,1.06610930161864
+scsf,10.377762907868,optimized,11.9,1.04157725782898
+scsf,10.377762907868,optimized,12,1.01763427246729
+scsf,10.377762907868,optimized,12.1,0.99426787295681
+scsf,10.377762907868,optimized,12.2,0.971465742616558
+scsf,10.377762907868,optimized,12.3,0.949215724285036
+scsf,10.377762907868,optimized,12.4,0.92750582544543
+scsf,10.377762907868,optimized,12.5,0.906324222741545
+scsf,10.377762907868,optimized,12.6,0.885659264173085
+scsf,10.377762907868,optimized,12.7,0.865499472479841
+scsf,10.377762907868,optimized,12.8,0.84583354808702
+scsf,10.377762907868,optimized,12.9,0.826650370311178
+scsf,10.377762907868,optimized,13,0.80793899915461
+scsf,10.377762907868,optimized,13.1,0.789688677422466
+scsf,10.377762907868,optimized,13.2,0.771888830361379
+scsf,10.377762907868,optimized,13.3,0.7545290669526
+scsf,10.377762907868,optimized,13.4,0.737599180521174
+scsf,10.377762907868,optimized,13.5,0.721089147965639
+scsf,10.377762907868,optimized,13.6,0.704989130242075
+scsf,10.377762907868,optimized,13.7,0.68928947179456
+scsf,10.377762907868,optimized,13.8,0.673980699550985
+scsf,10.377762907868,optimized,13.9,0.659053522568955
+scsf,10.377762907868,optimized,14,0.644498830785527
+scsf,10.377762907868,optimized,14.1,0.6303076935842
+scsf,10.377762907868,optimized,14.2,0.616471359127415
+scsf,10.377762907868,optimized,14.3,0.602981252056198
+scsf,10.377762907868,optimized,14.4,0.589828972397956
+scsf,10.377762907868,optimized,14.5,0.577006293772841
+scsf,10.377762907868,optimized,14.6,0.564505161271473
+scsf,10.377762907868,optimized,14.7,0.552317689989079
+scsf,10.377762907868,optimized,14.8,0.540436162619422
+scsf,10.377762907868,optimized,14.9,0.528853027488554
+scsf,10.377762907868,optimized,15,0.517560896595276
+scsf,10.377762907868,optimized,15.1,0.506552543015021
+scsf,10.377762907868,optimized,15.2,0.495820899029843
+scsf,10.377762907868,optimized,15.3,0.485359053517642
+scsf,10.377762907868,optimized,15.4,0.475160249718786
+scsf,10.377762907868,optimized,15.5,0.465217882913479
+scsf,10.377762907868,optimized,15.6,0.455525497814508
+scsf,10.377762907868,optimized,15.7,0.446076786372947
+scsf,10.377762907868,optimized,15.8,0.436865585112392
+scsf,10.377762907868,optimized,15.9,0.427885872818376
+scsf,10.377762907868,optimized,16,0.419131767988748
+scsf,10.377762907868,optimized,16.1,0.410597526366109
+scsf,10.377762907868,optimized,16.2,0.40227753849813
+scsf,10.377762907868,optimized,16.3,0.394166327208552
+scsf,10.377762907868,optimized,16.4,0.386258545168553
+scsf,10.377762907868,optimized,16.5,0.3785489724158
+scsf,10.377762907868,optimized,16.6,0.371032513908628
+scsf,10.377762907868,optimized,16.7,0.363704197090986
+scsf,10.377762907868,optimized,16.8,0.356559169485181
+scsf,10.377762907868,optimized,16.9,0.349592696246328
+scsf,10.377762907868,optimized,17,0.34280015788227
+scsf,10.377762907868,optimized,17.1,0.336177047727404
+scsf,10.377762907868,optimized,17.2,0.329718969818206
+scsf,10.377762907868,optimized,17.3,0.323421636353425
+scsf,10.377762907868,optimized,17.4,0.317280865634741
+scsf,10.377762907868,optimized,17.5,0.311292579603876
+scsf,10.377762907868,optimized,17.6,0.305452801786868
+scsf,10.377762907868,optimized,17.7,0.299757654922328
+scsf,10.377762907868,optimized,17.8,0.294203358957765
+scsf,10.377762907868,optimized,17.9,0.288786228751992
+scsf,10.377762907868,optimized,18,0.283502672104209
+scsf,10.377762907868,optimized,18.1,0.278349187569446
+scsf,10.377762907868,optimized,18.2,0.273322362478319
+scsf,10.377762907868,optimized,18.3,0.268418870905902
+scsf,10.377762907868,optimized,18.4,0.263635471651612
+scsf,10.377762907868,optimized,18.5,0.258969006390075
+scsf,10.377762907868,optimized,18.6,0.254416397590915
+scsf,10.377762907868,optimized,18.7,0.249974646872985
+scsf,10.377762907868,optimized,18.8,0.245640832845536
+scsf,10.377762907868,optimized,18.9,0.241412109720448
+scsf,10.377762907868,optimized,19,0.237285704964329
+scsf,10.377762907868,optimized,19.1,0.233258918165399
+scsf,10.377762907868,optimized,19.2,0.229329118751861
+scsf,10.377762907868,optimized,19.3,0.225493744788373
+scsf,10.377762907868,optimized,19.4,0.221750300961632
+scsf,10.377762907868,optimized,19.5,0.218096357217697
+scsf,10.377762907868,optimized,19.6,0.214529547031316
+scsf,10.377762907868,optimized,19.7,0.21104756590418
+scsf,10.377762907868,optimized,19.8,0.207648169874616
+scsf,10.377762907868,optimized,19.9,0.204329173923351
+scsf,10.377762907868,optimized,20,0.201088450687927
+scsf,10.377762907868,optimized,20.1,0.197923928797985
+scsf,10.377762907868,optimized,20.2,0.194833591779099
+scsf,10.377762907868,optimized,20.3,0.191815476350133
+scsf,10.377762907868,optimized,20.4,0.188867671473171
+scsf,10.377762907868,optimized,20.5,0.185988316506878
+scsf,10.377762907868,optimized,20.6,0.183175600671517
+scsf,10.377762907868,optimized,20.7,0.180427760874277
+scsf,10.377762907868,optimized,20.8,0.177743081542219
+scsf,10.377762907868,optimized,20.9,0.175119892348716
+scsf,10.377762907868,optimized,21,0.172556567991545
+scsf,10.377762907868,optimized,21.1,0.170051526384488
+scsf,10.377762907868,optimized,21.2,0.167603227875188
+scsf,10.377762907868,optimized,21.3,0.16521017414637
+scsf,10.377762907868,optimized,21.4,0.162870906885152
+scsf,10.377762907868,optimized,21.5,0.160584007224087
+scsf,10.377762907868,optimized,21.6,0.158348094080721
+scsf,10.377762907868,optimized,21.7,0.156161823939026
+scsf,10.377762907868,optimized,21.8,0.154023889026569
+scsf,10.377762907868,optimized,21.9,0.151933017332576
+scsf,10.377762907868,optimized,22,0.149887970658835
+scsf,10.377762907868,optimized,22.1,0.147887544500766
+scsf,10.377762907868,optimized,22.2,0.145930566952308
+scsf,10.377762907868,optimized,22.3,0.144015897479124
+scsf,10.377762907868,optimized,22.4,0.142142426916758
+scsf,10.377762907868,optimized,22.5,0.140309075574916
+scsf,10.377762907868,optimized,22.6,0.138514793500083
+scsf,10.377762907868,optimized,22.7,0.136758558925604
+scsf,10.377762907868,optimized,22.8,0.135039377830532
+scsf,10.377762907868,optimized,22.9,0.133356283406141
+scsf,10.377762907868,optimized,23,0.131708334717299
+scsf,10.377762907868,optimized,23.1,0.130094616878991
+scsf,10.377762907868,optimized,23.2,0.128514239416697
+scsf,10.377762907868,optimized,23.3,0.126966336371204
+scsf,10.377762907868,optimized,23.4,0.125450065294017
+scsf,10.377762907868,optimized,23.5,0.123964606534342
+scsf,10.377762907868,optimized,23.6,0.122509163109128
+scsf,10.377762907868,optimized,23.7,0.121082959264168
+scsf,10.377762907868,optimized,23.8,0.119685240863664
+scsf,10.377762907868,optimized,23.9,0.118315274099821
+scsf,10.377762907868,optimized,24,0.116972344859819
+scsf,10000000000,perfusion-limited,0,0
+scsf,10000000000,perfusion-limited,0.1,0.232662865853562
+scsf,10000000000,perfusion-limited,0.2,1.05549699497985
+scsf,10000000000,perfusion-limited,0.3,1.9187293203481
+scsf,10000000000,perfusion-limited,0.4,2.54705014533567
+scsf,10000000000,perfusion-limited,0.5,3.02777157784388
+scsf,10000000000,perfusion-limited,0.6,3.41994553392887
+scsf,10000000000,perfusion-limited,0.7,3.75435332592437
+scsf,10000000000,perfusion-limited,0.8,4.04713372824267
+scsf,10000000000,perfusion-limited,0.9,4.30708868638266
+scsf,10000000000,perfusion-limited,1,4.539334242805
+scsf,10000000000,perfusion-limited,1.1,4.74711631637961
+scsf,10000000000,perfusion-limited,1.2,4.93271435332115
+scsf,10000000000,perfusion-limited,1.3,5.09789193769079
+scsf,10000000000,perfusion-limited,1.4,5.24412235424412
+scsf,10000000000,perfusion-limited,1.5,5.37270231669141
+scsf,10000000000,perfusion-limited,1.6,5.48481008100416
+scsf,10000000000,perfusion-limited,1.7,5.58153586331415
+scsf,10000000000,perfusion-limited,1.8,5.66389842922999
+scsf,10000000000,perfusion-limited,1.9,5.73285474407096
+scsf,10000000000,perfusion-limited,2,5.78930610847648
+scsf,10000000000,perfusion-limited,2.1,5.8341024819607
+scsf,10000000000,perfusion-limited,2.2,5.86804584554162
+scsf,10000000000,perfusion-limited,2.3,5.89189302533328
+scsf,10000000000,perfusion-limited,2.4,5.9063581940064
+scsf,10000000000,perfusion-limited,2.5,5.91211515578562
+scsf,10000000000,perfusion-limited,2.6,5.90979947374964
+scsf,10000000000,perfusion-limited,2.7,5.90001047066138
+scsf,10000000000,perfusion-limited,2.8,5.88331311753832
+scsf,10000000000,perfusion-limited,2.9,5.86023982355966
+scsf,10000000000,perfusion-limited,3,5.83129213635101
+scsf,10000000000,perfusion-limited,3.1,5.79694235611118
+scsf,10000000000,perfusion-limited,3.2,5.75763506783993
+scsf,10000000000,perfusion-limited,3.3,5.71378859446519
+scsf,10000000000,perfusion-limited,3.4,5.66579638029586
+scsf,10000000000,perfusion-limited,3.5,5.61402830669445
+scsf,10000000000,perfusion-limited,3.6,5.5588319445414
+scsf,10000000000,perfusion-limited,3.7,5.50053373709866
+scsf,10000000000,perfusion-limited,3.8,5.43944012315009
+scsf,10000000000,perfusion-limited,3.9,5.37583860720291
+scsf,10000000000,perfusion-limited,4,5.30999877747605
+scsf,10000000000,perfusion-limited,4.1,5.24217327092952
+scsf,10000000000,perfusion-limited,4.2,5.1725986894328
+scsf,10000000000,perfusion-limited,4.3,5.10149646962689
+scsf,10000000000,perfusion-limited,4.4,5.02907370791208
+scsf,10000000000,perfusion-limited,4.5,4.95552394422562
+scsf,10000000000,perfusion-limited,4.6,4.8810279063955
+scsf,10000000000,perfusion-limited,4.7,4.80575421649523
+scsf,10000000000,perfusion-limited,4.8,4.72986006064169
+scsf,10000000000,perfusion-limited,4.9,4.6534918247866
+scsf,10000000000,perfusion-limited,5,4.57678569872466
+scsf,10000000000,perfusion-limited,5.1,4.49986824782161
+scsf,10000000000,perfusion-limited,5.2,4.42285695544634
+scsf,10000000000,perfusion-limited,5.3,4.3458607377942
+scsf,10000000000,perfusion-limited,5.4,4.2689804322959
+scsf,10000000000,perfusion-limited,5.5,4.1923092602998
+scsf,10000000000,perfusion-limited,5.6,4.1159332660778
+scsf,10000000000,perfusion-limited,5.7,4.03993173351848
+scsf,10000000000,perfusion-limited,5.8,3.96437757954104
+scsf,10000000000,perfusion-limited,5.9,3.88933772750226
+scsf,10000000000,perfusion-limited,6,3.81487346114791
+scsf,10000000000,perfusion-limited,6.1,3.74104076013949
+scsf,10000000000,perfusion-limited,6.2,3.66789061779521
+scsf,10000000000,perfusion-limited,6.3,3.59546934173092
+scsf,10000000000,perfusion-limited,6.4,3.52381883859258
+scsf,10000000000,perfusion-limited,6.5,3.45297688418206
+scsf,10000000000,perfusion-limited,6.6,3.38297737787385
+scsf,10000000000,perfusion-limited,6.7,3.31385058571359
+scsf,10000000000,perfusion-limited,6.8,3.24562336662581
+scsf,10000000000,perfusion-limited,6.9,3.17831938962731
+scsf,10000000000,perfusion-limited,7,3.11195933838709
+scsf,10000000000,perfusion-limited,7.1,3.04656110434248
+scsf,10000000000,perfusion-limited,7.2,2.98213996947108
+scsf,10000000000,perfusion-limited,7.3,2.91870877915514
+scsf,10000000000,perfusion-limited,7.4,2.85627810525985
+scsf,10000000000,perfusion-limited,7.5,2.7948564010922
+scsf,10000000000,perfusion-limited,7.6,2.73445014509093
+scsf,10000000000,perfusion-limited,7.7,2.67506397937905
+scsf,10000000000,perfusion-limited,7.8,2.61670083953317
+scsf,10000000000,perfusion-limited,7.9,2.55936207696225
+scsf,10000000000,perfusion-limited,8,2.50304757369525
+scsf,10000000000,perfusion-limited,8.1,2.4477558533095
+scsf,10000000000,perfusion-limited,8.2,2.39348418181585
+scsf,10000000000,perfusion-limited,8.3,2.34022866443246
+scsf,10000000000,perfusion-limited,8.4,2.28798433706911
+scsf,10000000000,perfusion-limited,8.5,2.23674525200535
+scsf,10000000000,perfusion-limited,8.6,2.18650455911043
+scsf,10000000000,perfusion-limited,8.7,2.13725458200619
+scsf,10000000000,perfusion-limited,8.8,2.08898688850878
+scsf,10000000000,perfusion-limited,8.9,2.04169235866089
+scsf,10000000000,perfusion-limited,9,1.99536124761635
+scsf,10000000000,perfusion-limited,9.1,1.94998324552507
+scsf,10000000000,perfusion-limited,9.2,1.90554753306487
+scsf,10000000000,perfusion-limited,9.3,1.86204283267195
+scsf,10000000000,perfusion-limited,9.4,1.81945745837378
+scsf,10000000000,perfusion-limited,9.5,1.77777936138085
+scsf,10000000000,perfusion-limited,9.6,1.73699617417169
+scsf,10000000000,perfusion-limited,9.7,1.69709524927102
+scsf,10000000000,perfusion-limited,9.8,1.65806369751598
+scsf,10000000000,perfusion-limited,9.9,1.6198884230182
+scsf,10000000000,perfusion-limited,10,1.58255615694504
+scsf,10000000000,perfusion-limited,10.1,1.54605348724266
+scsf,10000000000,perfusion-limited,10.2,1.51036688697394
+scsf,10000000000,perfusion-limited,10.3,1.47548274126815
+scsf,10000000000,perfusion-limited,10.4,1.44138737270409
+scsf,10000000000,perfusion-limited,10.5,1.4080670636752
+scsf,10000000000,perfusion-limited,10.6,1.37550807757477
+scsf,10000000000,perfusion-limited,10.7,1.34369667864444
+scsf,10000000000,perfusion-limited,10.8,1.31261915136889
+scsf,10000000000,perfusion-limited,10.9,1.28226181629333
+scsf,10000000000,perfusion-limited,11,1.25261104569651
+scsf,10000000000,perfusion-limited,11.1,1.22365327824587
+scsf,10000000000,perfusion-limited,11.2,1.19537503299899
+scsf,10000000000,perfusion-limited,11.3,1.16776292015802
+scsf,10000000000,perfusion-limited,11.4,1.14080365291376
+scsf,10000000000,perfusion-limited,11.5,1.11448405817057
+scsf,10000000000,perfusion-limited,11.6,1.08879108503987
+scsf,10000000000,perfusion-limited,11.7,1.06371181333461
+scsf,10000000000,perfusion-limited,11.8,1.03923346151068
+scsf,10000000000,perfusion-limited,11.9,1.01534339392788
+scsf,10000000000,perfusion-limited,12,0.992029125900623
+scsf,10000000000,perfusion-limited,12.1,0.969278329774998
+scsf,10000000000,perfusion-limited,12.2,0.947078840531056
+scsf,10000000000,perfusion-limited,12.3,0.925418658798159
+scsf,10000000000,perfusion-limited,12.4,0.904285955238849
+scsf,10000000000,perfusion-limited,12.5,0.883669074382943
+scsf,10000000000,perfusion-limited,12.6,0.863556536410796
+scsf,10000000000,perfusion-limited,12.7,0.843937039801677
+scsf,10000000000,perfusion-limited,12.8,0.824799464019519
+scsf,10000000000,perfusion-limited,12.9,0.806132870038586
+scsf,10000000000,perfusion-limited,13,0.787926501804003
+scsf,10000000000,perfusion-limited,13.1,0.770169787785582
+scsf,10000000000,perfusion-limited,13.2,0.752852340458577
+scsf,10000000000,perfusion-limited,13.3,0.735963957044444
+scsf,10000000000,perfusion-limited,13.4,0.719494619947815
+scsf,10000000000,perfusion-limited,13.5,0.703434495642309
+scsf,10000000000,perfusion-limited,13.6,0.687773934731937
+scsf,10000000000,perfusion-limited,13.7,0.672503471302356
+scsf,10000000000,perfusion-limited,13.8,0.657613821551571
+scsf,10000000000,perfusion-limited,13.9,0.643095883289651
+scsf,10000000000,perfusion-limited,14,0.628940734399035
+scsf,10000000000,perfusion-limited,14.1,0.615139631269607
+scsf,10000000000,perfusion-limited,14.2,0.601684007852405
+scsf,10000000000,perfusion-limited,14.3,0.588565473343393
+scsf,10000000000,perfusion-limited,14.4,0.575775810808462
+scsf,10000000000,perfusion-limited,14.5,0.56330697536436
+scsf,10000000000,perfusion-limited,14.6,0.551151091892818
+scsf,10000000000,perfusion-limited,14.7,0.53930045340619
+scsf,10000000000,perfusion-limited,14.8,0.527747518634494
+scsf,10000000000,perfusion-limited,14.9,0.516484909866894
+scsf,10000000000,perfusion-limited,15,0.505505411012471
+scsf,10000000000,perfusion-limited,15.1,0.494801964860834
+scsf,10000000000,perfusion-limited,15.2,0.484367671154394
+scsf,10000000000,perfusion-limited,15.3,0.474195783933269
+scsf,10000000000,perfusion-limited,15.4,0.464279709243358
+scsf,10000000000,perfusion-limited,15.5,0.454613002767939
+scsf,10000000000,perfusion-limited,15.6,0.445189367218701
+scsf,10000000000,perfusion-limited,15.7,0.436002650052039
+scsf,10000000000,perfusion-limited,15.8,0.42704684084241
+scsf,10000000000,perfusion-limited,15.9,0.418316068894228
+scsf,10000000000,perfusion-limited,16,0.409804600712216
+scsf,10000000000,perfusion-limited,16.1,0.401506837510809
+scsf,10000000000,perfusion-limited,16.2,0.393417312756641
+scsf,10000000000,perfusion-limited,16.3,0.385530689663909
+scsf,10000000000,perfusion-limited,16.4,0.377841758732349
+scsf,10000000000,perfusion-limited,16.5,0.370345435302296
+scsf,10000000000,perfusion-limited,16.6,0.363036757092659
+scsf,10000000000,perfusion-limited,16.7,0.355910881788581
+scsf,10000000000,perfusion-limited,16.8,0.348963084650796
+scsf,10000000000,perfusion-limited,16.9,0.342188756065663
+scsf,10000000000,perfusion-limited,17,0.335583399305631
+scsf,10000000000,perfusion-limited,17.1,0.329142628005468
+scsf,10000000000,perfusion-limited,17.2,0.322862164064542
+scsf,10000000000,perfusion-limited,17.3,0.316737835141927
+scsf,10000000000,perfusion-limited,17.4,0.310765572599068
+scsf,10000000000,perfusion-limited,17.5,0.304941409054006
+scsf,10000000000,perfusion-limited,17.6,0.29926147639544
+scsf,10000000000,perfusion-limited,17.7,0.293722003399104
+scsf,10000000000,perfusion-limited,17.8,0.288319313779245
+scsf,10000000000,perfusion-limited,17.9,0.283049823917468
+scsf,10000000000,perfusion-limited,18,0.277910040899577
+scsf,10000000000,perfusion-limited,18.1,0.272896560407101
+scsf,10000000000,perfusion-limited,18.2,0.268006064700297
+scsf,10000000000,perfusion-limited,18.3,0.263235320709546
+scsf,10000000000,perfusion-limited,18.4,0.258581177935687
+scsf,10000000000,perfusion-limited,18.5,0.254040566772582
+scsf,10000000000,perfusion-limited,18.6,0.249610496298283
+scsf,10000000000,perfusion-limited,18.7,0.245288052881489
+scsf,10000000000,perfusion-limited,18.8,0.24107039776081
+scsf,10000000000,perfusion-limited,18.9,0.236954765954471
+scsf,10000000000,perfusion-limited,19,0.232938463817359
+scsf,10000000000,perfusion-limited,19.1,0.229018867984591
+scsf,10000000000,perfusion-limited,19.2,0.225193423109513
+scsf,10000000000,perfusion-limited,19.3,0.221459640711859
+scsf,10000000000,perfusion-limited,19.4,0.217815097154681
+scsf,10000000000,perfusion-limited,19.5,0.214257432386465
+scsf,10000000000,perfusion-limited,19.6,0.210784348135918
+scsf,10000000000,perfusion-limited,19.7,0.207393606581016
+scsf,10000000000,perfusion-limited,19.8,0.204083028732504
+scsf,10000000000,perfusion-limited,19.9,0.200850493048779
+scsf,10000000000,perfusion-limited,20,0.19769393399661
+scsf,10000000000,perfusion-limited,20.1,0.194611340645499
+scsf,10000000000,perfusion-limited,20.2,0.191600755341052
+scsf,10000000000,perfusion-limited,20.3,0.188660272193476
+scsf,10000000000,perfusion-limited,20.4,0.185788036167862
+scsf,10000000000,perfusion-limited,20.5,0.182982241194361
+scsf,10000000000,perfusion-limited,20.6,0.180241129715279
+scsf,10000000000,perfusion-limited,20.7,0.177562990550208
+scsf,10000000000,perfusion-limited,20.8,0.174946158683497
+scsf,10000000000,perfusion-limited,20.9,0.172389013115873
+scsf,10000000000,perfusion-limited,21,0.169889976624845
+scsf,10000000000,perfusion-limited,21.1,0.167447513918662
+scsf,10000000000,perfusion-limited,21.2,0.165060131037328
+scsf,10000000000,perfusion-limited,21.3,0.162726374086684
+scsf,10000000000,perfusion-limited,21.4,0.160444828138498
+scsf,10000000000,perfusion-limited,21.5,0.158214116503107
+scsf,10000000000,perfusion-limited,21.6,0.15603289929379
+scsf,10000000000,perfusion-limited,21.7,0.153899873066662
+scsf,10000000000,perfusion-limited,21.8,0.151813769041578
+scsf,10000000000,perfusion-limited,21.9,0.149773353260923
+scsf,10000000000,perfusion-limited,22,0.147777424543859
+scsf,10000000000,perfusion-limited,22.1,0.145824814456629
+scsf,10000000000,perfusion-limited,22.2,0.143914386229191
+scsf,10000000000,perfusion-limited,22.3,0.142045033570895
+scsf,10000000000,perfusion-limited,22.4,0.140215680603036
+scsf,10000000000,perfusion-limited,22.5,0.138425280110597
+scsf,10000000000,perfusion-limited,22.6,0.136672813754061
+scsf,10000000000,perfusion-limited,22.7,0.134957290480612
+scsf,10000000000,perfusion-limited,22.8,0.133277746269604
+scsf,10000000000,perfusion-limited,22.9,0.131633243414645
+scsf,10000000000,perfusion-limited,23,0.130022869402002
+scsf,10000000000,perfusion-limited,23.1,0.128445736943054
+scsf,10000000000,perfusion-limited,23.2,0.126900982451822
+scsf,10000000000,perfusion-limited,23.3,0.125387766269282
+scsf,10000000000,perfusion-limited,23.4,0.123905271315271
+scsf,10000000000,perfusion-limited,23.5,0.122452702727279
+scsf,10000000000,perfusion-limited,23.6,0.121029287694026
+scsf,10000000000,perfusion-limited,23.7,0.119634273926919
+scsf,10000000000,perfusion-limited,23.8,0.118266930154934
+scsf,10000000000,perfusion-limited,23.9,0.116926544820566
+scsf,10000000000,perfusion-limited,24,0.115612425476391

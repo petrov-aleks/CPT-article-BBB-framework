@@ -1,0 +1,16 @@
+Parameter,Value,Unit,Basis
+MW,357.8,g/mol,DrugBank
+logP,4.27,unitless,DrugBank
+ionic_class,acid,unitless,DrugBank
+pKa,4.5,unitless,DrugBank
+BP,0.57,unitless,Calculated from erythrocyte-to-plasma ratio and hematocrit
+EP,0.024,unitless,Bruguerolle 1986
+fu_plasma,0.01,unitless,Obach 2008
+fu_brain_plasma,0.01,unitless,Assumed equal to fraction unbound in plasma
+fu_brain_ecf,1,unitless,Protein binding assumed negligible
+fu_brain_icf,0.055,unitless,Di 2011
+albumin_csf_to_plasma_ratio,0.005,unitless,Friden 2009
+pH_brain_plasma,7.4,unitless,Physiological pH
+pH_brain_ecf,7.3,unitless,Physiological pH
+pH_brain_icf,7.0,unitless,Physiological pH
+pH_csf,7.3,unitless,Physiological pH

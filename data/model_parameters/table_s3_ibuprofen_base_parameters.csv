@@ -1,0 +1,15 @@
+Parameter,Value,Unit,Basis
+MW,206.28,g/mol,DrugBank
+logP,3.97,unitless,DrugBank
+ionic_class,acid,unitless,DrugBank
+pKa,5.3,unitless,DrugBank
+BP,0.57,unitless,Obach 1999
+fu_plasma,0.01,unitless,Obach 1999
+fu_brain_plasma,0.01,unitless,Assumed equal to fraction unbound in plasma
+fu_brain_ecf,1,unitless,Protein binding assumed negligible
+fu_brain_icf,0.29,unitless,Summerfield 2006
+albumin_csf_to_plasma_ratio,0.005,unitless,Friden 2009
+pH_brain_plasma,7.4,unitless,Physiological pH
+pH_brain_ecf,7.3,unitless,Physiological pH
+pH_brain_icf,7.0,unitless,Physiological pH
+pH_csf,7.3,unitless,Physiological pH

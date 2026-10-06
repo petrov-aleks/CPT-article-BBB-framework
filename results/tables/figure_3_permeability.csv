@@ -1,0 +1,30 @@
+Compound,Source,PS_BBB_L_per_h,Reference
+Ibuprofen,in situ perfusion,159732,Smith et al. 2024
+Ibuprofen,in vitro Caco-2,159300,Avdeef 2012
+Ibuprofen,in vitro PAMPA,1242,Tsinman et al. 2011
+Ibuprofen,in silico perfusion,93885,Smith et al. 2024
+Ibuprofen,in silico PAMPA,1331,Tsinman et al. 2011
+Indomethacin,in situ perfusion,76212,Smith et al. 2024
+Indomethacin,in vitro Caco-2,83646,Avdeef 2012
+Indomethacin,in vitro PAMPA,1134,Tsinman et al. 2011
+Indomethacin,in silico perfusion,135713,Smith et al. 2024
+Indomethacin,in silico PAMPA,1810,Tsinman et al. 2011
+Diazepam,in situ perfusion,4698,Smith et al. 2024
+Diazepam,in vitro MDCK,34,Avdeef 2012
+Diazepam,in vitro PAMPA,80,Tsinman et al. 2011
+Diazepam,in silico perfusion,7770,Smith et al. 2024
+Diazepam,in silico PAMPA,166,Tsinman et al. 2011
+Ethanol,in situ perfusion,222,Smith et al. 2024
+Ethanol,ex vivo UC,24,Rubbens et al. 2017
+Ethanol,in silico perfusion,29,Smith et al. 2024
+Ethanol,in silico PAMPA,1.6,Tsinman et al. 2011
+Paracetamol,in situ perfusion,20,Avdeef 2012
+Paracetamol,in vitro MDCK,5,Bowman et al. 2023
+Paracetamol,in vitro PAMPA,0.076,Bowman et al. 2023
+Paracetamol,in silico perfusion,83,Smith et al. 2024
+Paracetamol,in silico PAMPA,3.8,Tsinman et al. 2011
+Mannitol,in situ perfusion,0.046,Smith et al. 2024
+Mannitol,in vitro MDCK,0.28,Shah et al. 2007
+Mannitol,in vitro PAMPA,0.039,Könczöl et al. 2013
+Mannitol,in silico perfusion,0.052,Smith et al. 2024
+Mannitol,in silico PAMPA,0.0081,Tsinman et al. 2011

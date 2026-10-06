@@ -1,0 +1,5 @@
+Source,ModelClass,Mean_GMFE,SD_GMFE,N
+in silico perfusion (Smith et al. 2024),perfusion,1.79242095084482,0.50493432375832,6
+in silico perfusion (Luco et al. 2006),perfusion,2.28546536517559,1.71075376791536,6
+in silico PAMPA (Tsinman et al. 2011),PAMPA,1.94639241630748,0.663366703545588,6
+in silico PAMPA (Grumetto et al. 2016),PAMPA,9.31515705049277,16.8101912538662,6

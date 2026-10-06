@@ -1,0 +1,25 @@
+Compound,Source,ModelClass,Model,Reference,logP,MW_g_per_mol,RawPredictedValue,ScaledPredictedValue,PS_BBB_L_per_h
+Ethanol,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,Smith et al. 2024,-0.31,46.07,0.00558861282257072,56,29
+Ethanol,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,Luco et al. 2006,-0.31,46.07,0.00429045943298676,43,22
+Ethanol,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman-based model,Tsinman et al. 2011,-0.31,46.07,2.90990343928613e-06,2.9,1.6
+Ethanol,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,Grumetto et al. 2016,-0.31,46.07,3.15435087112111e-07,0.32,0.17
+Diazepam,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,Smith et al. 2024,2.82,284.74,1.48864827602217,14886,7770
+Diazepam,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,Luco et al. 2006,2.82,284.74,0.0144947790630689,145,76
+Diazepam,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman-based model,Tsinman et al. 2011,2.82,284.74,0.000307957774475825,308,166
+Diazepam,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,Grumetto et al. 2016,2.82,284.74,0.000274144792067855,274,148
+Paracetamol,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,Smith et al. 2024,0.46,151.16,0.0159015603670963,159,83
+Paracetamol,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,Luco et al. 2006,0.46,151.16,0.00391592531235506,39,20
+Paracetamol,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman-based model,Tsinman et al. 2011,0.46,151.16,6.96556686969335e-06,7,3.8
+Paracetamol,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,Grumetto et al. 2016,0.46,151.16,1.66701688974689e-06,1.7,0.92
+Ibuprofen,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,Smith et al. 2024,3.97,206.28,17.9857381388906,179857,93885
+Ibuprofen,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,Luco et al. 2006,3.97,206.28,0.0919549685092669,920,480
+Ibuprofen,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman-based model,Tsinman et al. 2011,3.97,206.28,0.00246476758143693,2465,1331
+Ibuprofen,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,Grumetto et al. 2016,3.97,206.28,0.00329480715176703,3295,1779
+Indomethacin,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,Smith et al. 2024,4.27,357.8,25.9986328430623,259986,135713
+Indomethacin,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,Luco et al. 2006,4.27,357.8,0.0349471689853122,349,182
+Indomethacin,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman-based model,Tsinman et al. 2011,4.27,357.8,0.00335235766472746,3352,1810
+Indomethacin,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,Grumetto et al. 2016,4.27,357.8,0.00630274882333597,6303,3404
+Mannitol,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,Smith et al. 2024,-3.1,182.17,1.01807204713735e-05,0.1,0.052
+Mannitol,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,Luco et al. 2006,-3.1,182.17,7.66404065757994e-05,0.77,0.4
+Mannitol,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman-based model,Tsinman et al. 2011,-3.1,182.17,1.50359705717972e-08,0.015,0.0081
+Mannitol,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,Grumetto et al. 2016,-3.1,182.17,7.57007182299967e-10,0.00076,0.00041

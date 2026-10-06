@@ -1,0 +1,19 @@
+Parameter,Value,Unit,Reference
+brain_tissue_volume,1.45,L,ICRP Publication 89
+brain_blood_volume,0.064,L,ICRP Publication 89
+endothelial_fraction_of_total_brain,0.005,dimensionless,Simcyp; Verscheijden et al. 2019
+csf_fraction_of_total_brain,0.105,dimensionless,Simcyp; Verscheijden et al. 2019
+cranial_fraction_of_total_csf,0.8,dimensionless,Simcyp; Verscheijden et al. 2019
+brain_ecf_fraction,0.2,dimensionless,Saleh et al. 2021
+cerebral_blood_flow,46.8,L/h,ICRP Publication 89
+csf_production_rate,0.021,L/h,Simcyp; Verscheijden et al. 2019
+bulk_flow_fraction,0.25,dimensionless,Simcyp; Verscheijden et al. 2019
+spinal_sink_fraction,0.38,dimensionless,Simcyp; Verscheijden et al. 2019
+spinal_outflow_fraction,0.9,dimensionless,Simcyp; Verscheijden et al. 2019
+bbb_surface_area,15,m^2,Gaohua et al. 2016; Saleh et al. 2021
+bcsfb_to_bbb_surface_area_ratio,0.5,dimensionless,Bowman et al. 2023; Gaohua et al. 2016
+bcm_to_bbb_surface_area_ratio,20,dimensionless,Bowman et al. 2023; Saleh et al. 2021
+brain_plasma_pH,7.4,pH,Atherton 2003; Saleh et al. 2021
+csf_pH,7.3,pH,Fridén et al. 2011; Saleh et al. 2021
+brain_ecf_pH,7.3,pH,Fridén et al. 2011; Saleh et al. 2021
+brain_icf_pH,7,pH,Fridén et al. 2011; Saleh et al. 2021

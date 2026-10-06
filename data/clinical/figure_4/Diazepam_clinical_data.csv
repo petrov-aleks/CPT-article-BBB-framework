@@ -1,0 +1,13 @@
+site,source,time,conc,sd_down,sd_up
+plasma,Kanto et al. 1975,0.5,132,121.67,121.67
+plasma,Kanto et al. 1975,1,143,95.22,95.22
+plasma,Kanto et al. 1975,2,67,47.61,47.61
+plasma,Kanto et al. 1975,3,101,68.77,68.77
+plasma,Kanto et al. 1975,6,56,39.675,39.675
+plasma,Kanto et al. 1975,24,52,18.515,18.515
+scsf,Kanto et al. 1975,0.5,2.4,2.1689,2.1689
+scsf,Kanto et al. 1975,1,4.7,4.653,4.84035
+scsf,Kanto et al. 1975,2,1.9,1.7457,1.7457
+scsf,Kanto et al. 1975,3,3.5,3.465,3.94105
+scsf,Kanto et al. 1975,6,0.86,0.8514,1.9044
+scsf,Kanto et al. 1975,24,0.82,0.8118,1.9573

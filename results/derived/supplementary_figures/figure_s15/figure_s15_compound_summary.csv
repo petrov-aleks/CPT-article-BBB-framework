@@ -1,0 +1,25 @@
+Compound,Site,Source,ModelClass,Reference,PS_BBB_L_per_h,GMR,GMFE,N_observations
+Ethanol,brain ECF,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,29,1.3084356792762,1.47858200593303,22
+Ethanol,brain ECF,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,22,1.29538181693499,1.47900857710866,22
+Ethanol,brain ECF,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011,1.6,0.840887675965734,1.65888460128744,22
+Ethanol,brain ECF,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,0.17,0.223097781800177,4.48233950123123,22
+Diazepam,sCSF,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,7770,0.463051547384231,2.51385046882618,6
+Diazepam,sCSF,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,76,0.41296451383133,2.82527255327343,6
+Diazepam,sCSF,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011,166,0.441487291494041,2.63917508921713,6
+Diazepam,sCSF,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,148,0.438433359637996,2.65792540190769,6
+Paracetamol,sCSF,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,83,1.10163117696887,1.25527143505999,33
+Paracetamol,sCSF,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,20,1.07001289381531,1.22656412027785,33
+Paracetamol,sCSF,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011,3.8,0.926636669904041,1.25358378334413,33
+Paracetamol,sCSF,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,0.92,0.654982846558189,1.68302110981388,33
+Ibuprofen,sCSF,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,93885,1.47853355342612,1.47853355342612,3
+Ibuprofen,sCSF,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,480,1.06708316692262,1.14730261649774,3
+Ibuprofen,sCSF,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011,1331,1.30340776071245,1.30340776071245,3
+Ibuprofen,sCSF,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,1779,1.34830364822579,1.34830364822579,3
+Indomethacin,sCSF,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,135713,2.30608649102356,2.30608649102356,13
+Indomethacin,sCSF,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,182,0.762008300725943,1.48754393558807,13
+Indomethacin,sCSF,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011,1810,2.01711202834649,2.01711202834649,13
+Indomethacin,sCSF,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,3404,2.16415102448821,2.16415102448821,13
+Mannitol,sCSF,in silico perfusion (Smith et al. 2024),perfusion,Smith et al. 2024,0.052,1.4000344549027,1.72220175080006,6
+Mannitol,sCSF,in silico perfusion (Luco et al. 2006),perfusion,Luco et al. 2006,0.4,5.54710038830781,5.54710038830781,6
+Mannitol,sCSF,in silico PAMPA (Tsinman et al. 2011),PAMPA,Tsinman et al. 2011,0.0081,0.35635490110223,2.80619123493722,6
+Mannitol,sCSF,in silico PAMPA (Grumetto et al. 2016),PAMPA,Grumetto et al. 2016,0.00041,0.0229593702443806,43.5552016172898,6

@@ -1,0 +1,16 @@
+site,source,time,conc,sd_down,sd_up
+plasma,Singla et al. 2012,0.25,3.42,3.41,7.6
+plasma,Singla et al. 2012,0.5,5.77,5.77,7.44
+plasma,Singla et al. 2012,0.75,6.14,6.12,6.61
+plasma,Singla et al. 2012,1,7.98,6.9,6.96
+plasma,Singla et al. 2012,2,8.57,2.08,2.18
+plasma,Singla et al. 2012,3,5.93,1.11,1.33
+plasma,Singla et al. 2012,4,5.1,1.23,0.78
+plasma,Singla et al. 2012,6,2.85,1,0.57
+scsf,Singla et al. 2012,0.5,0.18,0.14,0.24
+scsf,Singla et al. 2012,0.75,0.44,0.43,0.4
+scsf,Singla et al. 2012,1,0.91,0.77,0.7
+scsf,Singla et al. 2012,2,2.64,1.21,1.14
+scsf,Singla et al. 2012,3,3.69,1.2,1.16
+scsf,Singla et al. 2012,4,4.1,0.979999999999999,0.99
+scsf,Singla et al. 2012,6,3.29,0.67,0.59
