@@ -48,6 +48,9 @@ bundled toolbox retains its original BSD 2-Clause license.
 
 ## Quick start
 
+Running the workflow on a local computer requires a valid MATLAB license with
+the products listed above, or an active free MATLAB trial.
+
 1. Clone or download this repository.
 2. Open MATLAB R2025b.
 3. Set the repository root as the current MATLAB folder.
@@ -68,6 +71,22 @@ At the end of a successful run, MATLAB reports:
 PASS: all displayed numerical values in Tables 1 and S1-S5 match their CSV sources.
 Reproduction completed successfully.
 ```
+
+### Run without a MATLAB license
+
+The repository can also be reproduced using the free basic version of MATLAB
+Online:
+
+1. Create a free MathWorks account if you do not already have one.
+2. [Open the repository in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=petrov-aleks/CPT-article-BBB-framework&file=run_reproduction.m).
+   MATLAB Online will copy the repository to your MATLAB Drive.
+3. Run `run_reproduction.m`.
+
+This workflow was tested in MATLAB Online without regenerating the population
+simulations for Figure S9, that is, with
+`RUN_POPULATION_SIMULATIONS = false`. The stored population simulation results
+are used in this mode, and reproduction of all tables and figures takes a few
+minutes.
 
 ## Population simulations for Figure S9
 
